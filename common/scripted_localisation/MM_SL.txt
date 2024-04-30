@@ -166,6 +166,17 @@ defined_text = {
 		trigger = {
 			AND = {
 				tag = CAN
+				has_government = conservative_monarchism
+				has_start_date < 1915.01.01
+				has_start_date > 1913.01.01
+			}
+		}
+		localization_key = "Prime Minister Sir Robert Laird Borden"
+	}
+	text = {
+		trigger = {
+			AND = {
+				tag = CAN
 				has_government = democratic_monarchism
 				has_start_date > 1935.01.01
 				has_start_date < 1940.01.01
@@ -188,12 +199,12 @@ defined_text = {
 		trigger = {
 			AND = {
 				tag = CAN
-				has_government = conservative_monarchism
-				has_start_date < 1915.01.01
-				has_start_date > 1913.01.01
+				has_government = centrist_monarchism
+				has_start_date < 2000.01.01
+				has_start_date > 1990.01.01
 			}
 		}
-		localization_key = "Prime Minister Sir Robert Laird Borden"
+		localization_key = "Prime Minister Martin Brian Mulroney"
 	}
 	text = {
 		trigger = {
@@ -1040,22 +1051,22 @@ defined_text = {
 		trigger = {
 			AND = {
 				tag = TUR
-				has_government = neutrality
-				has_start_date > 2022.01.01
-				has_global_flag = non_hog_secondary_leaders
-			}
-		}
-		localization_key = "Cumhurbaşkanı Yardımcıs Cevdet Yılmaz"
-	}
-	text = {
-		trigger = {
-			AND = {
-				tag = TUR
 				has_government = authoritarian_monarchism
 				has_start_date < 1915.01.01
 			}
 		}
 		localization_key = "Vazīr-i A‘ẓam Meḥmed Sa‘īd Ḥalīm Pāşā"
+	}
+	text = {
+		trigger = {
+			AND = {
+				tag = TUR
+				has_government = neutrality
+				has_start_date > 1935.01.01
+				has_start_date < 1937.01.01
+			}
+		}
+		localization_key = "Başbakan Mustafa İsmet İnönü"
 	}
 	text = {
 		trigger = {
@@ -1083,12 +1094,23 @@ defined_text = {
 		trigger = {
 			AND = {
 				tag = TUR
-				has_government = neutrality
-				has_start_date > 1935.01.01
-				has_start_date < 1937.01.01
+				has_government = democratic
+				has_start_date > 1990.01.01
+				has_start_date < 2000.01.01
 			}
 		}
-		localization_key = "Başbakan Mustafa İsmet İnönü"
+		localization_key = "Başbakan Sami Süleyman Gündoğdu Demirel"
+	}
+	text = {
+		trigger = {
+			AND = {
+				tag = TUR
+				has_government = neutrality
+				has_start_date > 2022.01.01
+				has_global_flag = non_hog_secondary_leaders
+			}
+		}
+		localization_key = "Cumhurbaşkanı Yardımcıs Cevdet Yılmaz"
 	}
 	text = {
 		trigger = {
@@ -2217,11 +2239,11 @@ defined_text = {
 		trigger = {
 			AND = {
 				tag = LIE
-				has_government = centrist_monarchism
+				has_government = anocratic_monarchism
 				has_start_date > 2022.01.01
 			}
 		}
-		localization_key = "Prinzregent Alois von Liechtenstein"
+		localization_key = "Stellvertreter des Fürsten Alois Philipp Maria Erbprinz von und zu Liechtenstein, Graf zu Rietberg"
 	}
 	text = {
 		trigger = {
@@ -2549,7 +2571,7 @@ defined_text = {
 				has_start_date > 2022.01.01
 			}
 		}
-		localization_key = "Raʾīs Ḥukūmaẗ ʿAzīz Aẖannūš"
+		localization_key = "Raʾīs Ḥukūmaẗ ʿAzīz bin Aḥmad Aẖannūš"
 	}
 	text = {
 		trigger = {
@@ -3041,6 +3063,17 @@ defined_text = {
 		trigger = {
 			AND = {
 				tag = YUG
+				has_government = neutrality
+				has_start_date > 1990.01.01
+				has_start_date < 2000.01.01
+			}
+		}
+		localization_key = "Predsjednik Saveznog izvršnog vijeća Aleksandar Mitrović"
+	}
+	text = {
+		trigger = {
+			AND = {
+				tag = YUG
 				has_government = fascism
 			}
 		}
@@ -3097,6 +3130,17 @@ defined_text = {
 			}
 		}
 		localization_key = "Presednik Vlade Andrej Plenković"
+	}
+	text = {
+		trigger = {
+			AND = {
+				tag = SKR
+				has_government = anocratic_republic
+				has_start_date > 1992.01.01
+				has_start_date < 2000.01.01
+			}
+		}
+		localization_key = "Presednik Vlade Dušan Vještica"
 	}
 	text = {
 		trigger = {
@@ -3273,6 +3317,16 @@ defined_text = {
 	text = {
 		trigger = {
 			AND = {
+				tag = KUW
+				has_government = anocratic_monarchism
+				has_start_date > 2023.01.01
+			}
+		}
+		localization_key = "Raʾīs Maǧlis al-Wuzarāʾ aš-Šayẖ Aḥmad Nawāf al-Aḥmad aṣ-Ṣabāḥ"
+	}
+	text = {
+		trigger = {
+			AND = {
 				tag = BHR
 				has_government = authoritarian_monarchism
 				has_start_date > 2022.01.01
@@ -3370,6 +3424,17 @@ defined_text = {
 			}
 		}
 		localization_key = "Raʾīs Maǧlis al-Wuzarāʾ Šayẖ Muḥamamd bin Rāšid al-Maktūm"
+	}
+	text = {
+		trigger = {
+			AND = {
+				tag = JOR
+				has_government = authoritarian_monarchism
+				has_start_date > 1990.01.01
+				has_start_date < 2000.01.01
+			}
+		}
+		localization_key = "Raʾīs al-Wuzarāʾ Zayd bin Šākir bin Zayd bin Fawāz bin Nāṣir bin Fawāz bin ʿAwn, al-Amīr al-Hāšimī"
 	}
 	text = {
 		trigger = {
@@ -4192,6 +4257,17 @@ defined_text = {
 			AND = {
 				tag = COG
 				has_government = neutrality
+				has_start_date > 1990.01.01
+				has_start_date < 2000.01.01
+			}
+		}
+		localization_key = "Premier Ministre Jean Nguza Karl-i-Bond"
+	}
+	text = {
+		trigger = {
+			AND = {
+				tag = COG
+				has_government = neutrality
 				has_start_date > 2022.01.01
 			}
 		}
@@ -4575,6 +4651,17 @@ defined_text = {
 			}
 		}
 		localization_key = "GFX_Robert_Borden"
+	}
+	text = {
+		trigger = {
+			AND = {
+				tag = CAN
+				has_government = centrist_monarchism
+				has_start_date < 2000.01.01
+				has_start_date > 1990.01.01
+			}
+		}
+		localization_key = "GFX_Brian_Mulroney"
 	}
 	text = {
 		trigger = {
@@ -5215,22 +5302,22 @@ defined_text = {
 		trigger = {
 			AND = {
 				tag = TUR
-				has_government = neutrality
-				has_start_date > 2022.01.01
-				has_global_flag = non_hog_secondary_leaders
-			}
-		}
-		localization_key = "GFX_Cevdet_Yilmaz"
-	}
-	text = {
-		trigger = {
-			AND = {
-				tag = TUR
 				has_government = authoritarian_monarchism
 				has_start_date < 1915.01.01
 			}
 		}
 		localization_key = "GFX_Said_Halim_Pasha"
+	}
+	text = {
+		trigger = {
+			AND = {
+				tag = TUR
+				has_government = neutrality
+				has_start_date > 1935.01.01
+				has_start_date < 1937.01.01
+			}
+		}
+		localization_key = "GFX_Ismet_Inonu"
 	}
 	text = {
 		trigger = {
@@ -5258,12 +5345,23 @@ defined_text = {
 		trigger = {
 			AND = {
 				tag = TUR
-				has_government = neutrality
-				has_start_date > 1935.01.01
-				has_start_date < 1937.01.01
+				has_government = democratic
+				has_start_date > 1990.01.01
+				has_start_date < 2000.01.01
 			}
 		}
-		localization_key = "GFX_Ismet_Inonu"
+		localization_key = "GFX_Suleyman_Demirel"
+	}
+	text = {
+		trigger = {
+			AND = {
+				tag = TUR
+				has_government = neutrality
+				has_start_date > 2022.01.01
+				has_global_flag = non_hog_secondary_leaders
+			}
+		}
+		localization_key = "GFX_Cevdet_Yilmaz"
 	}
 	text = {
 		trigger = {
@@ -6696,7 +6794,7 @@ defined_text = {
 		trigger = {
 			AND = {
 				tag = LIE
-				has_government = centrist_monarchism
+				has_government = anocratic_monarchism
 				has_start_date > 2022.01.01
 			}
 		}
@@ -7063,6 +7161,7 @@ defined_text = {
 			AND = {
 				tag = KUW
 				has_government = anocratic_monarchism
+				has_start_date > 2023.01.01
 			}
 		}
 		localization_key = "GFX_Ahmed_Nawaf"
@@ -7176,6 +7275,17 @@ defined_text = {
 			}
 		}
 		localization_key = "GFX_Muhmmad_bin_Rashid"
+	}
+	text = {
+		trigger = {
+			AND = {
+				tag = JOR
+				has_government = authoritarian_monarchism
+				has_start_date > 1990.01.01
+				has_start_date < 2000.01.01
+			}
+		}
+		localization_key = "GFX_Zaid_bin_Shaker"
 	}
 	text = {
 		trigger = {
@@ -7831,6 +7941,17 @@ defined_text = {
 		trigger = {
 			AND = {
 				tag = YUG
+				has_government = neutrality
+				has_start_date > 1990.01.01
+				has_start_date < 2000.01.01
+			}
+		}
+		localization_key = "GFX_Aleksandar_Mitrovic"
+	}
+	text = {
+		trigger = {
+			AND = {
+				tag = YUG
 				has_government = fascism
 			}
 		}
@@ -7887,6 +8008,17 @@ defined_text = {
 			}
 		}
 		localization_key = "GFX_Andrej_Plenkovic"
+	}
+	text = {
+		trigger = {
+			AND = {
+				tag = SKR
+				has_government = anocratic_republic
+				has_start_date > 1992.01.01
+				has_start_date < 2000.01.01
+			}
+		}
+		localization_key = "GFX_Dusan_Vjestica"
 	}
 	text = {
 		trigger = {
@@ -8358,6 +8490,17 @@ defined_text = {
 			}
 		}
 		localization_key = "GFX_Anatole_Collinet_Makosso"
+	}
+	text = {
+		trigger = {
+			AND = {
+				tag = COG
+				has_government = neutrality
+				has_start_date > 1990.01.01
+				has_start_date < 2000.01.01
+			}
+		}
+		localization_key = "GFX_Jean_Karlibond"
 	}
 	text = {
 		trigger = {

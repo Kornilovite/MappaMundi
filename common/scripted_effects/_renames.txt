@@ -10804,6 +10804,17 @@ do_german_renames = {
 		}		
 		set_state_name = "Windland"
 	}
+	
+	if = {
+		limit = {
+			state = 2052
+		}
+		set_province_name = {
+			id = 9814
+			name = "Engelsland"
+		}		
+		set_state_name = "Engelsland"
+	}
 }
 do_burmese_renames = {
 
@@ -33622,11 +33633,31 @@ do_arabic_renames = {
 
 	if = {
 		limit = {
-			state = 3389
+			state = 658
 		}		
 		set_province_name = {
-			id = 7960
+			id = 8108
 			name = "Abu Zabi"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3332
+		}		
+		set_province_name = {
+			id = 14416
+			name = "Dubai"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 19814
+		}		
+		set_province_name = {
+			id = 9213
+			name = "Sharjah"
 		}
 	}
 
@@ -35900,11 +35931,31 @@ do_standard_arabic_renames = {
 
 	if = {
 		limit = {
-			state = 3389
+			state = 658
 		}		
 		set_province_name = {
-			id = 7960
+			id = 8108
 			name = "Abū Ẓabyi"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3332
+		}		
+		set_province_name = {
+			id = 14416
+			name = "Dubayy"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 19814
+		}		
+		set_province_name = {
+			id = 9213
+			name = "Aš-Šāriqah"
 		}
 	}
 
@@ -43286,6 +43337,17 @@ do_american_renames = {
 			name = "Chicago"
 		}		
 		set_state_name = "Chicago"
+	}
+	
+	if = {
+		limit = {
+			state = 2052
+		}
+		set_province_name = {
+			id = 9814
+			name = "Los Angeles"
+		}		
+		set_state_name = "Central Los Angeles"
 	}
 }
 
@@ -71552,11 +71614,31 @@ do_turkish_renames = {
 
 	if = {
 		limit = {
-			state = 3389
+			state = 658
 		}		
 		set_province_name = {
-			id = 7960
+			id = 8108
 			name = "Abu Dabi"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3332
+		}		
+		set_province_name = {
+			id = 14416
+			name = "Dübey"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 19814
+		}		
+		set_province_name = {
+			id = 9213
+			name = "Şârika"
 		}
 	}
 
@@ -77326,11 +77408,31 @@ do_italian_renames = {
 
 	if = {
 		limit = {
-			state = 3389
+			state = 658
 		}		
 		set_province_name = {
-			id = 7960
+			id = 8108
 			name = "Abu Dabi"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3332
+		}		
+		set_province_name = {
+			id = 14416
+			name = "Dubai"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 19814
+		}		
+		set_province_name = {
+			id = 9213
+			name = "Sharja"
 		}
 	}
 

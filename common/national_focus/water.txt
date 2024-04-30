@@ -1122,6 +1122,7 @@
 						transfer_state = 3649
 						transfer_state = 12853
 						transfer_state = 4142
+						transfer_state = 19842
 						set_cosmetic_tag = OTTO
 						set_politics = {
 							ruling_party = monarchism
@@ -3757,6 +3758,7 @@
 					PER = {
 						transfer_state = 12467
 						transfer_state = 3881
+						transfer_state = 19843
 						set_cosmetic_tag = PERSIA_YELLOW
 						set_politics = {
 							ruling_party = monarchism
@@ -7382,6 +7384,7 @@
 						transfer_state = 5911
 						transfer_state = 14440
 						transfer_state = 4209
+						transfer_state = 19842
 						set_capital = {
 							state = 341
 						}
@@ -7391,6 +7394,7 @@
 					}
 					PER = {
 						transfer_state = 12784
+						transfer_state = 19843
 					}
 					MNT = {
 						transfer_state = 5921
@@ -8506,9 +8510,7 @@
 						is_owned_by = MON
 					}
 				}
-				MON = {
-					add_core_of = PREV
-				}
+				add_core_of = MON
 			}
 			TAN = {
 				transfer_state = 14007
@@ -12146,7 +12148,7 @@
 					}
 					TUR = {
 						create_country_leader = {
-							name = "Cumhurbaşkani Mustafa İsmet İnönü"
+							name = "Cumhurbaşkanı Mustafa İsmet İnönü"
 							desc = ""
 							picture = "gfx/leaders/TUR/Portrait_Turkey_Mustafa_ismet_inonu.tga"
 							expire = "1965.1.1"
@@ -12250,7 +12252,7 @@
 								is_core_of = SHA
 							}
 						}
-						transfer_state = BRM
+						transfer_state_to = BRM
 					}
 					BRM = {
 						set_politics = {
@@ -12576,7 +12578,7 @@
 						create_country_leader = {
 							name = "Predsedátel' Kurbanbaj Xalikéev"
 							desc = ""
-							picture = 
+							picture = ""
 							expire = "1965.1.1"
 							ideology = totsoc
 						}
@@ -14145,7 +14147,7 @@
 					}
 					TUR = {
 						create_country_leader = {
-							name = "Cumhurbaşkani Mustafa İsmet İnönü "
+							name = "Cumhurbaşkanı Mustafa İsmet İnönü "
 							desc = ""
 							picture = "gfx/leaders/TUR/TUR_Inonu_1950.tga"
 							expire = "1965.1.1"
@@ -16341,6 +16343,38 @@
 							transfer_state_to = PREV
 						}
 					}
+					TUR = {
+						transfer_state = 5689
+						transfer_state = 5688
+						transfer_state = 898
+						transfer_state = 9848
+						transfer_state = 3618
+						set_politics = {
+							ruling_party = democratic
+						}
+						set_cosmetic_tag = TUR_1992
+						set_party_name = {
+							ideology = democratic
+							name = TUR_democratic_1992_party
+							long_name = TUR_democratic_1992_party_long
+						}
+						set_popularities = {
+							socialism_ideology = 19
+							liberal_republic = 2
+							centrist_republic = 26
+							democratic = 39
+							anocratic_republic = 14
+						}
+					}
+					TUR = {
+						create_country_leader = {
+							name = "Cumhurbaşkanı Halil Turgut Özal"
+							desc = ""
+							picture = "gfx/leaders/TUR/TUR_Ozal.tga"
+							expire = "1965.1.1"
+							ideology = conservatism
+						}
+					}
 					BUL = {
 						set_cosmetic_tag = BUL_1992
 						set_politics = {
@@ -16919,7 +16953,6 @@
 						transfer_state = 8646
 						transfer_state = 9244
 						transfer_state = 9245
-						transfer_state = 9587
 						transfer_state = 12224
 						transfer_state = 12250
 						transfer_state = 10132
@@ -17521,7 +17554,7 @@
 							long_name = COG_neutrality_1992_party_long
 						}
 						create_country_leader = {
-							name = "Président Mobutu Sese Seko Kuku Ngbendu wa Za Banga "
+							name = "Président Mobutu Sese Seko Kuku Ngbendu wa za Banga "
 							desc = ""
 							picture = "gfx/leaders/COG/COG_Mobutu_1992.tga"
 							expire = "1965.1.1"
@@ -18046,6 +18079,9 @@
 					every_state = {
 						limit = {
 							is_core_of = SYR
+							NOT = {
+								is_owned_by = TUR
+							}
 						}
 						SYR = {
 							transfer_state = PREV
@@ -18072,11 +18108,38 @@
 							authoritarian_monarchism = 72
 						}
 					}
+					JOR = {
+						create_country_leader = {
+							name = "Malik al-Ḥusayn bin Ṭalāl al-Hāšimī"
+							desc = ""
+							picture = "gfx/leaders/JOR/JOR_Hussein.tga"
+							expire = "1965.1.1"
+							ideology = authmon
+						}
+					}
 					SAU = {
 						transfer_state = 1176
+						transfer_state = 2134
 						transfer_state = 3353
 						transfer_state = 5884
+						transfer_state = 6652
+						transfer_state = 8628
+						transfer_state = 9436
+						transfer_state = 9280
 						transfer_state = 14392
+						transfer_state = 19812
+						transfer_state = 19815
+						transfer_state = 19797
+						set_cosmetic_tag = SAU_2024
+					}
+					SAU = {
+						create_country_leader = {
+							name = "Malik wa Raʾīs Maǧlis al-Wuzarāʾ Fahd bin ʿAbd ul-ʿAzīz Āl Suʿūd"
+							desc = ""
+							picture = "gfx/leaders/SAU/SAU_Fahd.tga"
+							expire = "1965.1.1"
+							ideology = absolutism
+						}
 					}
 					every_state = {
 						limit = {
@@ -18532,7 +18595,7 @@
 						set_popularities = {
 							neutrality = 60
 							anocratic_republic = 8
-							theocratic = 12
+							republican_fascism = 12
 							stratocratic = 20
 						}
 						every_state = {
@@ -18551,6 +18614,30 @@
 							ideology = despotism
 						}
 					}
+					AST = {
+						transfer_state = 711
+						transfer_state = 712
+						transfer_state = 2692
+						set_politics = {
+							ruling_party = democratic_monarchism
+						}
+						set_cosmetic_tag = AST_2024
+						set_popularities = {
+							democratic_monarchism = 53
+							centrist_monarchism = 1
+							conservative_monarchism = 46
+						}
+					}
+					NZL = {
+						set_politics = {
+							ruling_party = conservative_monarchism
+						}
+						set_cosmetic_tag = NZL_2024
+						set_popularities = {
+							socialist_monarchy = 31
+							conservative_monarchism = 69
+						}
+					}
 					IRQ = {
 						transfer_state = 12035
 						transfer_state = 14418
@@ -18567,6 +18654,89 @@
 							picture = "gfx/leaders/IRQ/Portrait_Saddam_Hussein.dds"
 							expire = "1965.1.1"
 							ideology = marxism
+						}
+					}
+					PDK = {
+						transfer_state = 1361
+						transfer_state = 1362
+						transfer_state = 4989
+						transfer_state = 5680
+						transfer_state = 8828
+						transfer_state = 8840
+						transfer_state = 8843
+						transfer_state = 8844
+						transfer_state = 9082
+						transfer_state = 9254
+						transfer_state = 9281
+						transfer_state = 9289
+						transfer_state = 9299
+						transfer_state = 12068
+						transfer_state = 12356
+						transfer_state = 12357
+						transfer_state = 12358
+						transfer_state = 14183
+						transfer_state = 14184
+						transfer_state = 17035
+						transfer_state = 17342
+						transfer_state = 17370
+						transfer_state = 17377
+						transfer_state = 17379
+						transfer_state = 17431
+						transfer_state = 19677
+						transfer_state = 19846
+						transfer_state = 19847
+					}
+					PDK = {
+						every_owned_state = {
+							add_core_of = PREV
+							do_kurdish_renames = yes
+						}
+					}
+					PDK = {
+						create_country_leader = {
+							name = "Serok Mesûd Mustafa Barzanî"
+							desc = ""
+							picture = "gfx/leaders/PDK/PDK_Barzani.tga"
+							expire = "1965.1.1"
+							ideology = despotism
+						}
+					}
+					PUK = {
+						transfer_state = 4011
+						transfer_state = 4990
+						transfer_state = 6976
+						transfer_state = 8651
+						transfer_state = 8719
+						transfer_state = 8746
+						transfer_state = 8832
+						transfer_state = 9864
+						transfer_state = 9865
+						transfer_state = 14189
+						transfer_state = 14190
+						transfer_state = 17480
+						transfer_state = 17481
+						transfer_state = 17482
+						transfer_state = 17483
+						transfer_state = 17485
+						transfer_state = 17486
+						transfer_state = 19676
+						transfer_state = 19840
+						transfer_state = 19841
+						transfer_state = 19851
+					}
+					PUK = {
+						every_owned_state = {
+							add_core_of = PREV
+							do_kurdish_renames = yes
+						}
+					}
+					PUK = {
+						create_country_leader = {
+							name = "Serok Celal Hisameddîn Şukrullah Talebanî Zengene"
+							desc = ""
+							picture = "gfx/leaders/PUK/PUK_Talabani.tga"
+							expire = "1965.1.1"
+							ideology = despotism
 						}
 					}
 					SYR = {
@@ -18746,6 +18916,15 @@
 							long_name = CAN_centrist_monarchism_1992_party_long
 						}
 					}
+					CAN = {
+						create_country_leader = {
+							name = "Governor General Ramon John Hnatyshyn"
+							desc = ""
+							picture = "gfx/leaders/CAN/CAN_Hnatyshyn.tga"
+							expire = "1965.1.1"
+							ideology = cenmon
+						}
+					}
 					MEX = {
 						set_politics = {
 							ruling_party = anocratic_republic
@@ -18781,6 +18960,14 @@
 					### SOUTH AMERICA 1992 ###
 					every_state = {
 						limit = {
+							is_core_of = PAN
+						}
+						PAN = {
+							transfer_state = PREV
+						}
+					}
+					every_state = {
+						limit = {
 							is_core_of = BRA
 						}
 						BRA = {
@@ -18809,6 +18996,13 @@
 						}
 						set_politics = {
 							ruling_party = democratic
+						}
+						set_popularities = {
+							communism = 2
+							socialism_ideology = 19
+							liberal_republic = 12
+							centrist_republic = 33
+							democratic = 34
 						}
 					}
 					### OTHER STUFF 1992 ###
@@ -21583,14 +21777,16 @@
 						}
 					}
 					LIE = {
-						set_politics = {
-							ruling_party = centrist_monarchism
-						}
+						set_cosmetic_tag = LIE_2024
 						set_popularities = {
-							democratic_monarchism = 12
-							centrist_monarchism = 40
-							conservative_monarchism = 40
-							anocratic_monarchism = 8
+							socialist_monarchy = 6
+							conservative_monarchism = 24
+							anocratic_monarchism = 70
+						}
+						set_party_name = {
+							ideology = anocratic_monarchism
+							name = LIE_conservative_monarchism_2024_party
+							long_name = LIE_conservative_monarchism_2024_party_long
 						}
 					}
 					LIE = {
@@ -21599,7 +21795,7 @@
 							desc = ""
 							picture = "gfx/leaders/LIE/LIE_Adam.tga"
 							expire = "1965.1.1"
-							ideology = cenmon
+							ideology = anocmon
 						}
 					}
 					HOL = {
@@ -23860,7 +24056,9 @@
 					JOR = {
 						set_cosmetic_tag = JOR_2024
 						set_popularities = {
-							anocratic_monarchism = 9
+							centrist_monarchism = 1
+							conservative_monarchism = 4
+							anocratic_monarchism = 4
 							authoritarian_monarchism = 91
 						}
 						transfer_state = 1175
@@ -23873,7 +24071,7 @@
 					
 					JOR = {
 						create_country_leader = {
-							name = "Milk ʿAbd ul-llāh II bin al-Ḥussayn al-Hāšimī"
+							name = "Malik ʿAbd ul-llāh II bin al-Ḥussayn al-Hāšimī"
 							desc = ""
 							picture = "gfx/leaders/JOR/JOR_Abdullah.tga"
 							expire = "1965.1.1"
@@ -23887,14 +24085,12 @@
 							ruling_party = authoritarian_monarchism
 						}
 						set_popularities = {
-							socialist_monarchy = 3
-							anocratic_monarchism = 5
-							authoritarian_monarchism = 92
+							authoritarian_monarchism = 100
 						}
 					}
 					BHR = {
 						create_country_leader = {
-							name = "Milk Šayẖ Ḥamad bin ʿĪsaỳ bin Salmān al-H̱alīfaẗ"
+							name = "Malik Šayẖ Ḥamad bin ʿĪsaỳ bin Salmān al-H̱alīfaẗ"
 							desc = ""
 							picture = "gfx/leaders/BHR/BHR_Hamad.tga"
 							expire = "1965.1.1"
@@ -24069,24 +24265,28 @@
 							ideology = despotism
 						}	
 					}
-					
 					SAU = {
-						transfer_state = 6650
-						transfer_state = 8070
 						transfer_state = 1172
 						transfer_state = 1176
+						transfer_state = 2134
 						transfer_state = 3353
-						transfer_state = 5884
-						transfer_state = 4795
-						transfer_state = 4794
 						transfer_state = 3358
+						transfer_state = 4794
+						transfer_state = 4795
+						transfer_state = 5884
+						transfer_state = 6650
+						transfer_state = 6652
+						transfer_state = 8070
+						transfer_state = 8628
+						transfer_state = 9436
+						transfer_state = 9280
 						transfer_state = 14392
-					}
-					
-					SAU = {
+						transfer_state = 19797
+						transfer_state = 19812
+						transfer_state = 19815
 						set_cosmetic_tag = SAU_2024
 						create_country_leader = {
-							name = "Milk Salmān bin ʿAbd al-ʿAzīz bin ʿAbd ar-Raḥman as- Suʿūd"
+							name = "Malik Salmān bin ʿAbd al-ʿAzīz bin ʿAbd ar-Raḥman Āl Suʿūd"
 							desc = ""
 							picture = "gfx/leaders/SAU/SAU_Salman.tga"
 							expire = "1965.1.1"
@@ -24852,9 +25052,12 @@
 							long_name = PER_theocratic_2024_party_long
 						}
 						set_popularities = {
-							theocratic = 78
+							centrist_republic = 2
+							democratic = 9
+							anocratic_republic = 13
 							neutrality = 15
-							democratic = 7
+							republican_fascism = 1
+							theocratic = 60
 						}
 					}
 					PER = {
@@ -25104,6 +25307,7 @@
 						IQK = {
 							transfer_state = PREV
 						}
+						do_kurdish_renames = yes
 					}
 					every_state = {
 						limit = {
@@ -25522,7 +25726,7 @@
 					}
 					SD1 = {
 						create_country_leader = {
-							name = "Rais ʿAbd al-Wāḥid Muḥammad Nūr"
+							name = "Raʾīs ʿAbd ul-Wāḥid Muḥammad Nūr"
 							desc = ""
 							picture = "gfx/leaders/SD1/SD1_Abdul.tga"
 							expire = "1965.1.1"
@@ -25531,7 +25735,7 @@
 					}
 					SD2 = {
 						create_country_leader = {
-							name = "Rais Abdelaziz Adam al-Hilu"
+							name = "Raʾīs ʿAbd ul-ʿAzīz Ādam al-Ḥilū"
 							desc = ""
 							picture = "gfx/leaders/SD2/SD2_Abdul.tga"
 							expire = "1965.1.1"
@@ -26901,7 +27105,7 @@
 					}
 					MOR = {
 						create_country_leader = {
-							name = "Milk Muḥammad VI bin al-Ḥasan al-Ṯānī al-ʿAlawī"
+							name = "Malik Muḥammad VI bin al-Ḥasan al-Ṯānī al-ʿAlawī"
 							desc = ""
 							picture = "gfx/leaders/MOR/MOR_Mohammed.tga"
 							expire = "1965.1.1"
@@ -29832,7 +30036,7 @@
 							ideology = collapsed_government
 						}
 						create_country_leader = {
-							name = "Consejo de Transición de la República de Haití"
+							name = "Conseil Présidentiel de Transition"
 							desc = ""
 							picture = "gfx/leaders/HAI/Portrait_Transitional_Council.dds"
 							expire = "1965.1.1"
