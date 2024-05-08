@@ -158,7 +158,13 @@ do_all_renames = {
 	if = {
 		limit = {
 			ROOT = {
-				tag = KUR
+				OR = {
+					tag = KUR
+					tag = RJV
+					tag = IQK
+					tag = ARL
+					tag = MHB
+				}
 			}
 		}
 		do_kurdish_renames = yes
@@ -1020,6 +1026,9 @@ do_all_renames = {
 					tag = MOR
 					tag = WES
 					tag = HJZ
+					tag = MRT
+					tag = QAT
+					tag = HBL
 					tag = MRT
 					AND = {
 						tag = ADU
