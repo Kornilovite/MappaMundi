@@ -21252,6 +21252,11 @@
 							ruling_party = democratic
 						}
 						set_party_name = {
+							ideology = vanguardism
+							name = ITA_vanguardism_2024_party
+							long_name = ITA_vanguardism_2024_party_long
+						}
+						set_party_name = {
 							ideology = communism
 							name = ITA_communism_2024_party
 							long_name = ITA_communism_2024_party_long
@@ -21317,6 +21322,11 @@
 							long_name = ITA_authoritarian_monarchism_2024_party_long
 						}
 						set_party_name = {
+							ideology = stratocratic
+							name = ITA_stratocratic_2024_party
+							long_name = ITA_stratocratic_2024_party_long
+						}
+						set_party_name = {
 							ideology = republican_fascism
 							name = ITA_republican_fascism_2024_party
 							long_name = ITA_republican_fascism_2024_party_long
@@ -21342,11 +21352,32 @@
 					}
 					ITA = {
 						create_country_leader = {
+							name = "Presidente del Consiglio di Stato Marco Rizzo"
+							desc = ""
+							picture = "gfx/leaders/ITA/ITA_Rizzo.tga"
+							expire = "1965.1.1"
+							ideology = totsoc
+						}
+						create_country_leader = {
+							name = "Presidente Luigi Manconi"
+							desc = ""
+							picture = "gfx/leaders/ITA/ITA_Manconi.tga"
+							expire = "1965.1.1"
+							ideology = marxism
+						}
+						create_country_leader = {
 							name = "Presidente Sergio Mattarella"
 							desc = ""
 							picture = "gfx/leaders/ITA/ITA_Mattarella.tga"
 							expire = "1965.1.1"
 							ideology = demsoc
+						}
+						create_country_leader = {
+							name = "Presidente Sergio Mattarella"
+							desc = ""
+							picture = "gfx/leaders/ITA/ITA_Mattarella.tga"
+							expire = "1965.1.1"
+							ideology = liberalism
 						}
 						create_country_leader = {
 							name = "Re Aimone del Savoia"
@@ -21384,11 +21415,39 @@
 							ideology = conservative_constitutionalism
 						}
 						create_country_leader = {
+							name = "Presidentessa Maria Elisabetta Alberti Casellati"
+							desc = ""
+							picture = "gfx/leaders/ITA/ITA_Casellati.tga"
+							expire = "1965.1.1"
+							ideology = anocrep
+						}
+						create_country_leader = {
+							name = "Capo di Stato Carlo Fidanza"
+							desc = ""
+							picture = "gfx/leaders/ITA/ITA_Fidanza.tga"
+							expire = "1965.1.1"
+							ideology = despotism
+						}
+						create_country_leader = {
+							name = "Comandante in capo Giuseppe Cavo Dragone"
+							desc = ""
+							picture = "gfx/leaders/ITA/ITA_Dragone.tga"
+							expire = "1965.1.1"
+							ideology = militarism
+						}
+						create_country_leader = {
 							name = "Re Aimone del Savoia"
 							desc = ""
 							picture = "gfx/leaders/ITA/ITA_Aimone.tga"
 							expire = "1965.1.1"
 							ideology = stratmon
+						}
+						create_country_leader = {
+							name = "Capo di Stato Francesco Condorelli Caff"
+							desc = ""
+							picture = "gfx/leaders/ITA/ITA_Condorelli.tga"
+							expire = "1965.1.1"
+							ideology = repfash
 						}
 						create_country_leader = {
 							name = "Re Aimone del Savoia"
@@ -21539,11 +21598,11 @@
 							long_name = MNT_centrist_republic_2024_party_long
 						}
 						set_popularities = {
-							socialism_ideology = 28
-							liberal_republic = 14
+							socialism_ideology = 27
+							liberal_republic = 6
 							centrist_republic = 30
-							democratic = 16
-							anocratic_republic = 12
+							democratic = 21
+							anocratic_republic = 16
 						}
 					}
 					MNT = {
@@ -22723,9 +22782,8 @@
 							long_name = IDS_centrist_republic_2024_party_long
 						}
 						set_popularities = {
-							socialism_ideology = 22
 							liberal_republic = 10
-							centrist_republic = 10
+							centrist_republic = 32
 							democratic = 32
 							anocratic_republic = 26
 						}
@@ -22755,7 +22813,11 @@
 							ruling_party = anocratic_monarchism
 						}
 						set_popularities = {
-							anocratic_monarchism = 100
+							socialism_ideology = 1
+							democratic_monarchism = 4
+							centrist_monarchism = 15
+							conservative_monarchism = 23
+							anocratic_monarchism = 57
 						}
 					}
 					YGY = {
@@ -24761,7 +24823,7 @@
 					TUR = {
 						set_cosmetic_tag = TUR_2024
 						set_politics = {
-							ruling_party = neutrality
+							ruling_party = anocratic_republic
 						}
 						set_party_name = {
 							ideology = vanguardism
@@ -24806,11 +24868,13 @@
 						set_popularities = {
 							vanguardism = 1
 							communism = 10
-							socialism_ideology = 28
-							liberal_republic = 7
-							anocratic_republic = 2
-							neutrality = 44
-							republican_fascism = 8
+							socialism_ideology = 21
+							liberal_republic = 6
+							centrist_republic = 4
+							democratic = 4
+							anocratic_republic = 44
+							neutrality = 3
+							republican_fascism = 7
 						}
 					}
 					TUR = {
@@ -24889,7 +24953,7 @@
 							desc = ""
 							picture = "gfx/leaders/TUR/TUR_Oğan.tga"
 							expire = "1965.1.1"
-							ideology = anocrep
+							ideology = despotism
 						}
 						create_country_leader = {
 							name = "Padişah Harun"
@@ -24903,7 +24967,7 @@
 							desc = ""
 							picture = "gfx/leaders/TUR/TUR_Erdogan.tga"
 							expire = "1965.1.1"
-							ideology = despotism
+							ideology = anocrep
 						}
 						create_country_leader = {
 							name = "Halife Harun"
