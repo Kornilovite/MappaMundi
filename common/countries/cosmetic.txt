@@ -3469,8 +3469,8 @@ HUN_ORANGE = {
 }
 
 RAJ_ORANGE = {
-	color = rgb { 226 143 65 }
-	color_ui = rgb { 226 143 65 }
+	color = rgb { 204 95 27 }
+	color_ui = rgb { 204 95 27 }
 }
 
 CHI_YELLOW = {
@@ -5981,6 +5981,21 @@ ITA_AUTH_SCC = {
 RSI_SCC = {
 	color = rgb { 48 73 48 }
 	color_ui = rgb { 48 73 48 }
+}
+
+GRE_AUTH = {
+	color = rgb { 11 55 104 }
+	color_ui = rgb { 11 55 104 }
+}
+
+GRE_AUTH_2024 = {
+	color = rgb { 11 55 104 }
+	color_ui = rgb { 11 55 104 }
+}
+
+GRE_AUTH_2024_REPCORP = {
+	color = rgb { 104 11 11 }
+	color_ui = rgb { 104 11 11 }
 }
 
 IRE_KINGDOM = {
