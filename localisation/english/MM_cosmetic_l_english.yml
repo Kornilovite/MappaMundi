@@ -7935,6 +7935,8 @@
  ITA_2024_AUTH_republican_fascism_DEF:0 "The Italian Social Republic"
  ITA_2024_KINGDOM_theocratic:0 "Publica Divina Italiae"
  ITA_2024_KINGDOM_theocratic_DEF:0 "Res Publica Divina Italiae"
+ ITA_2024_AUTH_right_anarchism:0 "Italian Libertarian Confederation"
+ ITA_2024_AUTH_right_anarchism_DEF:0 "The Italian Libertarian Confederation"
  
  FRA_SOCIALIST_2024_vanguardism:0 "French Revolutionary Union"
  FRA_SOCIALIST_2024_vanguardism_DEF:0 "The French Revolutionary Union"
@@ -8151,6 +8153,12 @@
  
  SER_2024_centrist_republic:0 "Republic of Serbia"
  SER_2024_centrist_republic_DEF:0 "The Republic of Serbia"
+ 
+ MNT_2024_centrist_republic:0 "Montenegro"
+ MNT_2024_centrist_republic_DEF:0 "Montenegro"
+ 
+ ALB_ITA_2024_authoritarian_monarchism:0 "Kingdom of Albania"
+ ALB_ITA_2024_authoritarian_monarchism_DEF:0 "The Kingdom of Albania"
  
  MZB_2024_communism:0 "Republic of Mozambique"
  MZB_2024_communism_DEF:0 "The Republic of Mozambique"
