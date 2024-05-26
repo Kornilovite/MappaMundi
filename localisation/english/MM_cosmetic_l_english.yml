@@ -7769,8 +7769,8 @@
  USA_2024_AUTH_national_socialism_DEF:0 "The National Socialist States of America"
  USA_2024_AUTH_national_socialism_ADJ:0 "American"
  
- MEX_2024_socialism_ideology:0 "United Mexican States"
- MEX_2024_socialism_ideology_DEF:0 "The United Mexican States"
+ MEX_2024_communism:0 "United Mexican States"
+ MEX_2024_communism_DEF:0 "The United Mexican States"
  
  SRL_2024_democratic:0 "Democratic Socialist Republic of Sri Lanka"
  SRL_2024_democratic_DEF:0 "The Democratic Socialist Republic of Sri Lanka"
@@ -8127,6 +8127,12 @@
  
  ARG_2024_right_anarchism:0 "Argentine Republic"
  ARG_2024_right_anarchism_DEF:0 "The Argentine Republic"
+ 
+ FAL_2024_centrist_monarchism:0 "British Overseas Territory of the Falkland Islands"
+ FAL_2024_centrist_monarchism_DEF:0 "The British Overseas Territory of the Falkland Islands"
+ 
+ SGE_2024_centrist_monarchism:0 "British Overseas Territory of South Georgia and the South Sandwich Islands"
+ SGE_2024_centrist_monarchism_DEF:0 "The British Overseas Territory of South Georgia and the South Sandwich Islands"
  
  CHL_2024_socialism_ideology:0 "Republic of Chile"
  CHL_2024_socialism_ideology_DEF:0 "The Republic of Chile"
