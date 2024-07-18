@@ -503,6 +503,10 @@ FIN_RUS = {
 	color = rgb { 0 127 14 }
     color_ui = rgb { 16  127  163 }	
 }
+FIN_RUS_1914 = {
+	color = rgb { 0 127 14 }
+    color_ui = rgb { 16  127  163 }	
+}
 POL_RUS = {
 	color = rgb { 0 127 14 }
     color_ui = rgb { 16  127  163 }	
@@ -5782,6 +5786,16 @@ FRA_NAPOLEON = {
 	color_ui = rgb { 63 65 119 }
 }
 
+FRA_GER_1914 = {
+	color = rgb { 63 63 63 }
+	color_ui = rgb { 63 63 63 }
+}
+
+FRA_GER_1914_SCC = {
+	color = rgb { 63 63 63 }
+	color_ui = rgb { 63 63 63 }
+}
+
 FRA_KINGDOM = {
 	color = rgb { 41 61 107 }
 	color_ui = rgb { 41 61 107 }
@@ -5828,6 +5842,11 @@ BEL_GER_1914 = {
 }
 
 BL2_1914 = {
+	color = rgb { 63 63 63 }
+	color_ui = rgb { 63 63 63 }
+}
+
+LUX_GER_1914 = {
 	color = rgb { 63 63 63 }
 	color_ui = rgb { 63 63 63 }
 }
@@ -7323,6 +7342,11 @@ COG_MITTELAFRIKA_ALBERT = {
 AUS_1914 = {
 	color = rgb { 200 200 200 }
 	color_ui = rgb { 200 200 200 }
+}
+
+AUS_NATSOC_1914 = {
+	color = rgb { 175 175 125 }
+	color_ui = rgb { 175 175 125 }
 }
 
 HUN_1914 = {

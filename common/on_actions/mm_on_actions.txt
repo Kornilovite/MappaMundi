@@ -4285,6 +4285,7 @@ on_actions = {
 								tag = CRM
 								tag = LBA
 								tag = BOS
+								tag = SAU
 							}
 						}
 						if = {
@@ -4330,7 +4331,6 @@ on_actions = {
 					if = {
 						limit = {
 							OR = {
-								tag = SAU
 								tag = MOR
 							}
 						}
@@ -4556,7 +4556,6 @@ on_actions = {
 								tag = CRN
 								tag = CAP
 								tag = COG
-								tag = RCG
 								tag = TZN
 								tag = MAD
 								tag = SYR
@@ -4753,7 +4752,16 @@ on_actions = {
 									}
 								}
 							}
-							set_cosmetic_tag = GREY_GER2
+							if = {
+								limit = {
+									has_start_date < 1915.01.01
+									has_start_date > 1913.01.01
+								}
+								set_cosmetic_tag = GREY_GER3
+							}
+							else = {
+								set_cosmetic_tag = GREY_GER2
+							}
 							every_state = {
 								limit = {
 									is_owned_by = ROOT
@@ -4812,7 +4820,16 @@ on_actions = {
 							limit = {
 								has_government = monarchism
 							}
-							set_cosmetic_tag = GREY_GER2
+							if = {
+								limit = {
+									has_start_date < 1915.01.01
+									has_start_date > 1913.01.01
+								}
+								set_cosmetic_tag = GREY_GER3
+							}
+							else = {
+								set_cosmetic_tag = GREY_GER2
+							}
 							every_state = {
 								limit = {
 									is_owned_by = ROOT
@@ -5257,6 +5274,7 @@ on_actions = {
 										has_cosmetic_tag = FRA_NAPOLEON
 										has_cosmetic_tag = FRA_SOCIALIST
 										has_cosmetic_tag = VICHY_BLUE
+										has_cosmetic_tag = FRA_GER_1914_SCC
 									}
 								}
 								set_cosmetic_tag = FRA_AUTH
@@ -5283,6 +5301,7 @@ on_actions = {
 										has_cosmetic_tag = FRA_NAPOLEON
 										has_cosmetic_tag = FRA_SOCIALIST
 										has_cosmetic_tag = VICHY_BLUE
+										has_cosmetic_tag = FRA_GER_1914_SCC
 									}
 								}
 								set_cosmetic_tag = FRA_KINGDOM
@@ -5307,6 +5326,7 @@ on_actions = {
 										has_cosmetic_tag = FRA_NAPOLEON
 										has_cosmetic_tag = FRA_SOCIALIST
 										has_cosmetic_tag = VICHY_BLUE
+										has_cosmetic_tag = FRA_GER_1914_SCC
 									}
 								}
 								set_cosmetic_tag = FRA_EMPIRE
@@ -5332,9 +5352,33 @@ on_actions = {
 										has_cosmetic_tag = FRA_NAPOLEON
 										has_cosmetic_tag = FRA_SOCIALIST
 										has_cosmetic_tag = VICHY_BLUE
+										has_cosmetic_tag = FRA_GER_1914_SCC
 									}
 								}
 								set_cosmetic_tag = FRA_NAPOLEON
+							}
+							if = {
+								limit = {
+									has_government = stratocratic_monarchism
+									has_start_date < 1915.01.01
+									has_start_date > 1913.01.01
+								}
+								set_cosmetic_tag = FRA_GER_1914
+								every_country = {
+									limit = {
+										OR = {
+											has_cosmetic_tag = FRA_BLUE
+											has_cosmetic_tag = FRA_COLONY
+											has_cosmetic_tag = FRA_AUTH
+											has_cosmetic_tag = FRA_KINGDOM
+											has_cosmetic_tag = FRA_EMPIRE
+											has_cosmetic_tag = FRA_NAPOLEON
+											has_cosmetic_tag = FRA_SOCIALIST
+											has_cosmetic_tag = VICHY_BLUE
+										}
+									}
+									set_cosmetic_tag = FRA_GER_1914_SCC
+								}
 							}
 						}
 						if = {
@@ -5371,6 +5415,7 @@ on_actions = {
 										has_cosmetic_tag = FRA_NAPOLEON
 										has_cosmetic_tag = FRA_SOCIALIST
 										has_cosmetic_tag = VICHY_BLUE
+										has_cosmetic_tag = FRA_GER_1914_SCC
 									}
 								}
 								set_cosmetic_tag = FRA_SOCIALIST
@@ -5398,6 +5443,7 @@ on_actions = {
 										has_government = vanguardism
 										has_government = socialism_ideology
 										has_government = left_anarchism
+										has_government = anocratic_republic
 										AND = {
 											has_government = neutrality
 											has_start_date > 2022.01.01
@@ -5430,6 +5476,7 @@ on_actions = {
 										has_cosmetic_tag = FRA_NAPOLEON
 										has_cosmetic_tag = FRA_SOCIALIST
 										has_cosmetic_tag = VICHY_BLUE
+										has_cosmetic_tag = FRA_GER_1914_SCC
 									}
 									NOT = {
 										tag = FRA
@@ -6378,7 +6425,6 @@ on_actions = {
 							set_cosmetic_tag = BEL_GER_1914
 						}
 						else = {
-							drop_cosmetic_tag = yes
 							if = {
 								limit = {
 									has_start_date < 1915.01.01
@@ -6395,6 +6441,29 @@ on_actions = {
 								}
 								set_cosmetic_tag = BEL_YELLOW
 							}
+						}
+					}
+					if = {
+						limit = {
+							tag = LUX
+						}
+						if = {
+							limit = {
+								has_government = anocratic_monarchism
+								has_start_date < 1915.01.01
+								has_start_date > 1913.01.01
+							}
+							set_cosmetic_tag = LUX_GER_1914
+						}
+						else_if = {
+							limit = {
+								NOT = {
+									has_government = anocratic_monarchism
+								}
+								has_start_date < 1915.01.01
+								has_start_date > 1913.01.01
+							}
+							drop_cosmetic_tag = yes
 						}
 					}
 					if = {
@@ -6517,6 +6586,24 @@ on_actions = {
 								}
 							}
 							set_cosmetic_tag = IRE_AUTH
+						}
+					}
+					if = {
+						limit = {
+							AND = {
+								tag = AUS
+								has_start_date < 1915.01.01
+								has_start_date > 1913.01.01
+							}
+						}
+						if = {
+							limit = {
+								has_government = national_socialism
+							}
+							set_cosmetic_tag = AUS_NATSOC_1914
+						}
+						else = {
+							set_cosmetic_tag = AUS_1914
 						}
 					}
 					if = {
@@ -6902,6 +6989,27 @@ on_actions = {
 						}
 						else = {
 							drop_cosmetic_tag = yes
+						}
+					}
+					if = {
+						limit = {
+							AND = {
+								tag = FIN
+								has_start_date < 1915.01.01
+								has_start_date > 1913.01.01
+							}
+						}
+						if = {
+							limit = {
+								OR = {
+									has_government = authoritarian_monarchism
+									has_government = monarchism
+								}
+							}
+							set_cosmetic_tag = FIN_RUS_1914
+						}
+						else = {
+							set_cosmetic_tag = FIN_1914
 						}
 					}
 					if = {
@@ -8356,10 +8464,9 @@ on_actions = {
 									}
 								}
 							}
-							set_cosmetic_tag = CYR
+							drop_cosmetic_tag = yes
 						}
 					}
-					
 					if = {
 						limit = {
 							tag = DJI
@@ -8396,10 +8503,9 @@ on_actions = {
 								}
 							}
 							set_cosmetic_tag = DJI_ANOCMON
-							
 							every_state = {
 								limit = {
-									is_owned_by = ROOT
+									is_owned_by = DJI
 								}
 								do_russian_renames = yes
 							}

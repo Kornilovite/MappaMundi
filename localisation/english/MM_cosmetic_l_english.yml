@@ -2978,10 +2978,10 @@
  ALN_FIN_fascism_ADJ:0 "Ålandic"
  ALN_FIN_democratic:0 "Region of Åland"
  ALN_FIN_democratic_DEF:0 "The Region of Åland"
- ALN_FIN_liberal_republic:0 "Autonomous Region of Åland"
- ALN_FIN_liberal_republic_DEF:0 "The Autonomous Region of Åland"
- ALN_FIN_centrist_republic:0 "Region of Åland"
- ALN_FIN_centrist_republic_DEF:0 "The Region of Åland"
+ ALN_FIN_liberal_republic:0 "Region of Åland"
+ ALN_FIN_liberal_republic_DEF:0 "The Region of Åland"
+ ALN_FIN_centrist_republic:0 "Autonomous Region of Åland"
+ ALN_FIN_centrist_republic_DEF:0 "The Autonomous Region of Åland"
  ALN_FIN_democratic_ADJ:0 "Ålandic"
  ALN_FIN_neutrality:0 "Region of Åland"
  ALN_FIN_neutrality_DEF:0 "The Region of Åland"
@@ -7056,6 +7056,8 @@
  AUS_1914_socialism_ideology_DEF:0 "The Republic of German-Austria"
  AUS_1914_socialist_monarchy:0 "Federation of Danubian Kingdoms"
  AUS_1914_socialist_monarchy_DEF:0 "The Federation of Danubian Kingdoms"
+ AUS_1914_liberal_republic:0 "People's Republic of Austria"
+ AUS_1914_liberal_republic_DEF:0 "The People's Republic of Austria"
  AUS_1914_democratic_monarchism:0 "United States of Greater Austria"
  AUS_1914_democratic_monarchism_DEF:0 "The United States of Greater Austria"
  AUS_1914_anocratic_monarchism:0 "Austro-Hungarian-Slavic Monarchy"
@@ -7063,8 +7065,12 @@
  AUS_1914_authoritarian_monarchism:0 "The Kingdoms and Lands Represented in the Imperial Council"
  AUS_1914_authoritarian_monarchism_DEF:0 "The Kingdoms and Lands Represented in the Imperial Council"
  AUS_1914_authoritarian_monarchism_ADJ:0 "Cisleithanian"
- AUS_1914_fascism:0 "Österreichischer Nationalstaat"
- AUS_1914_fascism_DEF:0 "Das Österreichischer Nationalstaat"
+ AUS_1914_republican_fascism:0 "State of Greater Austria"
+ AUS_1914_republican_fascism_DEF:0 "The State of Greater Austria"
+ AUS_1914_fascism:0 "Danubian Empire"
+ AUS_1914_fascism_DEF:0 "The Danubian Empire"
+ AUS_NATSOC_1914_national_socialism:0 "Divine Aryan State of Ostara"
+ AUS_NATSOC_1914_national_socialism_DEF:0 "The Divine Aryan State of Ostara"
  
  HUN_SOCIALIST_1914_vanguardism:0 "Hungarian Soviet Republic"
  HUN_SOCIALIST_1914_vanguardism_DEF:0 "The Hungarian Soviet Republic"
@@ -7098,7 +7104,7 @@
  BOS_1914_authoritarian_monarchism_DEF:0 "The Condominium of Bosnia and Herzegovina"
  BOS_1914_authoritarian_monarchism_ADJ:0 "Bosnian"
  BOS_1914_stratocratic_monarchism:0 "Occupation of the Bosnia Vilayet"
- BOS_1914_stratocratic_monarchism_DEF:0 "The Bosnia Vilayet"
+ BOS_1914_stratocratic_monarchism_DEF:0 "The Occupation of the Bosnia Vilayet"
  BOS_1914_monarchism:0 "Kingdom of Illyria"
  BOS_1914_monarchism_DEF:0 "The Kingdom of Illyria"
  
@@ -7131,6 +7137,9 @@
  BUL_1914_democratic_monarchism_DEF:0 "The Tsardom of Bulgaria"
  BUL_1914_centrist_monarchism:0 "Bulgarian Empire"
  BUL_1914_centrist_monarchism_DEF:0 "The Bulgarian Empire"
+ 
+ MNT_1914_stratocratic_monarchism:0 "Kingdom of Montenegro"
+ MNT_1914_stratocratic_monarchism_DEF:0 "The Kingdom of Montenegro"
  
  GER_1914_SOCIALIST_vanguardism:0 "Union of German Soviet Republics"
  GER_1914_SOCIALIST_vanguardism_DEF:0 "The Union of German Soviet Republics"
@@ -7251,23 +7260,35 @@
  BLR_RUS_1914_monarchism:0 "Mogilev Governorate"
  BLR_RUS_1914_monarchism_DEF:0 "The Mogilev Governorate"
  
+ FIN_RUS_1914_authoritarian_monarchism:0 "Viceroyalty of Finland"
+ FIN_RUS_1914_authoritarian_monarchism_DEF:0 "The Viceroyalty of Finland"
+ 
  BEL_1914_authoritarian_monarchism:0 "Kingdom of Flanders and Wallonia"
  BEL_1914_authoritarian_monarchism_DEF:0 "The Kingdom of Flanders and Wallonia"
  BEL_GER_1914_stratocratic_monarchism:0 "Occupation of Belgium"
- BEL_GER_1914_stratocratic_monarchism_DEF:0 "The Kingdom of Belgium"
+ BEL_GER_1914_stratocratic_monarchism_DEF:0 "The Occupation of Belgium"
  
  BL2_1914_stratocratic_monarchism:0 "Imperial German General Government of Belgium"
  BL2_1914_stratocratic_monarchism_DEF:0 "The Imperial German General Government of Belgium"
  
+ LUX_GER_1914_anocratic_monarchism:0 "German Occupation of Luxembourg"
+ LUX_GER_1914_anocratic_monarchism_DEF:0 "The German Occupation of Luxembourg"
+ 
  AZR_1914_centrist_republic:0 "Azerbaijan People's Republic"
  AZR_1914_centrist_republic_DEF:0 "The Azerbaijan People's Republic"
  
+ FRA_SOCIALIST_1914_vanguardism:0 "French Soviet Republic"
+ FRA_SOCIALIST_1914_vanguardism_DEF:0 "The French Soviet Republic"
  FRA_SOCIALIST_1914_communism:0 "Federation of the Communes of France"
  FRA_SOCIALIST_1914_communism_DEF:0 "The Federation of the Communes of France"
+ FRA_SOCIALIST_1914_socialism_ideology:0 "French Commune"
+ FRA_SOCIALIST_1914_socialism_ideology_DEF:0 "The French Commune"
  FRA_1914_centrist_republic:0 "Federal Republic of France"
  FRA_1914_centrist_republic_DEF:0 "The Federal Republic of France"
  FRA_1914_democratic:0 "French Republic"
  FRA_1914_democratic_DEF:0 "The French Republic"
+ FRA_GER_1914_stratocratic_monarchism:0 "Imperial German General Government of France"
+ FRA_GER_1914_stratocratic_monarchism_DEF:0 "The Imperial German General Government of France"
  FRA_AUTH_1914_republican_fascism:0 "Revanchist State of France"
  FRA_AUTH_1914_republican_fascism_DEF:0 "Revanchist State of France"
  
@@ -7283,14 +7304,17 @@
  ENG_1914_democratic_monarchism:0 "United Kingdom of Great Britain and Ireland"
  ENG_1914_democratic_monarchism_DEF:0 "The United Kingdom of Great Britain and Ireland"
  ENG_1914_centrist_monarchism:0 "United Kingdom of Great Britain and Northern Ireland"
- ENG_1914_centrist_monarchism_DEF:0 "United Kingdom of Great Britain and Northern Ireland"
+ ENG_1914_centrist_monarchism_DEF:0 "The United Kingdom of Great Britain and Northern Ireland"
  ENG_1914_conservative_monarchism:0 "United Kingdom of England, Scotland, Wales, and Ireland"
- ENG_1914_conservative_monarchism_DEF:0 "United Kingdom of England, Scotland, Wales, and Ireland"
+ ENG_1914_conservative_monarchism_DEF:0 "The United Kingdom of England, Scotland, Wales, and Ireland"
  
  IRE_1914_socialism_ideology:0 "Irish Revolutionary Republic"
  IRE_1914_socialism_ideology_DEF:0 "The Irish Revolutionary Republic"
  IRE_1914_anocratic_republic:0 "Irish Republic"
  IRE_1914_anocratic_republic_DEF:0 "The Irish Republic"
+ 
+ DEN_1914_democratic_monarchism:0 "Kingdom of Denmark"
+ DEN_1914_democratic_monarchism_DEF:0 "The Kingdom of Denmark"
  
  JAP_1914_centrist_monarchism:0 "Empire of Japan"
  JAP_1914_centrist_monarchism_DEF:0 "The Empire of Japan"
@@ -7357,8 +7381,8 @@
  LBA_1914_authoritarian_monarchism:0 "Colony of Italian Cyrenaica"
  LBA_1914_authoritarian_monarchism_DEF:0 "The Colony of Italian Cyrenaica"
  
- NMB_GER_1914_authoritarian_monarchism:0 "Colony of Südwestafrika"
- NMB_GER_1914_authoritarian_monarchism_DEF:0 "The Colony of Südwestafrika"
+ NMB_GER_1914_authoritarian_monarchism:0 "Deutsch-Südwestafrika"
+ NMB_GER_1914_authoritarian_monarchism_DEF:0 "Das Deutsch-Südwestafrika"
  NMB_GER_1914_stratocratic_monarchism:0 "Colony of German South West Africa"
  NMB_GER_1914_stratocratic_monarchism_DEF:0 "The Colony of German South West Africa"
  
@@ -7367,7 +7391,7 @@
  TOG_LIV_1914_anocratic_monarchism:0 "United Kingdoms of Togoland and Livonia"
  TOG_LIV_1914_anocratic_monarchism_DEF:0 "The United Kingdoms of Togoland and Livonia"
  TOG_GER_1914_authoritarian_monarchism:0 "Schutzgebiet Togo"
- TOG_GER_1914_authoritarian_monarchism_DEF:0 "The Schutzgebiet Togo"
+ TOG_GER_1914_authoritarian_monarchism_DEF:0 "Das Schutzgebiet Togo"
  TOG_GER_1914_stratocratic_monarchism:0 "Colony of the Togoland Protectorate"
  TOG_GER_1914_stratocratic_monarchism_DEF:0 "The Colony of the Togoland Protectorate"
  
@@ -7998,9 +8022,9 @@
  DOM_2024_liberal_republic:0 "Dominican Republic"
  DOM_2024_liberal_republic_DEF:0 "The Dominican Republic"
  
- PAK_2024_anocratic_republic:0 "Islamic Republic of Pakistan"
- PAK_2024_anocratic_republic_DEF:0 "The Islamic Republic of Pakistan"
- PAK_2024_anocratic_republic_ADJ:0 "Pakistani"
+ PAK_2024_neutrality:0 "Islamic Republic of Pakistan"
+ PAK_2024_neutrality_DEF:0 "The Islamic Republic of Pakistan"
+ PAK_2024_neutrality_ADJ:0 "Pakistani"
  
  WGR_2024_vanguardism:0 "German Democratic Republic"
  WGR_2024_vanguardism_DEF:0 "The German Democratic Republic"
@@ -8159,12 +8183,12 @@
  FRA_SOCIALIST_2024_socialism_ideology_DEF:0 "The French Republic"
  FRA_2024_liberal_republic:0 "Federal Republic of France"
  FRA_2024_liberal_republic_DEF:0 "The Federal Republic of France"
- FRA_2024_centrist_republic:0 "French Republic"
- FRA_2024_centrist_republic_DEF:0 "The French Republic"
+ FRA_2024_centrist_republic:0 "Republic of France"
+ FRA_2024_centrist_republic_DEF:0 "Republic of France"
  FRA_2024_democratic:0 "Republic of France"
  FRA_2024_democratic_DEF:0 "The Republic of France"
- FRA_2024_anocratic_republic:0 "Republic of France"
- FRA_2024_anocratic_republic_DEF:0 "Republic of France"
+ FRA_2024_anocratic_republic:0 "French Republic"
+ FRA_2024_anocratic_republic_DEF:0 "The French Republic"
  FRA_AUTH_2024_neutrality:0 "State of France"
  FRA_AUTH_2024_neutrality_DEF:0 "The State of France"
  FRA_AUTH_2024_republican_fascism:0 "French State"
@@ -8226,8 +8250,8 @@
  ALB_2024_socialism_ideology:0 "Republic of Albania"
  ALB_2024_socialism_ideology_DEF:0 "The Republic of Albania"
  
- MAC_2024_socialism_ideology:0 "Republic of North Macedonia"
- MAC_2024_socialism_ideology_DEF:0 "The Republic of North Macedonia"
+ MAC_2024_democratic:0 "Republic of North Macedonia"
+ MAC_2024_democratic_DEF:0 "The Republic of North Macedonia"
  MAC_2024_EMPIRE_monarchism:0 "Makedonikí Aftokratoría"
  MAC_2024_EMPIRE_monarchism_DEF:0 "To Makedonikí Aftokratoría"
  
@@ -8370,8 +8394,8 @@
  NIC_2024_communism:0 "Republic of Nicaragua"
  NIC_2024_communism_DEF:0 "The Republic of Nicaragua"
  
- SER_2024_centrist_republic:0 "Republic of Serbia"
- SER_2024_centrist_republic_DEF:0 "The Republic of Serbia"
+ SER_2024_anocratic_republic:0 "Republic of Serbia"
+ SER_2024_anocratic_republic_DEF:0 "The Republic of Serbia"
  
  MNT_2024_centrist_republic:0 "Montenegro"
  MNT_2024_centrist_republic_DEF:0 "Montenegro"
@@ -8421,8 +8445,8 @@
  NGA_2024_anocratic_republic:0 "Federal Republic of Nigeria"
  NGA_2024_anocratic_republic_DEF:0 "The Federal Republic of Nigeria"
  
- GUA_2024_anocratic_republic:0 "Republic of Guatemala"
- GUA_2024_anocratic_republic_DEF:0 "The Republic of Guatemala"
+ GUA_2024_socialism_ideology:0 "Republic of Guatemala"
+ GUA_2024_socialism_ideology_DEF:0 "The Republic of Guatemala"
  
  IND_2024_democratic:0 "Republic of India"
  IND_2024_democratic_DEF:0 "The Republic of India"
@@ -8431,8 +8455,10 @@
  SAF_2024_vanguardism_DEF:0 "The Peoples Republic of Azania"
  SAF_2024_communism:0 "Pan-African Republic of Azania"
  SAF_2024_communism_DEF:0 "The Pan-African Republic of Azania"
- SAF_2024_socialism_ideology:0 "Republic of South Africa"
- SAF_2024_socialism_ideology_DEF:0 "The Republic of South Africa"
+ SAF_2024_socialism_ideology:0 "Federation of South Africa"
+ SAF_2024_socialism_ideology_DEF:0 "The Federation of South Africa"
+ SAF_2024_liberal_republic:0 "Republic of South Africa"
+ SAF_2024_liberal_republic_DEF:0 "The Republic of South Africa"
  SAF_2024_centrist_republic:0 "Confederation of South Africa"
  SAF_2024_centrist_republic_DEF:0 "The Confederation of South Africa"
  SAF_2024_neutrality:0 "State of South Africa"
@@ -8452,6 +8478,33 @@
  
  ECU_2024_liberal_republic:0 "Republic of Ecuador"
  ECU_2024_liberal_republic_DEF:0 "The Republic of Ecuador"
+ 
+ BAN_2024_neutrality:0 "People's Republic of Bangladesh"
+ BAN_2024_neutrality_DEF:0 "The People's Republic of Bangladesh"
+ 
+ KUW_2024_authoritarian_monarchism:0 "State of Kuwait"
+ KUW_2024_authoritarian_monarchism_DEF:0 "The State of Kuwait"
+ 
+ HOL_2024_anocratic_monarchism:0 "Kingdom of the Netherlands"
+ HOL_2024_anocratic_monarchism_DEF:0 "The Kingdom of the Netherlands"
+ 
+ BEL_2024_anocratic_monarchism:0 "Kingdom of Belgium"
+ BEL_2024_anocratic_monarchism_DEF:0 "The Kingdom of Belgium"
+ 
+ BUL_2024_anocratic_republic:0 "Republic of Bulgaria"
+ BUL_2024_anocratic_republic_DEF:0 "The Republic of Bulgaria"
+ 
+ SEN_2024_communism:0 "Republic of Senegal"
+ SEN_2024_communism_DEF:0 "The Republic of Senegal"
+ 
+ CHA_2024_neutrality:0 "Republic of Chad"
+ CHA_2024_neutrality_DEF:0 "The Republic of Chad"
+ 
+ ENG_2024_anocratic_monarchism:0 "United Kingdom of Great Britain and Northern Ireland"
+ ENG_2024_anocratic_monarchism_DEF:0 "The United Kingdom of Great Britain and Northern Ireland"
+ 
+ GRL_2024_communism:0 "Greenland"
+ GRL_2024_communism_DEF:0 "Greenland"
  
  ########################
  # TNO Russian Warlords #
