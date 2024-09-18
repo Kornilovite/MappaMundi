@@ -17106,6 +17106,9 @@
 							state = 7363
 						}
 					}
+					20209 = {
+						transfer_state_to = UNC
+					}
 					EST = {
 						set_cosmetic_tag = EST_1992
 						set_politics = {
@@ -22554,6 +22557,9 @@
 							ideology = anocrep
 						}
 					}
+					20209 = {
+						transfer_state_to = UNC
+					}
 					MNT = {
 						transfer_state = 2289
 						transfer_state = 7343
@@ -26925,6 +26931,22 @@
 					}
 					every_state = {
 						limit = {
+							is_core_of = SD6
+						}
+						SD6 = {
+							transfer_state = PREV
+						}
+					}
+					every_state = {
+						limit = {
+							is_core_of = SD7
+						}
+						SD7 = {
+							transfer_state = PREV
+						}
+					}
+					every_state = {
+						limit = {
 							is_core_of = LRA
 						}
 						LRA = {
@@ -27203,7 +27225,7 @@
 					}
 					SD1 = {
 						create_country_leader = {
-							name = "Raʾīs ʿAbd ul-Wāḥid Muḥammad Nūr"
+							name = "Qāʾid ʿAbd ul-Wāḥid Muḥammad Nūr"
 							desc = ""
 							picture = "gfx/leaders/SD1/SD1_Abdul.tga"
 							expire = "1965.1.1"
@@ -27212,9 +27234,27 @@
 					}
 					SD2 = {
 						create_country_leader = {
-							name = "Raʾīs ʿAbd ul-ʿAzīz Ādam al-Ḥilū"
+							name = "Qāʾid ʿAbd ul-ʿAzīz Ādam al-Ḥilū"
 							desc = ""
 							picture = "gfx/leaders/SD2/SD2_Abdul.tga"
+							expire = "1965.1.1"
+							ideology = militarism
+						}
+					}
+					SD6 = {
+						create_country_leader = {
+							name = "Qāʾid Sulaymān Arkwa Minnāwī"
+							desc = ""
+							picture = "gfx/leaders/SD6/SD6_Minnawi.tga"
+							expire = "1965.1.1"
+							ideology = militarism
+						}
+					}
+					SD7 = {
+						create_country_leader = {
+							name = "Qāʾid Muṣṭafaỳ Naṣr ud-Dīn Ṭambūr"
+							desc = ""
+							picture = "gfx/leaders/SD7/SD7_Tambour.tga"
 							expire = "1965.1.1"
 							ideology = militarism
 						}
