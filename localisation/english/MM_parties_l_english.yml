@@ -4661,7 +4661,7 @@
  USA_centrist_republic_1992_party:0 "RPUSA"
  USA_centrist_republic_1992_party_long:0 "Reform Party of the United States of America"
  USA_centrist_republic_2024_party:0 "Democrats §g(Blue Dogs)§!"
- USA_centrist_republic_2024_party_long:0 "Democratic Party §g(Blue Dog Coalition)§!"
+ USA_centrist_republic_2024_party_long:0 "Democrats §g(Blue Dogs)§!"
  USA_centrist_monarchism_party:0 "HW (S)"
  USA_centrist_monarchism_party_long:0 "House of Washington (Senior)"
  USA_democratic_party:0 "Republicans"
@@ -13074,3 +13074,6 @@
  FCA_stratocratic_monarchism_party_long:0 "Fuerzas Armadas de España"
  FCA_right_anarchism_party:0 "United Fruit Company"
  FCA_right_anarchism_party_long:0 "Congreso Federal bajo la United Fruit Company"
+ 
+ BEK_theocratic_party:0 "Bektashi Order"
+ BEK_theocratic_party_long:0 "Order of Bektashi dervishes"
