@@ -9,7 +9,9 @@ state={
 	
 	history={
 	    owner = JOR
+		add_core_of = KJR
         add_core_of = JOR
+		add_claim_by = OML
 		victory_points = {
 			7170 5
 		}

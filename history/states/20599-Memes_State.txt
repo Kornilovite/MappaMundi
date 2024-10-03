@@ -4,15 +4,10 @@ state={
 	name="MEMES_STATE_20599"
 
 	history={
-		owner = WTR
-		add_core_of = WTR
-		
-		
-		
-		
-
-
-
+		owner = TUR
+		add_core_of = TUR
+        add_core_of = RMZ
+		add_core_of = PAO
 	}
 
 	provinces={
