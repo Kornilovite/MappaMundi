@@ -12,6 +12,23 @@ country_event = {
 		ai_chance = {
 			factor = 0
 		}
+		PAL = {
+			set_party_name = {
+				ideology = vanguardism
+				name = PAL_vanguardism_2024_party
+				long_name = PAL_vanguardism_2024_party_long
+			}
+			set_party_name = {
+				ideology = communism
+				name = PAL_communism_2024_party
+				long_name = PAL_communism_2024_party_long
+			}
+			set_party_name = {
+				ideology = anocratic_republic
+				name = PAL_anocratic_republic_2024_party
+				long_name = PAL_anocratic_republic_2024_party_long
+			}
+		}
 	}
 	option = { #reject
 		name = No
