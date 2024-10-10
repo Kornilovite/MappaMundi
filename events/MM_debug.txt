@@ -12,23 +12,26 @@ country_event = {
 		ai_chance = {
 			factor = 0
 		}
-		PAL = {
-			set_party_name = {
-				ideology = vanguardism
-				name = PAL_vanguardism_2024_party
-				long_name = PAL_vanguardism_2024_party_long
-			}
-			set_party_name = {
-				ideology = communism
-				name = PAL_communism_2024_party
-				long_name = PAL_communism_2024_party_long
-			}
-			set_party_name = {
-				ideology = anocratic_republic
-				name = PAL_anocratic_republic_2024_party
-				long_name = PAL_anocratic_republic_2024_party_long
-			}
-		}
+					MRT = {
+						set_politics = {
+							ruling_party = stratocratic
+						}
+						set_cosmetic_tag = MRT_1992
+						set_popularities = {
+							stratocratic = 100
+						}
+					}
+					MRT = {
+						create_country_leader = {
+							name = "Raʾīs wa Wazīr al-Awwal Muʿāwiya walad Sayyidī Aḥmad al-Ṭāyaʿ"
+							desc = ""
+							picture = "gfx/leaders/MRT/MRT_Maaouya.tga"
+							expire = "1965.06.01.01"
+							ideology = militarism
+							traits = {
+							}
+						}
+					}
 	}
 	option = { #reject
 		name = No
