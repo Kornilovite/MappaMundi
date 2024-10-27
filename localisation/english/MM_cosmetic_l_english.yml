@@ -7143,6 +7143,9 @@
  BUL_1914_centrist_monarchism:0 "Bulgarian Empire"
  BUL_1914_centrist_monarchism_DEF:0 "The Bulgarian Empire"
  
+ ROM_1914_democratic_monarchism:0 "Kingdom of Rumania"
+ ROM_1914_democratic_monarchism_DEF:0 "The Kingdom of Rumania"
+ 
  MNT_1914_stratocratic_monarchism:0 "Kingdom of Montenegro"
  MNT_1914_stratocratic_monarchism_DEF:0 "The Kingdom of Montenegro"
  
@@ -7210,8 +7213,8 @@
  
  POL_1914_centrist_republic:0 "Polish People's Republic"
  POL_1914_centrist_republic_DEF:0 "The Polish People's Republic"
- POL_1914_centrist_monarchism:0 "Commonwealth of the Kingdoms of Poland and Lithuania"
- POL_1914_centrist_monarchism_DEF:0 "The Commonwealth of the Kingdoms of Poland and Lithuania"
+ POL_1914_centrist_monarchism:0 "Kingdom of Poland and the Grand Duchy of Lithuania"
+ POL_1914_centrist_monarchism_DEF:0 "The Kingdom of Poland and the Grand Duchy of Lithuania"
  POL_1914_anocratic_monarchism:0 "Kingdom of Poland"
  POL_1914_anocratic_monarchism_DEF:0 "The Kingdom of Poland"
  POL_1914_authoritarian_monarchism:0 "Regency Kingdom of Poland"
@@ -7221,6 +7224,10 @@
  POL_RUS_1914_monarchism:0 "Kingdom of Poland"
  POL_RUS_1914_monarchism_DEF:0 "The Kingdom of Poland"
  
+ LIT_1914_centrist_monarchism:0 "Kingdom of Lithuania and White Ruthenia"
+ LIT_1914_centrist_monarchism_DEF:0 "The Kingdom of Lithuania and White Ruthenia"
+ LIT_1914_democratic_monarchism:0 "Duchy of Lithuania"
+ LIT_1914_democratic_monarchism_DEF:0 "The Duchy of Lithuania"
  LIT_1914_anocratic_monarchism:0 "Grand Duchy of Lithuania"
  LIT_1914_anocratic_monarchism_DEF:0 "The Grand Duchy of Lithuania"
  LIT_1914_authoritarian_monarchism:0 "Kingdom of Lithuania"
@@ -7345,6 +7352,12 @@
  CHI_1914_stratocratic_DEF:0 "The Republic of China"
  CHI_1914_monarchism:0 "Empire of China"
  CHI_1914_monarchism_DEF:0 "The Empire of China"
+ 
+ SAU_1914_monarchism:0 "Emirate of Nejd and Hasa"
+ SAU_1914_monarchism_DEF:0 "The Emirate of Nejd and Hasa"
+ 
+ AFG_1914_monarchism:0 "Emirate of Afghanistan"
+ AFG_1914_monarchism_DEF:0 "The Emirate of Afghanistan"
  
  NZL_1914_conservative_monarchism:0 "Dominion of New Zealand"
  NZL_1914_conservative_monarchism_DEF:0 "The Dominion of New Zealand"
@@ -7762,6 +7775,8 @@
  WGR_1992_authoritarian_monarchism:0 "German Empire"
  WGR_1992_authoritarian_monarchism_DEF:0 "The German Empire"
  
+ AUS_1992_socialism_ideology:0 "Republic of Austria"
+ AUS_1992_socialism_ideology_DEF:0 "The Republic of Austria"
  AUS_1992_centrist_monarchism:0 "United States of Greater Austria"
  AUS_1992_centrist_monarchism_DEF:0 "The United States of Greater Austria"
  
@@ -7864,11 +7879,11 @@
  NGA_1992_stratocratic:0 "Federal Republic of Nigeria"
  NGA_1992_stratocratic_DEF:0 "The Federal Republic of Nigeria"
  
- NGR_1992_anocratic_republic:0 "Republic of the Niger"
- NGR_1992_anocratic_republic_DEF:0 "The Republic of the Niger"
+ NGR_1992_neutrality:0 "Republic of the Niger"
+ NGR_1992_neutrality_DEF:0 "The Republic of the Niger"
  
- GHA_1992_anocratic_republic:0 "Republic of Ghana"
- GHA_1992_anocratic_republic_DEF:0 "The Republic of Ghana"
+ GHA_1992_stratocratic:0 "Republic of Ghana"
+ GHA_1992_stratocratic_DEF:0 "The Republic of Ghana"
  
  TOG_1992_anocratic_republic:0 "Togolese Republic"
  TOG_1992_anocratic_republic_DEF:0 "Togolese Republic"
@@ -7876,8 +7891,8 @@
  DAH_1992_liberal_republic:0 "Republic of Benin"
  DAH_1992_liberal_republic_DEF:0 "The Republic of Benin"
  
- LIB_1992_stratocratic:0 "Republic of Liberia"
- LIB_1992_stratocratic_DEF:0 "The Republic of Liberia"
+ LIB_1992_anocratic_republic:0 "Republic of Liberia"
+ LIB_1992_anocratic_republic_DEF:0 "The Republic of Liberia"
  
  VOL_1992_neutrality:0 "Burkina Faso"
  VOL_1992_neutrality_DEF:0 "Burkina Faso"
@@ -7935,6 +7950,39 @@
  
  CHI_1992_democratic:0 "Republic of China"
  CHI_1992_democratic_DEF:0 "The Republic of China"
+ 
+ ISR_1992_national_conservative_republic:0 "State of Israel"
+ ISR_1992_national_conservative_republic_DEF:0 "The State of Israel"
+ 
+ PAK_1992_anocratic_republic:0 "Islamic Republic of Pakistan"
+ PAK_1992_anocratic_republic_DEF:0 "The Islamic Republic of Pakistan"
+ 
+ ARG_1992_democratic:0 "Argentine Republic"
+ ARG_1992_democratic_DEF:0 "The Argentine Republic"
+ 
+ CAM_1992_anocratic_republic:0 "State of Cambodia"
+ CAM_1992_anocratic_republic_DEF:0 "The State of Cambodia"
+ 
+ GAB_1992_neutrality:0 "Gabonese Republic"
+ GAB_1992_neutrality_DEF:0 "The Gabonese Republic"
+ 
+ KEN_1992_neutrality:0 "Republic of Kenya"
+ KEN_1992_neutrality_DEF:0 "The Republic of Kenya"
+ 
+ UGA_1992_vanguardism:0 "Republic of Uganda"
+ UGA_1992_vanguardism_DEF:0 "The Republic of Uganda"
+ 
+ CYP_1992_vanguardism:0 "Republic of Cyprus"
+ CYP_1992_vanguardism_DEF:0 "The Republic of Cyprus"
+ 
+ BOL_1992_centrist_republic:0 "Republic of Bolivia"
+ BOL_1992_centrist_republic_DEF:0 "The Republic of Bolivia"
+ 
+ ECU_1992_socialism_ideology:0 "Republic of Ecuador"
+ ECU_1992_socialism_ideology_DEF:0 "The Republic of Ecuador"
+ 
+ VEN_1992_anocratic_republic:0 "Republic of Venezuela"
+ VEN_1992_anocratic_republic_DEF:0 "The Republic of Venezuela"
  
  ##################
  # 2024 Countries #

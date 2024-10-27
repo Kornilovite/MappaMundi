@@ -175,7 +175,7 @@ defined_text = {
 		trigger = {
 			AND = {
 				tag = TON
-				has_government = authoritarian_monarchism
+				has_government = monarchism
 				has_start_date < 1937.01.01
 				has_start_date > 1935.01.01
 			}
@@ -186,7 +186,7 @@ defined_text = {
 		trigger = {
 			AND = {
 				tag = TON
-				has_government = centrist_monarchism
+				has_government = anocratic_monarchism
 				has_start_date > 2022.01.01
 			}
 		}
@@ -988,6 +988,17 @@ defined_text = {
 			}
 		}
 		localization_key = "Ministerpräsident Leopold Figl"
+	}
+	text = {
+		trigger = {
+			AND = {
+				tag = AUS
+				has_government = socialism_ideology
+				has_start_date > 1900.01.01
+				has_start_date < 2000.01.01
+			}
+		}
+		localization_key = "Bundeskanzler Franz Vranitzsky"
 	}
 	text = {
 		trigger = {
@@ -2374,7 +2385,7 @@ defined_text = {
 		trigger = {
 			AND = {
 				tag = ISR
-				has_government = democratic
+				has_government = national_conservative_republic
 				has_start_date > 1990.01.01
 				has_start_date < 2000.01.01
 			}
@@ -2864,6 +2875,17 @@ defined_text = {
 			}
 		}
 		localization_key = "Președintele Gheorghe I. Tătărescu"
+	}
+	text = {
+		trigger = {
+			AND = {
+				tag = MOL
+				has_government = anocratic_republic
+				has_start_date > 1990.01.01
+				has_start_date < 2000.01.01
+			}
+		}
+		localization_key = "Prim-ministru Valeriu Muravschi"
 	}
 	text = {
 		trigger = {
@@ -3657,17 +3679,30 @@ defined_text = {
 		trigger = {
 			AND = {
 				tag = SIA
+				has_government = stratocratic_monarchism
+				has_start_date > 1990.01.01
+				has_start_date < 2000.01.01
+			}
+		}
+		localization_key = "Nāyok Ratthamontrī `Ānan Panyānchun"
+	}
+	text = {
+		trigger = {
+			AND = {
+				tag = SIA
 				has_government = anocratic_monarchism
 				has_start_date > 2022.01.01
 			}
 		}
-		localization_key = "Nāyok Ratthamontrī Settha Thawisin"
+		localization_key = "Nāyok Ratthamontrī Sēnsathā Thawīsin"
 	}
 	text = {
 		trigger = {
 			AND = {
 				tag = SIA
 				has_government = stratocratic_monarchism
+				has_start_date > 1936.01.01
+				has_start_date < 1939.01.01
 			}
 		}
 		localization_key = "Nāyok Ratthamontrī Phrayā Ploplopyuhasēnā"
@@ -3686,11 +3721,33 @@ defined_text = {
 		trigger = {
 			AND = {
 				tag = MAL
+				has_government = national_conservative_monarchism
+				has_start_date > 1990.01.01
+				has_start_date < 2000.01.01
+			}
+		}
+		localization_key = "Perdana Menteri Mahathir bin Mohamad"
+	}
+	text = {
+		trigger = {
+			AND = {
+				tag = MAL
 				has_government = democratic_monarchism
 				has_start_date > 2022.01.01
 			}
 		}
 		localization_key = "Perdana Menteri Anwar bin Ibrahim"
+	}
+	text = {
+		trigger = {
+			AND = {
+				tag = SGP
+				has_government = anocratic_republic
+				has_start_date > 1990.01.01
+				has_start_date < 2000.01.01
+			}
+		}
+		localization_key = "Prime Minister Goh Chok Tong"
 	}
 	text = {
 		trigger = {
@@ -3778,7 +3835,7 @@ defined_text = {
 		trigger = {
 			AND = {
 				tag = CRO
-				has_government = democratic
+				has_government = national_conservative_republic
 				has_start_date > 1992.01.01
 				has_start_date < 2000.01.01
 			}
@@ -3884,7 +3941,7 @@ defined_text = {
 		trigger = {
 			AND = {
 				tag = MAC
-				has_government = democratic
+				has_government = national_conservative_republic
 				has_start_date > 1992.01.01
 				has_start_date < 2000.01.01
 			}
@@ -5404,7 +5461,7 @@ defined_text = {
 		trigger = {
 			AND = {
 				tag = TON
-				has_government = authoritarian_monarchism
+				has_government = monarchism
 				has_start_date < 1937.01.01
 				has_start_date > 1935.01.01
 			}
@@ -5415,7 +5472,7 @@ defined_text = {
 		trigger = {
 			AND = {
 				tag = TON
-				has_government = centrist_monarchism
+				has_government = anocratic_monarchism
 				has_start_date > 2022.01.01
 			}
 		}
@@ -6009,6 +6066,17 @@ defined_text = {
 			}
 		}
 		localization_key = "GFX_Leopold_Figl"
+	}
+	text = {
+		trigger = {
+			AND = {
+				tag = AUS
+				has_government = socialism_ideology
+				has_start_date > 1900.01.01
+				has_start_date < 2000.01.01
+			}
+		}
+		localization_key = "GFX_Franz_Vranitzsky"
 	}
 	text = {
 		trigger = {
@@ -7371,7 +7439,7 @@ defined_text = {
 		trigger = {
 			AND = {
 				tag = ISR
-				has_government = democratic
+				has_government = national_conservative_republic
 				has_start_date > 1990.01.01
 				has_start_date < 2000.01.01
 			}
@@ -8179,6 +8247,17 @@ defined_text = {
 			}
 		}
 		localization_key = "GFX_Gheorghe_Tatarescu"
+	}
+	text = {
+		trigger = {
+			AND = {
+				tag = MOL
+				has_government = anocratic_republic
+				has_start_date > 1990.01.01
+				has_start_date < 2000.01.01
+			}
+		}
+		localization_key = "GFX_Valeriu_Muravschi"
 	}
 	text = {
 		trigger = {
@@ -9280,6 +9359,17 @@ defined_text = {
 		trigger = {
 			AND = {
 				tag = SIA
+				has_government = stratocratic_monarchism
+				has_start_date > 1990.01.01
+				has_start_date < 2000.01.01
+			}
+		}
+		localization_key = "GFX_Anand_Panyarachun"
+	}
+	text = {
+		trigger = {
+			AND = {
+				tag = SIA
 				has_government = anocratic_monarchism
 				has_start_date > 2022.01.01
 			}
@@ -9291,7 +9381,8 @@ defined_text = {
 			AND = {
 				tag = SIA
 				has_government = stratocratic_monarchism
-				has_start_date < 2022.01.01
+				has_start_date > 1936.01.01
+				has_start_date < 1939.01.01
 			}
 		}
 		localization_key = "GFX_Phraya_Phahon"
@@ -9310,11 +9401,33 @@ defined_text = {
 		trigger = {
 			AND = {
 				tag = MAL
+				has_government = national_conservative_monarchism
+				has_start_date > 1990.01.01
+				has_start_date < 2000.01.01
+			}
+		}
+		localization_key = "GFX_Mahathir_Mohamad"
+	}
+	text = {
+		trigger = {
+			AND = {
+				tag = MAL
 				has_government = democratic_monarchism
 				has_start_date > 2022.01.01
 			}
 		}
 		localization_key = "GFX_Anwar_Ibrahim"
+	}
+	text = {
+		trigger = {
+			AND = {
+				tag = SGP
+				has_government = anocratic_republic
+				has_start_date > 1990.01.01
+				has_start_date < 2000.01.01
+			}
+		}
+		localization_key = "GFX_Goh_Chok_Tong"
 	}
 	text = {
 		trigger = {
@@ -9402,7 +9515,7 @@ defined_text = {
 		trigger = {
 			AND = {
 				tag = CRO
-				has_government = democratic
+				has_government = national_conservative_republic
 				has_start_date > 1992.01.01
 				has_start_date < 2000.01.01
 			}
@@ -9508,7 +9621,7 @@ defined_text = {
 		trigger = {
 			AND = {
 				tag = MAC
-				has_government = democratic
+				has_government = national_conservative_republic
 				has_start_date > 1992.01.01
 				has_start_date < 2000.01.01
 			}
