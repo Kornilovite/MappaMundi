@@ -1,21 +1,21 @@
 ﻿l_english:
  STATE_1:0 "Ajaccio"
- STATE_2:0 "Lazio"
- STATE_3:0 "Switzerland"
- STATE_4:0 "Lower Austria"
+ STATE_2:0 "Latina"
+ STATE_3:0 "Adelboden"
+ STATE_4:0 "Weiner Neustadt"
  STATE_5:1 "Königsberg"
  STATE_6:0 "Centraal-Brussel"
- STATE_7:0 "North Holland"
+ STATE_7:0 "Amsterdam"
  STATE_8:0 "Luxembourg"
- STATE_9:0 "Bohemia"
+ STATE_9:0 "Prague"
  STATE_10:0 "Warszawa"
  STATE_11:0 "Kaunas"
- STATE_12:0 "Vidzeme"
- STATE_13:0 "Harju"
- STATE_14:0 "Brittany"
+ STATE_12:0 "Jaunpiebalga"
+ STATE_13:0 "Tallinn"
+ STATE_14:0 "Lorient"
  STATE_15:0 "Vire"
  STATE_16:0 "Paris"
- STATE_17:1 "Doubs"
+ STATE_17:1 "Ornans"
  STATE_18:0 "Epernay"
  STATE_19:0 "Aquitaine"
  STATE_20:0 "Rhone"
@@ -102,7 +102,7 @@
  STATE_101:0 "Greenland"
  STATE_102:0 "Slovenia"
  STATE_103:0 "Dalmatia"
- STATE_104:0 "Bosnia"
+ STATE_104:0 "Banja Luka"
  STATE_105:0 "Montenegro"
  STATE_106:0 "Macedonia"
  STATE_107:0 "Serbia"
@@ -135,7 +135,7 @@
  STATE_134:0 "Connaught"
  STATE_135:0 "Munster"
  STATE_136:0 "Aberdeenshire"
- STATE_137:0 "Crimea"
+ STATE_137:0 "Yevpatoriya"
  STATE_138:0 "Skåne"
  STATE_139:0 "Vimmerby"
  STATE_140:0 "Bengtsfors"
@@ -188,17 +188,17 @@
  STATE_187:0 "Chios"
  STATE_188:0 "Memel"
  STATE_189:1 "Siauliai"
- STATE_190:0 "Kurzeme"
+ STATE_190:0 "Liepaja"
  STATE_191:0 "Tartu"
  STATE_192:0 "Odessa"
  STATE_193:0 "Nizhyn"
  STATE_194:0 "Mozyr"
  STATE_195:0 "Leningrad"
- STATE_196:0 "Central Kherson"
+ STATE_196:0 "Kakhovka"
  STATE_197:0 "East Mykolaiv"
  STATE_198:0 "Vinnytsia"
  STATE_199:0 "South Khmelnytskyi"
- STATE_200:0 "Zaporozhe"
+ STATE_200:0 "Melitopol"
  STATE_201:0 "Zhytomyr"
  STATE_202:0 "Kiev"
  STATE_203:0 "Cherkasy"
@@ -219,14 +219,14 @@
  STATE_218:0 "Rostov"
  STATE_219:0 "Moscow"
  STATE_220:0 "Kursk"
- STATE_221:0 "Kharkov"
+ STATE_221:0 "Krasnohrad"
  STATE_222:0 "Orel"
  STATE_223:0 "Tula"
  STATE_224:0 "Bryansk"
  STATE_225:0 "Sumy"
  STATE_226:0 "Nikopol"
- STATE_227:0 "Stalino"
- STATE_228:0 "Voroshilovgrad"
+ STATE_227:0 "Kramatorsk"
+ STATE_228:0 "Severodonetsk"
  STATE_229:1 "Baku"
  STATE_230:0 "Gosh"
  STATE_231:0 "Tsageri"
@@ -243,7 +243,7 @@
  STATE_242:0 "Smolensk"
  STATE_243:0 "Roslavl"
  STATE_244:0 "Volkhov"
- STATE_245:0 "Millerovo"
+ STATE_245:0 "Surovikino"
  STATE_246:0 "Rzhev"
  STATE_247:0 "Kalinin"
  STATE_248:0 "Yaroslavl"
@@ -266,7 +266,7 @@
  STATE_265:0 "Manino"
  STATE_266:0 "Tehran"
  STATE_267:0 "Bamian"
- STATE_268:0 "Djibouti"
+ STATE_268:0 "Ali Sabieh"
  STATE_269:0 "Outer Berbera"
  STATE_270:0 "Pitcairn Island"
  STATE_271:0 "Addis Ababa"
@@ -289,7 +289,7 @@
  STATE_288:0 "Rangoon"
  STATE_289:0 "Bangkok"
  STATE_290:0 "Tetuán"
- STATE_291:0 "Baghdad"
+ STATE_291:0 "Karkh"
  STATE_292:0 "Nejd"
  STATE_293:0 "Yemen"
  STATE_294:0 "Oman"
@@ -321,7 +321,7 @@
  STATE_320:0 "Outer Pondicherry"
  STATE_321:0 "Goa"
  STATE_322:0 "Nagqu"
- STATE_323:0 "Southern Nepal"
+ STATE_323:0 "Kathmandu"
  STATE_324:0 "Bhutan"
  STATE_325:4 "Yunnan"
  STATE_326:0 "Outer Hong Kong"
@@ -408,19 +408,19 @@
  STATE_407:1 "Uralsk"
  STATE_408:0 "Vladivostok"
  STATE_409:0 "Khabarovsk"
- STATE_410:0 "Sistan"
+ STATE_410:0 "Iranshahr"
  STATE_411:0 "Isfahan"
- STATE_412:0 "Fars"
+ STATE_412:0 "Sirjan"
  STATE_413:0 "Khuzestan"
  STATE_414:0 "Kerman"
  STATE_415:0 "Guzara"
- STATE_416:0 "Khorasan"
+ STATE_416:0 "Neyshabur"
  STATE_417:0 "Hamadan"
  STATE_418:0 "Semnan"
  STATE_419:1 "Tibriz"
- STATE_420:0 "Gilan"
+ STATE_420:0 "Aqkand"
  STATE_421:0 "Kurdistan"
- STATE_422:0 "Kolamba"
+ STATE_422:0 "Colombo"
  STATE_423:0 "Madurai"
  STATE_424:0 "Chittoor"
  STATE_425:0 "Mysore"
@@ -615,7 +615,7 @@
  STATE_614:0 "Hopeh"
  STATE_615:0 "Shansi"
  STATE_616:0 "Ningsia"
- STATE_617:0 "Urumchi"
+ STATE_617:0 "Korla"
  STATE_618:0 "Jungaria"
  STATE_619:0 "Yarkand"
  STATE_620:0 "Hupeh"
@@ -673,7 +673,7 @@
  STATE_672:0 "Medan"
  STATE_673:0 "Luwu"
  STATE_674:0 "Pilbara"
- STATE_675:0 "Al Hajara"
+ STATE_675:0 "Al Salman"
  STATE_676:0 "Mosul"
  STATE_677:0 "Ma'arat al-Nu'man"
  STATE_678:0 "Rub al Khali"
@@ -817,7 +817,7 @@
  STATE_816:0 "Niš"
  STATE_817:0 "Western Banat"
  STATE_818:0 "Osijek"
- STATE_819:0 "Herzegovina"
+ STATE_819:0 "Posusje"
  STATE_820:0 "Central Epirus"
  STATE_821:0 "North Epirus"
  STATE_822:0 "Tinos"
@@ -990,9 +990,9 @@
  STATE_989:0 "East Inner Greenland"
  STATE_990:0 "Klaipedos"
  STATE_991:0 "Utenos"
- STATE_992:0 "Latgale"
- STATE_993:0 "Zemgale"
- STATE_994:0 "Tukums"
+ STATE_992:0 "Rezekne""
+ STATE_993:0 "Ilukste"
+ STATE_994:0 "Jelgava"
  STATE_995:0 "Hiiu-Sarre"
  STATE_996:0 "Sikkim"
  STATE_997:0 "Karachi"
@@ -1005,7 +1005,7 @@
  STATE_1004:0 "Udaipur"
  STATE_1005:0 "Jaipur"
  STATE_1006:0 "Ladakh"
- STATE_1007:0 "Aksai Chin"
+ STATE_1007:0 "Hotan"
  STATE_1008:0 "Pytalovo"
  STATE_1009:0 "Pomorze Gdanskie"
  STATE_1010:0 "Kalisz"
@@ -1133,7 +1133,7 @@
  STATE_1132:0 "Malmö"
  STATE_1133:0 "Tanumshede"
  STATE_1134:0 "Borgholm"
- STATE_1135:0 "Riga"
+ STATE_1135:0 "Ādaži"
  STATE_1136:0 "Laeso"
  STATE_1137:0 "Samso"
  STATE_1138:0 "Aero"
@@ -1157,7 +1157,7 @@
  STATE_1156:0 "Veliki Izvor"
  STATE_1157:0 "Trieste"
  STATE_1158:0 "West Azerbaijan"
- STATE_1159:0 "Ardabil"
+ STATE_1159:0 "Meshginshahr"
  STATE_1160:0 "Lorestan"
  STATE_1161:0 "Kim"
  STATE_1162:0 "Alamogordo"
@@ -1276,7 +1276,7 @@
  STATE_1275:0 "Mosquito Coast"
  STATE_1276:0 "Missoula"
  STATE_1277:0 "East Kiel Canal"
- STATE_1278:0 "Tabarestan"
+ STATE_1278:0 "Firuzkuh"
  STATE_1279:0 "South Suchow"
  STATE_1280:0 "Minchin"
  STATE_1281:0 "Lori"
@@ -1327,7 +1327,7 @@
  STATE_1326:0 "North Koblenz"
  STATE_1327:0 "Lyubimovka"
  STATE_1328:0 "Losevo"
- STATE_1329:0 "Chakhty"
+ STATE_1329:0 "Bazkovkaya"
  STATE_1330:0 "Yelan"
  STATE_1331:0 "Chelm"
  STATE_1332:0 "Przemysl"
@@ -1365,23 +1365,23 @@
  STATE_1364:0 "Ak-Turpak"
  STATE_1365:0 "Ashgabat"
  STATE_1366:0 "Salah Ad-Din"
- STATE_1367:0 "Karbala"
- STATE_1368:0 "Nadschaf"
- STATE_1369:0 "al-Wasit"
+ STATE_1367:0 "Mashhad"
+ STATE_1368:0 "Al Qusayr"
+ STATE_1369:0 "Gassan"
  STATE_1370:0 "Konstanz"
  STATE_1371:0 "Maisan"
  STATE_1372:0 "Ellikala"
  STATE_1373:0 "Basra"
  STATE_1374:0 "Odalar"
- STATE_1375:0 "Dhi Qar"
+ STATE_1375:0 "Rawdan-Khanjah"
  STATE_1376:0 "Al-Qaim"
  STATE_1377:0 "Ramadi"
  STATE_1378:0 "Bukhara"
- STATE_1379:0 "Al-Zubair"
+ STATE_1379:0 "Ar Rumaylah"
  STATE_1380:0 "Dushanbe"
  STATE_1381:0 "Thamil"
  STATE_1382:0 "Nukus"
- STATE_1383:0 "Ar-Rutba"
+ STATE_1383:0 "Al-Kasrah"
  STATE_1384:0 "Lusatia"
  STATE_1385:0 "Vienna"
  STATE_1386:0 "Dobling"
@@ -1715,7 +1715,7 @@
  STATE_1714:0 "Jacunda"
  STATE_1715:0 "Rondolandia"
  STATE_1716:0 "Mahaica-Berbice"
- STATE_1717:0 "Rossoch"
+ STATE_1717:0 "Kamenka"
  STATE_1718:0 "Rogovatoye"
  STATE_1719:0 "Novomoskovsk"
  STATE_1720:0 "Kholtobino"
@@ -2173,10 +2173,10 @@
  STATE_2172:0 "Pasul Tulghes"
  STATE_2173:0 "Pasul Valcan"
  STATE_2174:0 "Portile de Fier"
- STATE_2175:0 "Drvar"
- STATE_2176:0 "Bugojno"
+ STATE_2175:0 "Sanski Most"
+ STATE_2176:0 "Zenica"
  STATE_2177:0 "Dakovo"
- STATE_2178:0 "Stepen"
+ STATE_2178:0 "Bileca"
  STATE_2179:0 "Maku"
  STATE_2180:0 "Giresun"
  STATE_2181:0 "North Moscow"
@@ -2188,7 +2188,7 @@
  STATE_2187:0 "East London"
  STATE_2188:0 "London"
  STATE_2189:0 "Znojmo"
- STATE_2190:0 "Suez Reclamation Zone"
+ STATE_2190:0 "Taganrog"
  STATE_2191:0 "Vladivostok Port"
  STATE_2192:0 "North Tokyo"
  STATE_2193:0 "North Central Osaka"
@@ -2261,11 +2261,11 @@
  STATE_2260:0 "Mohoto"
  STATE_2261:0 "Bjørkelangen"
  STATE_2262:0 "Töcksfors"
- STATE_2263:0 "Istočno Sarajevo"
- STATE_2264:0 "Brcko"
+ STATE_2263:0 "Sokolac"
+ STATE_2264:0 "Maoca"
  STATE_2265:0 "South Pola"
  STATE_2266:0 "Posavina"
- STATE_2267:0 "Ilidza"
+ STATE_2267:0 "Konjic"
  STATE_2268:0 "Greer"
  STATE_2269:0 "Peregu Mare"
  STATE_2270:0 "Iratosu"
@@ -2478,9 +2478,9 @@
  STATE_2477:0 "East Gelderland"
  STATE_2478:0 "North Gelderland"
  STATE_2479:0 "Novorossíysk"
- STATE_2480:0 "North Crimea"
- STATE_2481:0 "East Crimea"
- STATE_2482:0 "South Crimea"
+ STATE_2480:0 "Dzhankoi"
+ STATE_2481:0 "Kerch"
+ STATE_2482:0 "Yalta"
  STATE_2483:0 "Volnovakha"
  STATE_2484:0 "Ingushetia"
  STATE_2485:0 "Khadyzhensk"
@@ -2512,7 +2512,7 @@
  STATE_2511:0 "North Mosquito"
  STATE_2512:0 "West Quetta"
  STATE_2513:0 "North Khuzestan"
- STATE_2514:0 "North Sistan"
+ STATE_2514:0 "Nosratabad"
  STATE_2515:0 "Isla Socorro"
  STATE_2516:0 "Clipperton Island"
  STATE_2517:0 "Northwest Punjab"
@@ -2651,6 +2651,7 @@
  STATE_2650:0 "Stanley"
  STATE_2651:0 "Easter Island"
  STATE_2652:0 "Tinian"
+ STATE_2653:0 "Bikar"
  STATE_2654:0 "Rota"
  STATE_2655:0 "Anatahan"
  STATE_2656:0 "Cyprus DMZ"
@@ -2784,9 +2785,9 @@
  STATE_2784:0 "Bergamo"
  STATE_2785:0 "Morbegno"
  STATE_2786:0 "Thonon-les-Bains"
- STATE_2787:0 "Novi Grad"
- STATE_2788:0 "Podovi"
- STATE_2789:0 "Mostar"
+ STATE_2787:0 "Kozarska Dubica"
+ STATE_2788:0 "Mrkonjić Grad"
+ STATE_2789:0 "Bugojno"
  STATE_2790:0 "Gruziadz"
  STATE_2791:0 "Kotor"
  STATE_2792:0 "Marib"
@@ -2799,9 +2800,9 @@
  STATE_2799:0 "Hailuoto"
  STATE_2800:0 "Börsskäret"
  STATE_2801:0 "Turku Archipelago"
- STATE_2802:0 "Aland"
- STATE_2803:0 "Fasta Aland"
- STATE_2804:0 "Eckero"
+ STATE_2802:0 "NOT USED"
+ STATE_2803:0 "Aland Islands"
+ STATE_2804:0 "NOT USED"
  STATE_2805:0 "Gran Canaria"
  STATE_2806:0 "Tenerife"
  STATE_2807:0 "Lesser Canaries"
@@ -2937,7 +2938,7 @@
  STATE_2937:0 "Krokom"
  STATE_2938:0 "Gaddede"
  STATE_2939:0 "Stoten"
- STATE_2940:0 "Karlstad"
+ STATE_2940:0 "West Karlstad"
  STATE_2941:0 "Ulricehamn"
  STATE_2942:0 "Uppsala"
  STATE_2943:0 "Eskilstuna"
@@ -3224,8 +3225,8 @@
  STATE_3224:0 "Pasighat"
  STATE_3225:0 "64 Villages"
  STATE_3226:0 "Novoazovsk"
- STATE_3227:0 "Dovzhansk"
- STATE_3228:0 "Nagibin"
+ STATE_3227:0 "Luhansk"
+ STATE_3228:0 "Markivka"
  STATE_3229:0 "West Chelm"
  STATE_3230:0 "East Bialystok"
  STATE_3231:0 "Fiadory"
@@ -3234,7 +3235,7 @@
  STATE_3234:0 "East Gomel"
  STATE_3235:0 "Inner Sumy"
  STATE_3236:0 "North Sumy"
- STATE_3237:0 "Valuyki"
+ STATE_3237:0 "Biryuch"
  STATE_3238:0 "Kamarouka"
  STATE_3239:0 "Luje"
  STATE_3240:0 "Orbetello"
@@ -3289,7 +3290,7 @@
  STATE_3289:0 "Ningyuan"
  STATE_3290:0 "Maluchen"
  STATE_3291:0 "West Tunganistan"
- STATE_3292:0 "Khotan"
+ STATE_3292:0 "Keriya Delta"
  STATE_3293:0 "Jochi'ang"
  STATE_3294:0 "Kumul"
  STATE_3295:0 "Alegrete"
@@ -3331,8 +3332,8 @@
  STATE_3331:0 "South Epirus"
  STATE_3332:0 "Dubai City"
  STATE_3333:0 "Ras al-Khaimah"
- STATE_3334:0 "East Khorasan"
- STATE_3335:0 "East Birjand"
+ STATE_3334:0 "Taybad"
+ STATE_3335:0 "Hajiabad"
  STATE_3336:0 "Yaounde"
  STATE_3337:0 "North Douala"
  STATE_3338:0 "Koln"
@@ -3407,7 +3408,7 @@
  STATE_3407:0 "Doolow"
  STATE_3408:0 "Farlibaax"
  STATE_3409:0 "Kandy"
- STATE_3410:0 "Kataragama"
+ STATE_3410:0 "Bandarwella"
  STATE_3411:0 "Jaffna"
  STATE_3412:0 "Pontecorvo"
  STATE_3413:0 "Benevento"
@@ -3502,7 +3503,7 @@
  STATE_3502:0 "Midtjylland"
  STATE_3503:0 "Koshekhabl'"
  STATE_3504:0 "Gelendzhik"
- STATE_3505:0 "Koknese"
+ STATE_3505:0 "Ergli"
  STATE_3506:0 "Temyruk"
  STATE_3507:0 "Lom"
  STATE_3508:0 "Svishtov"
@@ -3557,7 +3558,7 @@
  STATE_3557:0 "Beris"
  STATE_3558:0 "Jiwani"
  STATE_3559:0 "Sirkan"
- STATE_3560:0 "Washap"
+ STATE_3560:0 "Keshtegan"
  STATE_3561:0 "Zabol"
  STATE_3562:0 "Zillah"
  STATE_3563:0 "Hashtadan"
@@ -3613,8 +3614,8 @@
  STATE_3613:0 "Holsteinborg"
  STATE_3614:0 "Mouries"
  STATE_3615:0 "Ploiesti"
- STATE_3616:0 "Sirik"
- STATE_3617:0 "Asaloyeh"
+ STATE_3616:0 "Chabahar"
+ STATE_3617:0 "Jahrom"
  STATE_3618:0 "Tomb of Suleyman Shah"
  STATE_3619:0 "Amderma"
  STATE_3620:0 "Yary"
@@ -3774,9 +3775,9 @@
  STATE_3774:0 "Liuta"
  STATE_3775:0 "Mizhhiria"
  STATE_3776:0 "Napoca"
- STATE_3777:0 "Kurakhovo"
- STATE_3778:0 "Gorlovka"
- STATE_3779:0 "Chuguev"
+ STATE_3777:0 "Alchevsk"
+ STATE_3778:0 "Makarovye"
+ STATE_3779:0 "Balakliya"
  STATE_3780:0 "Belgorod"
  STATE_3781:0 "Halmstad"
  STATE_3782:0 "Gibara"
@@ -3858,9 +3859,9 @@
  STATE_3858:0 "Kuhmo"
  STATE_3859:0 "Loimaa"
  STATE_3860:0 "Lammi"
- STATE_3861:0 "North Nadschaf"
- STATE_3862:0 "Central Nadschaf"
- STATE_3863:0 "Amarah"
+ STATE_3861:0 "Heet"
+ STATE_3862:0 "Abu el Jir"
+ STATE_3863:0 "Althaniya"
  STATE_3864:0 "Hakodate"
  STATE_3865:0 "Wakkanai"
  STATE_3866:0 "Texarkana"
@@ -4082,9 +4083,9 @@
  STATE_4082:0 "Sirvintos"
  STATE_4083:0 "Plunge"
  STATE_4084:0 "Bubiai"
- STATE_4085:0 "Jurmala"
+ STATE_4085:0 "Tukums"
  STATE_4086:0 "Kolka"
- STATE_4087:0 "Valmiera"
+ STATE_4087:0 "Vecpiebalga"
  STATE_4088:0 "Butow"
  STATE_4089:0 "Schwarz Damerkow"
  STATE_4090:0 "Reihershorst"
@@ -4391,7 +4392,7 @@
  STATE_4391:0 "Kilkis"
  STATE_4392:0 "East Galabovo"
  STATE_4393:0 "East Lovech"
- STATE_4394:0 "East Nadschaf"
+ STATE_4394:0 "Shamiyah"
  STATE_4395:0 "New Orleans"
  STATE_4396:0 "Peyla"
  STATE_4397:0 "Isle Royale"
@@ -4839,16 +4840,16 @@
  STATE_4839:0 "Bershty"
  STATE_4840:0 "Łuck"
  STATE_4841:0 "Slonim"
- STATE_4842:0 "Liepaja"
+ STATE_4842:0 "Alsunga"
  STATE_4843:0 "Saldus"
  STATE_4844:0 "Ignalina"
  STATE_4845:0 "Kuldiga"
- STATE_4846:0 "Nereta"
- STATE_4847:0 "Jekabpils"
- STATE_4848:0 "Valmiera"
+ STATE_4846:0 "Viesite"
+ STATE_4847:0 "Atasiene"
+ STATE_4848:0 "Rūjiena"
  STATE_4849:0 "Balvi"
  STATE_4850:0 "Kraslava"
- STATE_4851:0 "Aluksne"
+ STATE_4851:0 "Gulbene"
  STATE_4852:0 "Misso"
  STATE_4853:0 "Kabli"
  STATE_4854:0 "Haapsalu"
@@ -4990,10 +4991,10 @@
  STATE_4990:0 "Kalar"
  STATE_4991:0 "Kuhdasht"
  STATE_4992:0 "Dorud"
- STATE_4993:0 "Kut"
- STATE_4994:0 "Shafi"
+ STATE_4993:0 "Al Fajr"
+ STATE_4994:0 "Shatt al Arab Desert"
  STATE_4995:0 "Nema"
- STATE_4996:0 "Elkhalil"
+ STATE_4996:0 "Tessalit"
  STATE_4997:0 "Gao"
  STATE_4998:0 "Gouta"
  STATE_4999:0 "Abri"
@@ -5025,7 +5026,7 @@
  STATE_5025:0 "Agadir"
  STATE_5026:0 "Guelmim"
  STATE_5027:0 "Egahlou"
- STATE_5028:0 "Zolochiv"
+ STATE_5028:0 "Kharkiv"
  STATE_5029:0 "Senja"
  STATE_5030:0 "Ringvassoya"
  STATE_5031:0 "Srb"
@@ -5148,11 +5149,11 @@
  STATE_5148:0 "Grenoble"
  STATE_5149:0 "Toulon"
  STATE_5150:0 "Bijeljina"
- STATE_5151:0 "Stolac"
- STATE_5152:0 "Mosko"
- STATE_5153:0 "Sokolac"
+ STATE_5151:0 "Mostar"
+ STATE_5152:0 "Trebinje"
+ STATE_5153:0 "Srebenica"
  STATE_5154:0 "Cazin"
- STATE_5155:0 "Zebe"
+ STATE_5155:0 "Drvar"
  STATE_5156:0 "Metkovic"
  STATE_5157:0 "Barnstaple"
  STATE_5158:0 "Southerness"
@@ -5365,7 +5366,7 @@
  STATE_5365:0 "Le Havre"
  STATE_5366:0 "Brescia"
  STATE_5367:0 "Korenica"
- STATE_5368:0 "Zalom"
+ STATE_5368:0 "Goradze"
  STATE_5369:0 "Slatina"
  STATE_5370:0 "Budoni"
  STATE_5371:0 "Jaroslaw"
@@ -5674,7 +5675,7 @@
  STATE_5674:0 "Al-Ba'ij"
  STATE_5675:0 "North Al-Mafraq"
  STATE_5676:0 "Al-Shabika"
- STATE_5677:0 "Qa'am"
+ STATE_5677:0 "Qa'im"
  STATE_5678:0 "Qaryat Al-Ashiq"
  STATE_5679:0 "Bardarash"
  STATE_5680:0 "Shaqlawa"
@@ -5773,9 +5774,9 @@
  STATE_5773:0 "Rastenburg"
  STATE_5774:0 "Sindi"
  STATE_5775:0 "Kallaste"
- STATE_5776:0 "Balvi"
- STATE_5777:0 "Rezekne"
- STATE_5778:0 "Odzeina"
+ STATE_5776:0 "Litene"
+ STATE_5777:0 "Barkava"
+ STATE_5778:0 "Kalsnava"
  STATE_5779:0 "Viseul de Sus"
  STATE_5780:0 "Andoain"
  STATE_5781:0 "Tolosa"
@@ -5786,7 +5787,7 @@
  STATE_5786:0 "Alesd"
  STATE_5787:0 "Bogdand"
  STATE_5788:0 "Szarkowszczyna"
- STATE_5789:0 "Rezekne"
+ STATE_5789:0 "Kaunata"
  STATE_5790:0 "Tilza"
  STATE_5791:0 "Seda"
  STATE_5792:0 "Smorgonie"
@@ -5874,7 +5875,7 @@
  STATE_5874:0 "Hoko"
  STATE_5875:0 "Samasana"
  STATE_5876:0 "Kotosho"
- STATE_5877:0 "Chhand"
+ STATE_5877:0 "Dust Mohammad"
  STATE_5878:0 "Nehbandan"
  STATE_5879:0 "Bam"
  STATE_5880:0 "Dehbarez"
@@ -5885,15 +5886,15 @@
  STATE_5885:0 "Alkhhafah"
  STATE_5886:0 "Al-Khafji"
  STATE_5887:0 "Al Qaisumah"
- STATE_5888:0 "Al Salman"
- STATE_5889:0 "Al Hartha"
- STATE_5890:0 "Rumaila"
- STATE_5891:0 "Qasr Ibn Darahim"
- STATE_5892:0 "North Salman"
+ STATE_5888:0 "Al Bussayyah"
+ STATE_5889:0 "Al Halfayah"
+ STATE_5890:0 "Amarah"
+ STATE_5891:0 "Al Islah"
+ STATE_5892:0 "Nasiriyah"
  STATE_5893:0 "Al Shirqat"
  STATE_5894:0 "Hatra"
- STATE_5895:0 "Nebai"
- STATE_5896:0 "Balad"
+ STATE_5895:0 "Tikrit"
+ STATE_5896:0 "Samarra"
  STATE_5897:0 "Showt"
  STATE_5898:0 "Oshnavieh"
  STATE_5899:0 "Nanas"
@@ -6006,10 +6007,10 @@
  STATE_6006:0 "Lyntupy"
  STATE_6007:0 "Kaltaruny"
  STATE_6008:0 "Cherty"
- STATE_6009:0 "Pinki"
- STATE_6010:0 "Olaine"
+ STATE_6009:0 "Marupes"
+ STATE_6010:0 "Baldone"
  STATE_6011:0 "Lasva"
- STATE_6012:0 "Markalne"
+ STATE_6012:0 "Aluksne"
  STATE_6013:0 "Spis"
  STATE_6014:0 "Mynai"
  STATE_6015:0 "Nyelv"
@@ -6358,7 +6359,7 @@
  STATE_6358:0 "Central Rub Al Khali"
  STATE_6359:0 "Central Najran"
  STATE_6360:0 "West Rub Al Khali"
- STATE_6361:0 "Dashtivland"
+ STATE_6361:0 "Rezvanshahr"
  STATE_6362:0 "Agach"
  STATE_6363:0 "Asalem"
  STATE_6364:0 "North Mechili"
@@ -6960,21 +6961,21 @@
  STATE_6960:0 "Um Kedad"
  STATE_6961:0 "Al Qalibah"
  STATE_6962:0 "Rafha"
- STATE_6963:0 "South At-Tanf"
- STATE_6964:0 "West Rutba"
+ STATE_6963:0 "Al Waleed"
+ STATE_6964:0 "Ardamah"
  STATE_6965:0 "Arar"
- STATE_6966:0 "Kasim al Raqqas"
+ STATE_6966:0 "Ar Rattawi"
  STATE_6967:0 "Al Shabakah"
- STATE_6968:0 "Hit"
- STATE_6969:0 "Batha"
+ STATE_6968:0 "Hit Desert"
+ STATE_6969:0 "Irial Ask Shaykhiyah"
  STATE_6970:0 "Chibayish"
- STATE_6971:0 "South Dhi Qar"
+ STATE_6971:0 "Al-Khidhir"
  STATE_6972:0 "Shatrah"
- STATE_6973:0 "Hamzah"
- STATE_6974:0 "North Namzah"
- STATE_6975:0 "West Kut"
+ STATE_6973:0 "Habbaniyah"
+ STATE_6974:0 "Tharthar City"
+ STATE_6975:0 "Al Diwaniyah"
  STATE_6976:0 "South Penjwen"
- STATE_6977:0 "East Ramadi"
+ STATE_6977:0 "Baqubah"
  STATE_6978:0 "North Basra"
  STATE_6979:0 "East Balad"
  STATE_6980:0 "North Balad"
@@ -7056,11 +7057,11 @@
  STATE_7056:0 "Shaban Kareh"
  STATE_7057:0 "Sanandaj"
  STATE_7058:0 "East Hamadan"
- STATE_7059:0 "Karaj"
+ STATE_7059:0 "Qom"
  STATE_7060:0 "Abhar"
  STATE_7061:0 "Gorgan"
  STATE_7062:0 "Ekerem"
- STATE_7063:0 "Himalayan Mountains"
+ STATE_7063:0 "Sagarmatha"
  STATE_7064:0 "Palizhen"
  STATE_7065:0 "Tawang"
  STATE_7066:0 "Kurung Kumey"
@@ -7115,9 +7116,9 @@
  STATE_7115:0 "Tuzluca"
  STATE_7116:0 "North Tibriz"
  STATE_7117:0 "South Tibriz"
- STATE_7118:0 "North Marand"
+ STATE_7118:0 "Ahar"
  STATE_7119:0 "South Marand"
- STATE_7120:0 "South Ardabil"
+ STATE_7120:0 "Ardabil"
  STATE_7121:0 "Diyadin"
  STATE_7122:0 "Eleskirt"
  STATE_7123:0 "Tutak"
@@ -7341,8 +7342,8 @@
  STATE_7341:0 "Sveti Stefan"
  STATE_7342:0 "Kotor"
  STATE_7343:0 "Tivat"
- STATE_7344:0 "Rijeka"
- STATE_7345:0 "Goransko"
+ STATE_7344:0 "Visegrad"
+ STATE_7345:0 "Kazanci"
  STATE_7346:0 "Pljevlja"
  STATE_7347:0 "Ruma"
  STATE_7348:0 "Surcin"
@@ -7350,12 +7351,12 @@
  STATE_7350:0 "Vladimirci"
  STATE_7351:0 "North Dubnica"
  STATE_7352:0 "West Duborvnik"
- STATE_7353:0 "North Stepen"
- STATE_7354:0 "North Sokolac"
- STATE_7355:0 "North Brcko"
- STATE_7356:0 "North Bugojno"
+ STATE_7353:0 "Kalinovik"
+ STATE_7354:0 "Tuzla"
+ STATE_7355:0 "Brcko"
+ STATE_7356:0 "Derventa"
  STATE_7357:0 "Orahova"
- STATE_7358:0 "West Drvar"
+ STATE_7358:0 "Bihac"
  STATE_7359:0 "Nin"
  STATE_7360:0 "Vrsi"
  STATE_7361:0 "Starigrad"
@@ -7373,7 +7374,7 @@
  STATE_7373:0 "Erdut"
  STATE_7374:0 "Ridica"
  STATE_7375:0 "Jamena"
- STATE_7376:0 "Kusmin"
+ STATE_7376:0 "Sid"
  STATE_7377:0 "Sremska Mitrovica"
  STATE_7378:0 "Irig"
  STATE_7379:0 "Beska"
@@ -7759,8 +7760,8 @@
  STATE_7759:0 "Kelme"
  STATE_7760:0 "Telsiai"
  STATE_7761:0 "Mazeikiai"
- STATE_7762:0 "Tireli"
- STATE_7763:0 "Eleja"
+ STATE_7762:0 "Jaunpils"
+ STATE_7763:0 "Dobele"
  STATE_7764:0 "Ometepe"
  STATE_7765:0 "Western Nicaragua Canal Site"
  STATE_7766:0 "San Juan del Sur"
@@ -7809,7 +7810,7 @@
  STATE_7809:0 "South Mutumbo"
  STATE_7810:0 "North Cuvelai"
  STATE_7811:0 "East Cuvelai"
- STATE_7812:0 "South Moxico"
+ STATE_7812:0 "Ninda"
  STATE_7813:0 "Mugara"
  STATE_7814:0 "Usumbura"
  STATE_7815:0 "East Ouesso"
@@ -7975,7 +7976,7 @@
  STATE_7975:0 "Hran"
  STATE_7976:0 "Aiyetoro"
  STATE_7977:0 "Ucluelet"
- STATE_7978:0 "North Tabarestan"
+ STATE_7978:0 "Qaem Shahr"
  STATE_7979:0 "Behshahr"
  STATE_7980:0 "Rasht"
  STATE_7981:0 "Kandira"
@@ -8088,11 +8089,11 @@
  STATE_8088:0 "North Ieud"
  STATE_8089:0 "South Borsa"
  STATE_8090:0 "Selfkant"
- STATE_8091:0 "Central Sistan"
- STATE_8092:0 "East Bam"
- STATE_8093:0 "West Sistan"
- STATE_8094:0 "North Sirik"
- STATE_8095:0 "East Minab"
+ STATE_8091:0 "Khash"
+ STATE_8092:0 "Bazman"
+ STATE_8093:0 "Rameshk"
+ STATE_8094:0 "Bent"
+ STATE_8095:0 "Sardasht"
  STATE_8096:0 "Lang Suan"
  STATE_8097:0 "Takua Pa"
  STATE_8098:0 "Singhanakhon"
@@ -8452,7 +8453,7 @@
  STATE_8452:0 "Bangaon"
  STATE_8453:0 "Mar Chica"
  STATE_8454:0 "Aliwal"
- STATE_8455:0 "Neyshabur"
+ STATE_8455:0 "Torgabeh"
  STATE_8456:0 "South Valencia Atlantropa Zone"
  STATE_8457:0 "Bandar Ganaveh"
  STATE_8458:0 "Mawa"
@@ -8722,7 +8723,7 @@
  STATE_8722:0 "South Pacific Ocean"
  STATE_8723:0 "Bismarck and Solomon Sea"
  STATE_8724:0 "Sibuyan Sea"
- STATE_8725:0 "Celebes Sea"
+ STATE_8725:0 "Schwele"
  STATE_8726:0 "Sulu Sea"
  STATE_8727:0 "Sarawak Coast"
  STATE_8728:0 "Malaysian Coast"
@@ -8818,10 +8819,10 @@
  STATE_8818:0 "Gulf of Finland"
  STATE_8819:0 "Nawada"
  STATE_8820:0 "Zuiderzee"
- STATE_8821:0 "Barandagh"
+ STATE_8821:0 "Khalkhal"
  STATE_8822:0 "Dogger Bank"
  STATE_8823:0 "North Sea"
- STATE_8824:0 "Leinster Coast"
+ STATE_8824:0 "Harmak"
  STATE_8825:0 "Firuzabad"
  STATE_8826:0 "Manx Sea"
  STATE_8827:0 "Rungwa	"
@@ -8871,7 +8872,7 @@
  STATE_8871:0 "Lake Torrens"
  STATE_8872:0 "Lake Gairdner"
  STATE_8873:0 "Chott et Djerid"
- STATE_8874:0 "Chott El Fejaj"
+ STATE_8874:0 "Ali"
  STATE_8875:0 "Lake Chad"
  STATE_8876:0 "South Lake Chad"
  STATE_8877:0 "Lake Malawi"
@@ -8951,13 +8952,13 @@
  STATE_8951:0 "Haro Strait"
  STATE_8952:0 "Great Salt Lake"
  STATE_8953:0 "Texan Coast"
- STATE_8954:0 "Veracruz Coast"
+ STATE_8954:0 "Dehak"
  STATE_8955:0 "Lago Cocibolca"
  STATE_8956:0 "Omdurman"
  STATE_8957:0 "Lake Titicaca"
  STATE_8958:0 "Al Khor"
  STATE_8959:0 "Lake Poopo"
- STATE_8960:0 "Chilean Coast"
+ STATE_8960:0 "Baldruz"
  STATE_8961:0 "Dead Sea"
  STATE_8962:0 "Lake Volta"
  STATE_8963:0 "Lago Xolotlan"
@@ -9022,9 +9023,9 @@
  STATE_9022:0 "Coffs Harbour"
  STATE_9023:0 "Kompong Thom"
  STATE_9024:0 "Phnom Penh"
- STATE_9025:0 "Nasriyah"
- STATE_9026:0 "Samawah"
- STATE_9027:0 "Mahmudiyah"
+ STATE_9025:0 "Samawah"
+ STATE_9026:0 "Al Haj-Ulwan"
+ STATE_9027:0 "Ramadi"
  STATE_9028:0 "East Al-Qaim"
  STATE_9029:0 "East Hatra"
  STATE_9030:0 "Dayr Al-Kahf"
@@ -9164,7 +9165,7 @@
  STATE_9164:0 "La Viuda"
  STATE_9165:0 "Maturin"
  STATE_9166:0 "Amarilis"
- STATE_9167:0 "Blanquero"
+ STATE_9167:0 "Sadkharve"
  STATE_9168:0 "Punta Playa"
  STATE_9169:0 "Mabaruma"
  STATE_9170:0 "Baramita"
@@ -9275,7 +9276,7 @@
  STATE_9275:0 "Talinn Coast"
  STATE_9276:0 "Marand"
  STATE_9277:0 "Rigan Coast"
- STATE_9278:0 "Liepaja Coast"
+ STATE_9278:0 "Zeydar"
  STATE_9279:0 "Faqawea"
  STATE_9280:0 "Kurisches Haff"
  STATE_9281:0 "North Frisches Haff"
@@ -9290,7 +9291,7 @@
  STATE_9290:0 "Limfjord"
  STATE_9291:0 "Halmstad Coast"
  STATE_9292:0 "Sutherland"
- STATE_9293:0 "Halvan"
+ STATE_9293:0 "Eshqabad"
  STATE_9294:0 "Miyaneh"
  STATE_9295:0 "Medininagar"
  STATE_9296:0 "Hajipur"
@@ -9306,7 +9307,7 @@
  STATE_9306:0 "Utete"
  STATE_9307:0 "East Shetland North Sea Dam Site"
  STATE_9308:0 "Munger"
- STATE_9309:0 "Larpaln"
+ STATE_9309:0 "Chah-e Divan"
  STATE_9310:0 "Banak"
  STATE_9311:0 "West Shetland North Sea Dam Site"
  STATE_9312:0 "South Morogoro"
@@ -9323,7 +9324,7 @@
  STATE_9323:0 "Calais Coast"
  STATE_9324:0 "Namak Lake"
  STATE_9325:0 "Zahedan"
- STATE_9326:0 "Nosratabad"
+ STATE_9326:0 "Mahirood"
  STATE_9327:0 "Purnia"
  STATE_9328:0 "Khormoj"
  STATE_9329:0 "Shileh"
@@ -9427,7 +9428,7 @@
  STATE_9427:0 "Sao Luis"
  STATE_9428:0 "South Berberati"
  STATE_9429:0 "Shiraz"
- STATE_9430:0 "Fin"
+ STATE_9430:0 "Hajiabad"
  STATE_9431:0 "Maringa"
  STATE_9432:0 "North Luciara"
  STATE_9433:0 "South Hechow"
@@ -9765,7 +9766,7 @@
  STATE_9765:0 "Akita"
  STATE_9766:0 "Aomori"
  STATE_9767:0 "Okushiri"
- STATE_9768:0 "Muroran"
+ STATE_9768:0 "Date"
  STATE_9769:0 "Otaru"
  STATE_9770:0 "Matsumae"
  STATE_9771:0 "Mori"
@@ -9834,7 +9835,7 @@
  STATE_9834:0 "Maila"
  STATE_9835:0 "Patan"
  STATE_9836:0 "Alital"
- STATE_9837:0 "Madhesh"
+ STATE_9837:0 "Janakpur"
  STATE_9838:0 "Tharuwan"
  STATE_9839:0 "West Madhesh"
  STATE_9840:0 "Kalapani"
@@ -10107,9 +10108,9 @@
  STATE_10107:0 "Lachin"
  STATE_10108:0 "North Baku"
  STATE_10109:0 "Kiashahr"
- STATE_10110:0 "West Behshahr"
- STATE_10111:0 "South Gorgan"
- STATE_10112:0 "East Gorgan"
+ STATE_10110:0 "Babol"
+ STATE_10111:0 "Damghan"
+ STATE_10112:0 "Gonbad-e Kavus"
  STATE_10113:0 "East Ekerem"
  STATE_10114:0 "Khujand"
  STATE_10115:0 "Zafarobod"
@@ -10196,7 +10197,7 @@
  STATE_10196:0 "West Al Fuqaha"
  STATE_10197:0 "Trang Dinh"
  STATE_10198:0 "Hon Gai"
- STATE_10199:0 "Djero-Fejaj Strait"
+ STATE_10199:0 "Kut"
  STATE_10200:0 "South Skhira"
  STATE_10201:0 "Mangshih"
  STATE_10202:0 "Kanya"
@@ -10300,7 +10301,7 @@
  STATE_10300:0 "North Lake Superior Stage 3 Reclamation Zone"
  STATE_10301:0 "Kyzyl-Khaya"
  STATE_10302:0 "Northwest Lake Superior Stage 3 Reclamation Zone"
- STATE_10303:0 "Bardar"
+ STATE_10303:0 "Sarani"
  STATE_10304:0 "Maraveh"
  STATE_10305:0 "Pathum Thani"
  STATE_10306:0 "East Mahalapye"
@@ -10351,7 +10352,7 @@
  STATE_10351:0 "Outer In Damenas"
  STATE_10352:0 "Outer Djado"
  STATE_10353:0 "Outer Fada"
- STATE_10354:0 "Umbro"
+ STATE_10354:0 "North Kutum"
  STATE_10355:0 "Inner Burush"
  STATE_10356:0 "East Inner Burush"
  STATE_10357:0 "West Magrur"
@@ -10371,7 +10372,7 @@
  STATE_10371:0 "East Gambela Concession"
  STATE_10372:0 "Kuruman"
  STATE_10373:0 "Some State"
- STATE_10374:0 "Southern West Florida Shelf Stage 1 Reclamation Zone"
+ STATE_10374:0 "Ashkhaneh"
  STATE_10375:0 "Gosudarstvennyy"
  STATE_10376:0 "Matanzas Coast Stage 1 Reclamation Zone"
  STATE_10377:0 "Kowamanara"
@@ -10553,7 +10554,7 @@
  STATE_10553:0 "Ramshir"
  STATE_10554:0 "Newfoundland Phase 1 Reclamation Zone"
  STATE_10555:0 "Some State"
- STATE_10556:0 "Quchan"
+ STATE_10556:0 "Mezerj"
  STATE_10557:0 "South Newfoundland-Labrador Dam Site"
  STATE_10558:0 "Douglas"
  STATE_10559:0 "Langrin"
@@ -10999,7 +11000,7 @@
  STATE_10999:0 "Qassimiut"
  STATE_11000:0 "Inner Greenland"
  STATE_11001:0 "Aknīste"
- STATE_11002:0 "Grenctāle"
+ STATE_11002:0 "Krievgali"
  STATE_11003:0 "Ukri"
  STATE_11004:0 "North Dorohoi"
  STATE_11005:0 "Braila"
@@ -11039,7 +11040,7 @@
  STATE_11039:0 "Zatoka Sandbar"
  STATE_11040:0 "Little Diomede"
  STATE_11041:0 "Big Diomede"
- STATE_11042:0 "North Stolac"
+ STATE_11042:0 "Blidinje"
  STATE_11043:0 "South Kamnik"
  STATE_11044:0 "Pine Lake"
  STATE_11045:0 "Biwabik"
@@ -11077,19 +11078,19 @@
  STATE_11077:0 "Outer Zytomyr"
  STATE_11078:0 "North Zhytomyr"
  STATE_11079:0 "Chernobyl"
- STATE_11080:0 "Central Kirovohrad"
+ STATE_11080:0 "Kropyvnytskyi"
  STATE_11081:0 "North Kiev"
  STATE_11082:0 "Mykolaiv"
- STATE_11083:0 "West Kherson"
+ STATE_11083:0 "Holo Prystan"
  STATE_11084:0 "East Berezivka"
  STATE_11085:0 "Khmelynskyi"
- STATE_11086:0 "North Zaporozhe"
+ STATE_11086:0 "Hulyaipole"
  STATE_11087:0 "Mariupol"
  STATE_11088:0 "Lit"
  STATE_11089:0 "East Safi"
  STATE_11090:0 "South Volga"
  STATE_11091:0 "Mostovskoy"
- STATE_11092:0 "West Poltava"
+ STATE_11092:0 "Kremenchuk"
  STATE_11093:0 "Central West Midlands"
  STATE_11094:0 "West Ayr"
  STATE_11095:0 "North Aberfeldy"
@@ -11104,13 +11105,13 @@
  STATE_11104:0 "Outer Wolyn"
  STATE_11105:0 "West Krasnodar"
  STATE_11106:0 "Primorsko-Akhtarsk"
- STATE_11107:0 "North Rostov"
+ STATE_11107:0 "Shakhty"
  STATE_11108:0 "Dubovskoe"
  STATE_11109:0 "Chogray"
  STATE_11110:0 "Artezian"
- STATE_11111:0 "Inner Rostov"
- STATE_11112:0 "West Chakhty"
- STATE_11113:0 "South Pavlovsk"
+ STATE_11111:0 "Aparinskii"
+ STATE_11112:0 "Chertkovo"
+ STATE_11113:0 "Boguchar"
  STATE_11114:0 "Outer Vologda"
  STATE_11115:0 "North Teruel"
  STATE_11116:0 "Northwest Teruel"
@@ -11171,7 +11172,7 @@
  STATE_11171:0 "Irkeshtam"
  STATE_11172:0 "Orsk"
  STATE_11173:0 "Kartalinski"
- STATE_11174:0 "Taklamakan"
+ STATE_11174:0 "Alar"
  STATE_11175:0 "Chinggil"
  STATE_11176:0 "Khalkhgol"
  STATE_11177:0 "Matat"
@@ -11722,19 +11723,19 @@
  STATE_11722:0 "fuck marble"
  STATE_11723:0 "fuck marble"
  STATE_11724:0 "fuck marble"
- STATE_11725:0 "fuck marble"
- STATE_11726:0 "fuck marble"
- STATE_11727:0 "fuck marble"
+ STATE_11725:0 "Turpan"
+ STATE_11726:0 "Urumqi"
+ STATE_11727:0 "Yanqi Hui"
  STATE_11728:0 "fuck marble"
  STATE_11729:0 "fuck marble"
  STATE_11730:0 "fuck marble"
- STATE_11731:0 "fuck marble"
+ STATE_11731:0 "Shansi Situan"
  STATE_11732:0 "fuck marble"
- STATE_11733:0 "fuck marble"
+ STATE_11733:0 "Tumxuk"
  STATE_11734:0 "fuck marble"
- STATE_11735:0 "fuck marble"
+ STATE_11735:0 "Awat"
  STATE_11736:0 "fuck marble"
- STATE_11737:0 "fuck marble"
+ STATE_11737:0 "Uqturpan"
  STATE_11738:0 "fuck marble"
  STATE_11739:0 "East Muli"
  STATE_11740:0 "Amritsar"
@@ -11829,10 +11830,10 @@
  STATE_11829:0 "Zhun"
  STATE_11830:1 "Buir"
  STATE_11831:1 "West Dornod"
- STATE_11832:0 "Alvand"
+ STATE_11832:0 "Qazvin"
  STATE_11833:0 "Mahneshan"
  STATE_11834:0 "Lahijan"
- STATE_11835:0 "Esprili"
+ STATE_11835:0 "Siahrud"
  STATE_11836:0 "Chalus"
  STATE_11837:0 "Marzanabad"
  STATE_11838:0 "Kokand"
@@ -12032,7 +12033,7 @@
  STATE_12032:0 "West Markansu River Valley"
  STATE_12033:0 "Mount Karazok"
  STATE_12034:0 "Sarikol Range"
- STATE_12035:0 "North Rafha"
+ STATE_12035:0 "Al Ma'aniayh"
  STATE_12036:0 "Pagegiu"
  STATE_12037:0 "Silutes"
  STATE_12038:0 "Koplik"
@@ -12050,7 +12051,7 @@
  STATE_12050:0 "Skore"
  STATE_12051:0 "Gjirokaster"
  STATE_12052:0 "East Saraipali"
- STATE_12053:0 "Southeast Madhesh"
+ STATE_12053:0 "Biratnagar"
  STATE_12054:0 "Southwest Madhesh"
  STATE_12055:0 "Catalca"
  STATE_12056:0 "Aksaray"
@@ -12387,13 +12388,13 @@
  STATE_12387:0 "South Jaslik"
  STATE_12388:0 "Tagtabazar"
  STATE_12389:0 "Dargaz"
- STATE_12390:0 "Bojnurd"
- STATE_12391:0 "Torbate"
- STATE_12392:0 "Sabezvar"
- STATE_12393:0 "Golestan"
+ STATE_12390:0 "Gholaman"
+ STATE_12391:0 "Gonabad"
+ STATE_12392:0 "Sabzevar"
+ STATE_12393:0 "Shahrud"
  STATE_12394:0 "Jandaq"
- STATE_12395:0 "Bardaskan"
- STATE_12396:0 "Shahrud"
+ STATE_12395:0 "Kashmar"
+ STATE_12396:0 "Biyarjomand"
  STATE_12397:0 "South Khiva"
  STATE_12398:0 "Dushak"
  STATE_12399:0 "Chol"
@@ -12779,7 +12780,7 @@
  STATE_12779:0 "Mushid"
  STATE_12780:1 "Subiya"
  STATE_12781:0 "Abdali"
- STATE_12782:0 "Ar Rahil"
+ STATE_12782:0 "Al Bussayyah Desert"
  STATE_12783:0 "Jaww Hadiyah"
  STATE_12784:0 "Little Ararat"
  STATE_12785:0 "Hathah"
@@ -13261,7 +13262,7 @@
  STATE_13261:0 "Lupton"
  STATE_13262:0 "Navajo Nation Off-Reservation Trust Land"
  STATE_13263:0 "Ramah"
- STATE_13264:0 "Pavlohrad"
+ STATE_13264:0 "Snyel'nykove"
  STATE_13265:0 "Boryspil"
  STATE_13266:0 "Bolzano"
  STATE_13267:0 "Cortina"
@@ -14247,10 +14248,10 @@
  STATE_14247:0 "Dubovka"
  STATE_14248:0 "fuck marble"
  STATE_14249:0 "fuck marble"
- STATE_14250:0 "fuck marble"
- STATE_14251:0 "fuck marble"
+ STATE_14250:0 "Bol'shetroitskii"
+ STATE_14251:0 "Chernyanka"
  STATE_14252:0 "fuck marble"
- STATE_14253:0 "fuck marble"
+ STATE_14253:0 "Kantemirovka"
  STATE_14254:0 "fuck marble"
  STATE_14255:0 "Novovoronezh"
  STATE_14256:0 "Pavlovsk"
@@ -14265,7 +14266,7 @@
  STATE_14265:0 "Kamyshin"
  STATE_14266:0 "fuck marble"
  STATE_14267:0 "fuck marble"
- STATE_14268:0 "fuck marble"
+ STATE_14268:0 "Sirotinskaya"
  STATE_14269:0 "fuck marble"
  STATE_14270:0 "fuck marble"
  STATE_14271:0 "fuck marble"
@@ -14314,12 +14315,12 @@
  STATE_14314:0 "fuck marble"
  STATE_14315:0 "fuck marble"
  STATE_14316:0 "fuck marble"
- STATE_14317:0 "fuck marble"
- STATE_14318:0 "fuck marble"
- STATE_14319:0 "fuck marble"
- STATE_14320:0 "fuck marble"
- STATE_14321:0 "fuck marble"
- STATE_14322:0 "fuck marble"
+ STATE_14317:0 "Belaya Kalitva"
+ STATE_14318:0 "Kashary"
+ STATE_14319:0 "Ust-Khoperskaya"
+ STATE_14320:0 "Konstantinovsk"
+ STATE_14321:0 "Morozovsk"
+ STATE_14322:0 "Serafimovich"
  STATE_14323:0 "Proletarsk"
  STATE_14324:0 "Volgodonsk"
  STATE_14325:0 "fuck marble"
@@ -14429,10 +14430,10 @@
  STATE_14429:0 "Al Ajfar"
  STATE_14430:0 "Trubah"
  STATE_14431:0 "Azfaa"
- STATE_14432:0 "Al Salman"
- STATE_14433:0 "Naijaraf"
- STATE_14434:0 "Judayyif"
- STATE_14435:0 "Al Lasaf"
+ STATE_14432:0 "Al Salman Desert"
+ STATE_14433:0 "Ghalaysan"
+ STATE_14434:0 "Al Ma'aniyah Desert"
+ STATE_14435:0 "Al Lasaf Desert"
  STATE_14436:0 "Al Nukhib"
  STATE_14437:0 "Ghitha"
  STATE_14438:0 "Luleburgaz"
@@ -14816,25 +14817,25 @@
  STATE_14816:0 "Bushkan"
  STATE_14817:0 "Khorramshahr"
  STATE_14818:0 "Bandar Mahshahr"
- STATE_14819:0 "North Dasht-e Kavir"
- STATE_14820:0 "South Dasht-e Kavir"
+ STATE_14819:0 "Garmsar"
+ STATE_14820:0 "Alam-e Hajji Baqer"
  STATE_14821:0 "Kashan"
  STATE_14822:0 "Ardestan"
  STATE_14823:0 "Golpayegan"
- STATE_14824:0 "Eqlid"
+ STATE_14824:0 "Abadeh"
  STATE_14825:0 "Shahreza"
  STATE_14826:0 "Naein"
  STATE_14827:0 "Khur"
  STATE_14828:0 "Yazd"
- STATE_14829:0 "West Dasht-e Lut"
- STATE_14830:0 "Dasht-e Lut"
- STATE_14831:0 "Gonabad"
- STATE_14832:0 "Zarand"
- STATE_14833:0 "East Dasht-e Lut"
- STATE_14834:0 "Northeast Dasht-e Kavir"
- STATE_14835:0 "Sirjan"
+ STATE_14829:0 "Rabāt-e-posht-e-Bādām"
+ STATE_14830:0 "Nayband"
+ STATE_14831:0 "Qaen"
+ STATE_14832:0 "Ravar"
+ STATE_14833:0 "Meyghan"
+ STATE_14834:0 "Moalleman"
+ STATE_14835:0 "Darab"
  STATE_14836:0 "Rafsanjan"
- STATE_14837:0 "Southeast Dasht-e Lut"
+ STATE_14837:0 "Al-e-Mosammad"
  STATE_14838:0 "Jiroft"
  STATE_14839:0 "Bokhara"
  STATE_14840:0 "Johannesburg"
@@ -14998,7 +14999,7 @@
  STATE_14998:0 "Helen Reef"
  STATE_14999:0 "Kayangel"
  STATE_15000:0 "Biloela"
- STATE_15001:0 "Eufaula"
+ STATE_15001:0 "Union Springs"
  STATE_15002:0 "Andalusia"
  STATE_15003:0 "Greenville"
  STATE_15004:0 "Columbus"
@@ -16571,7 +16572,7 @@
  STATE_16571:0 "Fukaura"
  STATE_16572:0 "Tsugaru"
  STATE_16573:0 "Asahikawa"
- STATE_16574:0 "Tomokomai"
+ STATE_16574:0 "Furano"
  STATE_16575:0 "Taiki"
  STATE_16576:0 "Rumoi"
  STATE_16577:0 "Nayoro"
@@ -17148,8 +17149,8 @@
  STATE_17148:0 "Aykel"
  STATE_17149:0 "Maganan"
  STATE_17150:0 "Abscia"
- STATE_17151:0 "Qawasim"
- STATE_17152:0 "Al-Marzuq"
+ STATE_17151:0 "Kong"
+ STATE_17152:0 "Moghuyeh"
  STATE_17153:0 "Banu Ali"
  STATE_17154:0 "Banu Bishr"
  STATE_17155:0 "Banu Ubaydel"
@@ -17172,10 +17173,10 @@
  STATE_17172:0 "Some State"
  STATE_17173:0 "Al Dubi"
  STATE_17174:0 "Mawsata"
- STATE_17175:0 "Shadlu"
- STATE_17176:0 "South Shadlu"
- STATE_17177:0 "Zafaranlu"
- STATE_17178:0 "South Zafaranlu"
+ STATE_17175:0 "Qazelqan"
+ STATE_17176:0 "Bojnurd"
+ STATE_17177:0 "Shirvan"
+ STATE_17178:0 "Quchan"
  STATE_17179:0 "Some State"
  STATE_17180:0 "Some State"
  STATE_17181:0 "Aghban"
@@ -17274,15 +17275,15 @@
  STATE_17274:0 "Oleneikovo"
  STATE_17275:0 "Ulan Khol"
  STATE_17276:0 "Vypasnoi"
- STATE_17277:0 "Some State"
- STATE_17278:0 "Some State"
- STATE_17279:0 "Some State"
- STATE_17280:0 "Some State"
- STATE_17281:0 "Some State"
- STATE_17282:0 "Some State"
- STATE_17283:0 "Some State"
- STATE_17284:0 "Some State"
- STATE_17285:0 "Some State"
+ STATE_17277:0 "Millerovo"
+ STATE_17278:0 "Milove"
+ STATE_17279:0 "Mityakinskaya"
+ STATE_17280:0 "Rossosh"
+ STATE_17281:0 "Alexeyevka"
+ STATE_17282:0 "Roven'ki"
+ STATE_17283:0 "Valuyki"
+ STATE_17284:0 "Novy Oskol"
+ STATE_17285:0 "Pokrovo-Mikhailovka"
  STATE_17286:0 "Noven'ke"
  STATE_17287:0 "Solyanyky"
  STATE_17288:0 "Koren'ok"
@@ -17298,9 +17299,9 @@
  STATE_17298:0 "Some State"
  STATE_17299:0 "Some State"
  STATE_17300:0 "Some State"
- STATE_17301:0 "Some State"
+ STATE_17301:0 "Morozivka"
  STATE_17302:0 "Astrakhan"
- STATE_17303:0 "Some State"
+ STATE_17303:0 "Staraya Stanitsa"
  STATE_17304:0 "Some State"
  STATE_17305:0 "Some State"
  STATE_17306:0 "Some State"
@@ -17321,8 +17322,8 @@
  STATE_17321:0 "Some State"
  STATE_17322:0 "Some State"
  STATE_17323:0 "Some State"
- STATE_17324:0 "Some State"
- STATE_17325:0 "Some State"
+ STATE_17324:0 "Tsmilyansk"
+ STATE_17325:0 "Morskoi"
  STATE_17326:0 "Some State"
  STATE_17327:0 "Some State"
  STATE_17328:0 "Some State"
@@ -17405,74 +17406,74 @@
  STATE_17405:0 "Some State"
  STATE_17406:0 "Some State"
  STATE_17407:0 "Some State"
- STATE_17408:0 "Some State"
- STATE_17409:0 "Some State"
- STATE_17410:0 "Some State"
- STATE_17411:0 "Some State"
- STATE_17412:0 "Some State"
- STATE_17413:0 "Some State"
- STATE_17414:0 "Some State"
- STATE_17415:0 "Some State"
- STATE_17416:0 "Some State"
- STATE_17417:0 "Some State"
- STATE_17418:0 "Some State"
- STATE_17419:0 "Some State"
+ STATE_17408:0 "Al-Zubair Desert"
+ STATE_17409:0 "Wakast Desert"
+ STATE_17410:0 "Wakast"
+ STATE_17411:0 "Khawir"
+ STATE_17412:0 "Lasaynah"
+ STATE_17413:0 "Salin"
+ STATE_17414:0 "Abu Ghar"
+ STATE_17415:0 "Al Uzair"
+ STATE_17416:0 "Al Qurnah"
+ STATE_17417:0 "Suq Al-Shuyukh"
+ STATE_17418:0 "Mahatt Ur"
+ STATE_17419:0 "Eishan Hafeez"
  STATE_17420:0 "Some State"
- STATE_17421:0 "Some State"
- STATE_17422:0 "Some State"
- STATE_17423:0 "Some State"
- STATE_17424:0 "Some State"
- STATE_17425:0 "Some State"
- STATE_17426:0 "Some State"
- STATE_17427:0 "Some State"
- STATE_17428:0 "Some State"
- STATE_17429:0 "Some State"
- STATE_17430:0 "Some State"
+ STATE_17421:0 "Batha"
+ STATE_17422:0 "Al-Hay"
+ STATE_17423:0 "Abdallah"
+ STATE_17424:0 "Al Musandaq"
+ STATE_17425:0 "Al Lasaf"
+ STATE_17426:0 "At Taqtaqanah"
+ STATE_17427:0 "Al Khadhir"
+ STATE_17428:0 "Jasim"
+ STATE_17429:0 "Ahwiz"
+ STATE_17430:0 "Rumaythah"
  STATE_17431:0 "Some State"
- STATE_17432:0 "Some State"
- STATE_17433:0 "Some State"
- STATE_17434:0 "Some State"
- STATE_17435:0 "Some State"
- STATE_17436:0 "Some State"
- STATE_17437:0 "Some State"
- STATE_17438:0 "Some State"
- STATE_17439:0 "Some State"
- STATE_17440:0 "Some State"
- STATE_17441:0 "Some State"
- STATE_17442:0 "Some State"
- STATE_17443:0 "Some State"
- STATE_17444:0 "Some State"
- STATE_17445:0 "Some State"
- STATE_17446:0 "Some State"
- STATE_17447:0 "Some State"
- STATE_17448:0 "Some State"
- STATE_17449:0 "Some State"
- STATE_17450:0 "Some State"
- STATE_17451:0 "Some State"
- STATE_17452:0 "Some State"
- STATE_17453:0 "Some State"
- STATE_17454:0 "Some State"
- STATE_17455:0 "Some State"
- STATE_17456:0 "Some State"
- STATE_17457:0 "Some State"
- STATE_17458:0 "Some State"
- STATE_17459:0 "Some State"
- STATE_17460:0 "Some State"
- STATE_17461:0 "Some State"
- STATE_17462:0 "Some State"
- STATE_17463:0 "Some State"
- STATE_17464:0 "Some State"
- STATE_17465:0 "Some State"
- STATE_17466:0 "Some State"
- STATE_17467:0 "Some State"
- STATE_17468:0 "Some State"
- STATE_17469:0 "Some State"
- STATE_17470:0 "Some State"
- STATE_17471:0 "Some State"
- STATE_17472:0 "Some State"
+ STATE_17432:0 "Al Budayr"
+ STATE_17433:0 "Moabed"
+ STATE_17434:0 "Al Khinaq"
+ STATE_17435:0 "Al Hamzah"
+ STATE_17436:0 "Gammas"
+ STATE_17437:0 "Al Qadisiyah"
+ STATE_17438:0 "Khan ar Rahbah"
+ STATE_17439:0 "Al Mishikhab"
+ STATE_17440:0 "Abu Sakhair"
+ STATE_17441:0 "Hammar Lake"
+ STATE_17442:0 "Al Gharib"
+ STATE_17443:0 "Arab ar Ruhaima"
+ STATE_17444:0 "Tullaiha"
+ STATE_17445:0 "Al-Ukhaidir"
+ STATE_17446:0 "Khan al Atshan"
+ STATE_17447:0 "Hindiyah"
+ STATE_17448:0 "Karbala"
+ STATE_17449:0 "Hayderiyh"
+ STATE_17450:0 "Najaf"
+ STATE_17451:0 "Al-Talieah"
+ STATE_17452:0 "Al-Qasim"
+ STATE_17453:0 "Al-Suwaira"
+ STATE_17454:0 "Hillah"
+ STATE_17455:0 "Aziziya"
+ STATE_17456:0 "Humayyid"
+ STATE_17457:0 "Fallujah"
+ STATE_17458:0 "Mahmudiya"
+ STATE_17459:0 "Madain"
+ STATE_17460:0 "Bo'Aitha"
+ STATE_17461:0 "Za'Franiya"
+ STATE_17462:0 "Nahrawan"
+ STATE_17463:0 "Adamiyah"
+ STATE_17464:0 "Risafa"
+ STATE_17465:0 "Bani Saad"
+ STATE_17466:0 "Hosseinia"
+ STATE_17467:0 "Al Falahat"
+ STATE_17468:0 "Nebai"
+ STATE_17469:0 "Al Hatamia"
+ STATE_17470:0 "Radwaniyah"
+ STATE_17471:0 "Tharthar Dam"
+ STATE_17472:0 "Jasim al Mutar"
  STATE_17473:0 "Some State"
  STATE_17474:0 "Some State"
- STATE_17475:0 "Some State"
+ STATE_17475:0 "Balad"
  STATE_17476:0 "Some State"
  STATE_17477:0 "Some State"
  STATE_17478:0 "Some State"
@@ -17516,7 +17517,7 @@
  STATE_17516:0 "Madaba"
  STATE_17517:0 "Amman"
  STATE_17518:0 "Russeifa"
- STATE_17519:0 "Ain Al Basha"
+ STATE_17519:0 "Mastaba"
  STATE_17520:0 "Damia"
  STATE_17521:0 "Jerash"
  STATE_17522:0 "Aljoun"
@@ -17557,41 +17558,41 @@
  STATE_17557:0 "Rehovot"
  STATE_17558:0 "Bir Qatia"
  STATE_17559:0 "Ashkelon"
- STATE_17560:0 "Some State"
- STATE_17561:0 "Some State"
- STATE_17562:0 "Some State"
- STATE_17563:0 "Some State"
- STATE_17564:0 "Some State"
- STATE_17565:0 "Some State"
- STATE_17566:0 "Some State"
- STATE_17567:0 "Some State"
- STATE_17568:0 "Some State"
- STATE_17569:0 "Some State"
- STATE_17570:0 "Some State"
- STATE_17571:0 "Some State"
- STATE_17572:0 "Some State"
- STATE_17573:0 "Some State"
- STATE_17574:0 "Some State"
- STATE_17575:0 "Some State"
- STATE_17576:0 "Some State"
- STATE_17577:0 "Some State"
- STATE_17578:0 "Some State"
- STATE_17579:0 "Some State"
- STATE_17580:0 "Some State"
- STATE_17581:0 "Some State"
- STATE_17582:0 "Some State"
- STATE_17583:0 "Some State"
- STATE_17584:0 "Some State"
- STATE_17585:0 "Some State"
- STATE_17586:0 "Some State"
- STATE_17587:0 "Some State"
- STATE_17588:0 "Some State"
- STATE_17589:0 "Some State"
- STATE_17590:0 "Some State"
- STATE_17591:0 "Some State"
- STATE_17592:0 "Some State"
- STATE_17593:0 "Some State"
- STATE_17594:0 "Some State"
+ STATE_17560:0 "Galle"
+ STATE_17561:0 "Matara"
+ STATE_17562:0 "Tangalle"
+ STATE_17563:0 "Hambantota"
+ STATE_17564:0 "Beruwala"
+ STATE_17565:0 "Avissawella"
+ STATE_17566:0 "Negombo"
+ STATE_17567:0 "Ratnapura"
+ STATE_17568:0 "Pottuvil"
+ STATE_17569:0 "Belihuloya"
+ STATE_17570:0 "Udawalawa"
+ STATE_17571:0 "Kurunegala"
+ STATE_17572:0 "Ampara"
+ STATE_17573:0 "Kalmunai"
+ STATE_17574:0 "Pimburattawa"
+ STATE_17575:0 "Balangoda"
+ STATE_17576:0 "Nuwara Eliya"
+ STATE_17577:0 "Mawanella"
+ STATE_17578:0 "Kotmala"
+ STATE_17579:0 "Dambulla"
+ STATE_17580:0 "Hingurakgoda"
+ STATE_17581:0 "Oddamavadi"
+ STATE_17582:0 "Deniyaya"
+ STATE_17583:0 "Nikaweratiya"
+ STATE_17584:0 "Nochchiyagama"
+ STATE_17585:0 "Vavuniya"
+ STATE_17586:0 "Horowupotana"
+ STATE_17587:0 "Mutur"
+ STATE_17588:0 "Mullaitivu"
+ STATE_17589:0 "Oddusuddan"
+ STATE_17590:0 "Nelumvila"
+ STATE_17591:0 "Mannar"
+ STATE_17592:0 "Mallavi"
+ STATE_17593:0 "Mahiyanganaya"
+ STATE_17594:0 "Maradankadawala"
  STATE_17595:0 "Some State"
  STATE_17596:0 "Some State"
  STATE_17597:0 "Some State"
@@ -17769,19 +17770,19 @@
  STATE_17769:0 "Arihah"
  STATE_17770:0 "Syrian Desert"
  STATE_17771:0 "Egg is a fucking retard"
- STATE_17772:0 "Egg is a fucking retard"
- STATE_17773:0 "Egg is a fucking retard"
+ STATE_17772:0 "Ventspils"
+ STATE_17773:0 "Zvejniekciems"
  STATE_17774:0 "Some State"
- STATE_17775:0 "Some State"
- STATE_17776:0 "Some State"
- STATE_17777:0 "Some State"
- STATE_17778:0 "Some State"
+ STATE_17775:0 "Benislava"
+ STATE_17776:0 "Vilani"
+ STATE_17777:0 "Gaigalava"
+ STATE_17778:0 "Nicgale"
  STATE_17779:0 "Some State"
- STATE_17780:0 "Some State"
- STATE_17781:0 "Some State"
- STATE_17782:0 "Some State"
- STATE_17783:0 "Some State"
- STATE_17784:0 "Some State"
+ STATE_17780:0 "Kirupe"
+ STATE_17781:0 "Livani"
+ STATE_17782:0 "Jekabpils"
+ STATE_17783:0 "Koknese"
+ STATE_17784:0 "Taurkalne"
  STATE_17785:0 "Some State"
  STATE_17786:0 "Some State"
  STATE_17787:0 "Some State"
@@ -17789,10 +17790,10 @@
  STATE_17789:0 "Some State"
  STATE_17790:0 "Some State"
  STATE_17791:0 "Some State"
- STATE_17792:0 "Some State"
- STATE_17793:0 "Some State"
- STATE_17794:0 "Some State"
- STATE_17795:0 "Some State"
+ STATE_17792:0 "Keipene"
+ STATE_17793:0 "Suntazi"
+ STATE_17794:0 "Talsi"
+ STATE_17795:0 "Mersrags"
  STATE_17796:0 "Some State"
  STATE_17797:0 "Some State"
  STATE_17798:0 "Some State"
@@ -17847,12 +17848,12 @@
  STATE_17847:0 "Some State"
  STATE_17848:0 "Some State"
  STATE_17849:0 "Some State"
- STATE_17850:0 "Some State"
+ STATE_17850:0 "Rimstavas"
  STATE_17851:0 "Some State"
  STATE_17852:0 "Some State"
  STATE_17853:0 "Some State"
  STATE_17854:0 "Some State"
- STATE_17855:0 "This fucker in Sri Lanka"
+ STATE_17855:0 "Kataragama"
  STATE_17856:0 "Some State"
  STATE_17857:0 "Some State"
  STATE_17858:0 "Some State"
@@ -17864,15 +17865,15 @@
  STATE_17864:0 "Oleksandrivka"
  STATE_17865:0 "Snigirevka"
  STATE_17866:0 "Vysokopillia"
- STATE_17867:0 "Bilmak"
+ STATE_17867:0 "Kamianka"
  STATE_17868:0 "Toretsk"
- STATE_17869:0 "Gorlovka"
+ STATE_17869:0 "Horlivka"
  STATE_17870:0 "Lyman"
  STATE_17871:0 "Brazhkovka"
  STATE_17872:0 "Kazach'ya Lopan"
- STATE_17873:0 "Volchansk"
+ STATE_17873:0 "Vovchansk"
  STATE_17874:0 "Kupyansk"
- STATE_17875:0 "Izium"
+ STATE_17875:0 "Izyum"
  STATE_17876:0 "Mörbylånga"
  STATE_17877:0 "Libyan Desert"
  STATE_17878:0 "Libyan Desert"
@@ -18117,7 +18118,7 @@
  STATE_18117:0 "Libyan State"
  STATE_18118:0 "Libyan State"
  STATE_18119:0 "Enerhodar"
- STATE_18120:0 "Hornostaivka"
+ STATE_18120:0 "Ivanivka"
  STATE_18121:0 "Bir al Akhariyah"
  STATE_18122:0 "al-ʿUqayla"
  STATE_18123:0 "Libyan State"
@@ -18436,7 +18437,7 @@
  STATE_18436:0 "Some State"
  STATE_18437:0 "Some State"
  STATE_18438:0 "Some State"
- STATE_18439:0 "Kizyl-Ayak"
+ STATE_18439:0 "Monaragala"
  STATE_18440:0 "Some State"
  STATE_18441:0 "Some State"
  STATE_18442:0 "Some State"
@@ -19175,52 +19176,52 @@
  STATE_19175:0 "Some State"
  STATE_19176:0 "Some State"
  STATE_19177:0 "Europa Building"
- STATE_19178:0 "god emperor faaz demands loc"
- STATE_19179:0 "god emperor faaz demands loc"
- STATE_19180:0 "god emperor faaz demands loc"
- STATE_19181:0 "god emperor faaz demands loc"
- STATE_19182:0 "god emperor faaz demands loc"
- STATE_19183:0 "god emperor faaz demands loc"
- STATE_19184:0 "god emperor faaz demands loc"
- STATE_19185:0 "god emperor faaz demands loc"
- STATE_19186:0 "god emperor faaz demands loc"
- STATE_19187:0 "god emperor faaz demands loc"
- STATE_19188:0 "god emperor faaz demands loc"
- STATE_19189:0 "god emperor faaz demands loc"
- STATE_19190:0 "East Dnipro"
+ STATE_19178:0 "Novopskov"
+ STATE_19179:0 "Troitske"
+ STATE_19180:0 "Starobilsk"
+ STATE_19181:0 "Svatove"
+ STATE_19182:0 "Gukovo"
+ STATE_19183:0 "Pokrovsk"
+ STATE_19184:0 "Kostyantynivka"
+ STATE_19185:0 "Siversk"
+ STATE_19186:0 "Lozova"
+ STATE_19187:0 "Barvinkove"
+ STATE_19188:0 "Pervomais'kyi"
+ STATE_19189:0 "Bohodukhiv"
+ STATE_19190:0 "Dobropillya"
  STATE_19191:0 "Zaporizhzhia"
- STATE_19192:0 "Tsarychanka"
- STATE_19193:0 "god emperor faaz demands loc"
+ STATE_19192:0 "Samar"
+ STATE_19193:0 "Kamensk-Shakhtinsky"
  STATE_19194:0 "Pereshchepyne"
  STATE_19195:0 "Pokrovske"
- STATE_19196:0 "god emperor faaz demands loc"
+ STATE_19196:0 "Pavlohrad"
  STATE_19197:0 "Prymorsk"
  STATE_19198:0 "Berdyansk"
- STATE_19199:0 "Central Zaporizhia"
+ STATE_19199:0 "Chernihivka"
  STATE_19200:0 "Henichesk"
- STATE_19201:0 "South Kherson"
+ STATE_19201:0 "Hromivka"
  STATE_19202:0 "Skadovsk"
- STATE_19203:0 "East Kherson"
+ STATE_19203:0 "Hornostaivka"
  STATE_19204:0 "god emperor faaz demands loc"
- STATE_19205:0 "god emperor faaz demands loc"
- STATE_19206:0 "Central Dnipropetrovsk"
+ STATE_19205:0 "Kamianske"
+ STATE_19206:0 "Krynychky"
  STATE_19207:0 "Kryvyi Rih"
  STATE_19208:0 "Dnipropetrovsk"
  STATE_19209:0 "Pokrov"
- STATE_19210:0 "Svitlovodsk"
+ STATE_19210:0 "Verkhn'odniprovs'k"
  STATE_19211:0 "Oleksandriya"
  STATE_19212:0 "god emperor faaz demands loc"
- STATE_19213:0 "god emperor faaz demands loc"
- STATE_19214:0 "Kremenchuk"
+ STATE_19213:0 "Kotel'va"
+ STATE_19214:0 "Horishni Plavni"
  STATE_19215:0 "Chutove"
  STATE_19216:0 "god emperor faaz demands loc"
  STATE_19217:0 "god emperor faaz demands loc"
- STATE_19218:0 "god emperor faaz demands loc"
+ STATE_19218:0 "Reshetylivka"
  STATE_19219:0 "god emperor faaz demands loc"
  STATE_19220:0 "god emperor faaz demands loc"
  STATE_19221:0 "Zolotonosha"
  STATE_19222:0 "South Cherkasy"
- STATE_19223:0 "East Cherkasy"
+ STATE_19223:0 "Svitlovodsk"
  STATE_19224:0 "Zvenyhorodka"
  STATE_19225:0 "Kaniv"
  STATE_19226:0 "god emperor faaz demands loc"
@@ -19237,17 +19238,17 @@
  STATE_19237:0 "god emperor faaz demands loc"
  STATE_19238:0 "god emperor faaz demands loc"
  STATE_19239:0 "god emperor faaz demands loc"
- STATE_19240:0 "god emperor faaz demands loc"
+ STATE_19240:0 "Chornomorsk"
  STATE_19241:0 "god emperor faaz demands loc"
  STATE_19242:0 "god emperor faaz demands loc"
  STATE_19243:0 "god emperor faaz demands loc"
  STATE_19244:0 "god emperor faaz demands loc"
  STATE_19245:0 "Kamianske"
  STATE_19246:0 "Novoukrainka"
- STATE_19247:0 "Melitopol"
- STATE_19248:0 "god emperor faaz demands loc"
- STATE_19249:0 "god emperor faaz demands loc"
- STATE_19250:0 "god emperor faaz demands loc"
+ STATE_19247:0 "Vasylivka"
+ STATE_19248:0 "Simferopol"
+ STATE_19249:0 "Syvash"
+ STATE_19250:0 "Feodosia"
  STATE_19251:0 "god emperor faaz demands loc"
  STATE_19252:0 "god emperor faaz demands loc"
  STATE_19253:0 "god emperor faaz demands loc"
@@ -19268,6 +19269,7 @@
  STATE_19268:0 "god emperor faaz demands loc"
  STATE_19269:0 "god emperor faaz demands loc"
  STATE_19270:0 "god emperor faaz demands loc"
+ STATE_19271:0 "Russian Bear Empire"
  STATE_19272:0 "god emperor faaz demands loc"
  STATE_19273:0 "god emperor faaz demands loc"
  STATE_19274:0 "god emperor faaz demands loc"
@@ -19467,6 +19469,7 @@
  STATE_19468:0 "Some State"
  STATE_19469:0 "Some State"
  STATE_19470:0 "Some State"
+ STATE_19471:0 "Chinese State"
  STATE_19472:0 "Some State"
  STATE_19473:0 "Some State"
  STATE_19474:0 "Some State"
@@ -19534,6 +19537,7 @@
  STATE_19536:0 "Shan State"
  STATE_19537:0 "Shan State"
  STATE_19538:0 "Hsawnghsup"
+ STATE_19539:0 "Burmese Blade of Grass"
  STATE_19540:0 "Shan State"
  STATE_19541:0 "Shan State"
  STATE_19542:0 "Shan State"
@@ -19717,9 +19721,9 @@
  STATE_19720:0 "Bopo"
  STATE_19721:0 "Arjeplog"
  STATE_19722:0 "Mundemba"
- STATE_19723:0 "Tarnaby"
- STATE_19724:0 "Ammarnäs"
- STATE_19725:0 "Storuman"
+ STATE_19723:0 "Storuman"
+ STATE_19724:0 "Arjeplog"
+ STATE_19725:0 "Sorsele"
  STATE_19726:0 "Vuoggatjalme"
  STATE_19727:0 "Swedish State"
  STATE_19728:0 "Vilhemina"
@@ -19737,7 +19741,7 @@
  STATE_19740:0 "Strömsund"
  STATE_19741:0 "Åsen"
  STATE_19742:0 "Delsbo"
- STATE_19743:0 "Ljusdal"
+ STATE_19743:0 "Ytterhogdal"
  STATE_19744:0 "Sveg"
  STATE_19745:0 "Linsell"
  STATE_19746:0 "Stöde"
@@ -19788,7 +19792,7 @@
  STATE_19791:0 "Sevettijärvi"
  STATE_19792:0 "Modern State"
  STATE_19793:0 "Kulbus"
- STATE_19794:0 "Kuada"
+ STATE_19794:0 "Modern State"
  STATE_19795:0 "Modern State"
  STATE_19796:0 "Tawila"
  STATE_19797:0 "Western Thabhloten"
@@ -19877,1121 +19881,1182 @@
  STATE_19880:0 "Some State"
  STATE_19881:0 "Some State"
  STATE_19882:0 "Some State"
- STATE_19883:0 "Some State"
- STATE_19884:0 "Some State"
- STATE_19885:0 "Some State"
- STATE_19886:0 "Some State"
- STATE_19887:0 "Some State"
- STATE_19888:0 "Some State"
- STATE_19889:0 "Some State"
- STATE_19890:0 "Some State"
- STATE_19891:0 "Some State"
- STATE_19892:0 "Some State"
- STATE_19893:0 "Some State"
- STATE_19894:0 "Some State"
- STATE_19895:0 "Some State"
- STATE_19896:0 "Some State"
- STATE_19897:0 "Some State"
- STATE_19898:0 "Some State"
- STATE_19899:0 "Some State"
- STATE_19900:0 "Some State"
- STATE_19901:0 "Some State"
- STATE_19902:0 "Some State"
- STATE_19903:0 "Some State"
- STATE_19904:0 "Some State"
- STATE_19905:0 "Some State"
- STATE_19906:0 "Some State"
- STATE_19907:0 "Some State"
- STATE_19908:0 "Some State"
- STATE_19909:0 "Some State"
- STATE_19910:0 "Some State"
- STATE_19911:0 "Some State"
- STATE_19912:0 "Some State"
- STATE_19913:0 "Some State"
- STATE_19914:0 "Some State"
- STATE_19915:0 "Some State"
- STATE_19916:0 "Some State"
- STATE_19917:0 "Some State"
- STATE_19918:0 "Some State"
- STATE_19919:0 "Some State"
- STATE_19920:0 "Some State"
- STATE_19921:0 "Some State"
- STATE_19922:0 "Some State"
- STATE_19923:0 "Some State"
- STATE_19924:0 "Some State"
- STATE_19925:0 "Some State"
- STATE_19926:0 "Some State"
- STATE_19927:0 "Some State"
- STATE_19928:0 "Some State"
- STATE_19929:0 "Some State"
- STATE_19930:0 "Some State"
- STATE_19931:0 "Some State"
- STATE_19932:0 "Some State"
- STATE_19933:0 "Some State"
- STATE_19934:0 "Some State"
- STATE_19935:0 "Some State"
- STATE_19936:0 "Some State"
- STATE_19937:0 "Some State"
- STATE_19938:0 "Some State"
- STATE_19939:0 "Some State"
- STATE_19940:0 "Some State"
- STATE_19941:0 "Some State"
- STATE_19942:0 "Some State"
- STATE_19943:0 "Some State"
- STATE_19944:0 "Some State"
- STATE_19945:0 "Some State"
- STATE_19946:0 "Some State"
- STATE_19947:0 "Some State"
- STATE_19948:0 "Some State"
- STATE_19949:0 "Ayn Siro"
- STATE_19950:0 "Some State"
- STATE_19951:0 "Some State"
- STATE_19952:0 "Some State"
- STATE_19953:0 "Some State"
- STATE_19954:0 "Some State"
- STATE_19955:0 "Some State"
- STATE_19956:0 "Some State"
- STATE_19957:0 "Some State"
- STATE_19958:0 "Some State"
- STATE_19959:0 "Some State"
- STATE_19960:0 "Some State"
- STATE_19961:0 "Some State"
- STATE_19962:0 "Some State"
- STATE_19963:0 "Some State"
- STATE_19964:0 "Some State"
- STATE_19965:0 "Some State"
- STATE_19966:0 "Some State"
- STATE_19967:0 "Some State"
- STATE_19968:0 "Some State"
- STATE_19969:0 "Some State"
- STATE_19970:0 "Some State"
- STATE_19971:0 "Some State"
- STATE_19972:0 "Some State"
- STATE_19973:0 "Some State"
- STATE_19974:0 "Some State"
- STATE_19975:0 "Some State"
- STATE_19976:0 "Some State"
- STATE_19977:0 "Some State"
- STATE_19978:0 "Some State"
- STATE_19979:0 "Some State"
- STATE_19980:0 "Some State"
- STATE_19981:0 "Some State"
- STATE_19982:0 "Some State"
- STATE_19983:0 "Some State"
- STATE_19984:0 "Some State"
- STATE_19985:0 "Some State"
- STATE_19986:0 "Some State"
- STATE_19987:0 "Some State"
- STATE_19988:0 "Some State"
- STATE_19989:0 "Some State"
- STATE_19990:0 "Some State"
- STATE_19991:0 "Some State"
- STATE_19992:0 "Some State"
- STATE_19993:0 "Some State"
- STATE_19994:0 "Some State"
- STATE_19995:0 "Some State"
- STATE_19996:0 "Some State"
- STATE_19997:0 "Some State"
- STATE_19998:0 "Some State"
- STATE_19999:0 "Some State"
- STATE_20000:0 "Some State"
- STATE_20001:0 "Some State"
- STATE_20002:0 "Some State"
- STATE_20003:0 "Some State"
- STATE_20004:0 "Some State"
- STATE_20005:0 "Some State"
- STATE_20006:0 "Some State"
- STATE_20007:0 "Some State"
- STATE_20008:0 "Some State"
- STATE_20009:0 "Some State"
- STATE_20010:0 "Some State"
- STATE_20011:0 "Some State"
- STATE_20012:0 "Some State"
- STATE_20013:0 "Some State"
- STATE_20014:0 "Some State"
- STATE_20015:0 "Some State"
- STATE_20016:0 "Some State"
- STATE_20017:0 "Some State"
- STATE_20018:0 "Some State"
- STATE_20019:0 "Some State"
- STATE_20020:0 "Some State"
- STATE_20021:0 "Some State"
- STATE_20022:0 "Some State"
- STATE_20023:0 "Some State"
- STATE_20024:0 "Some State"
- STATE_20025:0 "Some State"
- STATE_20026:0 "Some State"
- STATE_20027:0 "Some State"
- STATE_20028:0 "Some State"
- STATE_20029:0 "Some State"
- STATE_20030:0 "Some State"
- STATE_20031:0 "Some State"
- STATE_20032:0 "Some State"
- STATE_20033:0 "Some State"
- STATE_20034:0 "Some State"
- STATE_20035:0 "Some State"
- STATE_20036:0 "Some State"
- STATE_20037:0 "Some State"
- STATE_20038:0 "Some State"
- STATE_20039:0 "Some State"
- STATE_20040:0 "Some State"
- STATE_20041:0 "Some State"
- STATE_20042:0 "Some State"
- STATE_20043:0 "Some State"
- STATE_20044:0 "Some State"
- STATE_20045:0 "Some State"
- STATE_20046:0 "Some State"
- STATE_20047:0 "Some State"
- STATE_20048:0 "Some State"
- STATE_20049:0 "Some State"
- STATE_20050:0 "Some State"
- STATE_20051:0 "Some State"
- STATE_20052:0 "Some State"
- STATE_20053:0 "Some State"
- STATE_20054:0 "Some State"
- STATE_20055:0 "Some State"
- STATE_20056:0 "Some State"
- STATE_20057:0 "Some State"
- STATE_20058:0 "Some State"
- STATE_20059:0 "Some State"
- STATE_20060:0 "Some State"
- STATE_20061:0 "Some State"
- STATE_20062:0 "Some State"
- STATE_20063:0 "Some State"
- STATE_20064:0 "Some State"
- STATE_20065:0 "Some State"
- STATE_20066:0 "Some State"
- STATE_20067:0 "Some State"
- STATE_20068:0 "Some State"
- STATE_20069:0 "Some State"
- STATE_20070:0 "Some State"
- STATE_20071:0 "Some State"
- STATE_20072:0 "Some State"
- STATE_20073:0 "Some State"
- STATE_20074:0 "Some State"
- STATE_20075:0 "Some State"
- STATE_20076:0 "Some State"
- STATE_20077:0 "Some State"
- STATE_20078:0 "Some State"
- STATE_20079:0 "Some State"
- STATE_20080:0 "Some State"
- STATE_20081:0 "Some State"
- STATE_20082:0 "Some State"
- STATE_20083:0 "Some State"
- STATE_20084:0 "Some State"
- STATE_20085:0 "Some State"
- STATE_20086:0 "Some State"
- STATE_20087:0 "Some State"
- STATE_20088:0 "Some State"
- STATE_20089:0 "Some State"
- STATE_20090:0 "Some State"
- STATE_20091:0 "Some State"
- STATE_20092:0 "Some State"
- STATE_20093:0 "Some State"
- STATE_20094:0 "Some State"
- STATE_20095:0 "Some State"
- STATE_20096:0 "Some State"
- STATE_20097:0 "Some State"
- STATE_20098:0 "Some State"
- STATE_20099:0 "Some State"
- STATE_20100:0 "Some State"
- STATE_20101:0 "Some State"
- STATE_20102:0 "Some State"
- STATE_20103:0 "Some State"
- STATE_20104:0 "Some State"
- STATE_20105:0 "Some State"
- STATE_20106:0 "Some State"
- STATE_20107:0 "Some State"
- STATE_20108:0 "Some State"
- STATE_20109:0 "Some State"
- STATE_20110:0 "Some State"
- STATE_20111:0 "Some State"
- STATE_20112:0 "Some State"
- STATE_20113:0 "Some State"
- STATE_20114:0 "Some State"
- STATE_20115:0 "Some State"
- STATE_20116:0 "Some State"
- STATE_20117:0 "Some State"
- STATE_20118:0 "Some State"
- STATE_20119:0 "Some State"
- STATE_20120:0 "Some State"
- STATE_20121:0 "Some State"
- STATE_20122:0 "Some State"
- STATE_20123:0 "Some State"
- STATE_20124:0 "Some State"
- STATE_20125:0 "Some State"
- STATE_20126:0 "Some State"
- STATE_20127:0 "Some State"
- STATE_20128:0 "Some State"
- STATE_20129:0 "Some State"
- STATE_20130:0 "Some State"
- STATE_20131:0 "Some State"
- STATE_20132:0 "Some State"
- STATE_20133:0 "Some State"
- STATE_20134:0 "Some State"
- STATE_20135:0 "Some State"
- STATE_20136:0 "Some State"
- STATE_20137:0 "Some State"
- STATE_20138:0 "Some State"
- STATE_20139:0 "Some State"
- STATE_20140:0 "Some State"
- STATE_20141:0 "Some State"
- STATE_20142:0 "Some State"
- STATE_20143:0 "Some State"
- STATE_20144:0 "Some State"
- STATE_20145:0 "Some State"
- STATE_20146:0 "Some State"
- STATE_20147:0 "Some State"
- STATE_20148:0 "Some State"
- STATE_20149:0 "Some State"
- STATE_20150:0 "Some State"
- STATE_20151:0 "Some State"
- STATE_20152:0 "Some State"
- STATE_20153:0 "Some State"
- STATE_20154:0 "Some State"
- STATE_20155:0 "Some State"
- STATE_20156:0 "Some State"
- STATE_20157:0 "Some State"
- STATE_20158:0 "Some State"
- STATE_20159:0 "Some State"
- STATE_20160:0 "Some State"
- STATE_20161:0 "Some State"
- STATE_20162:0 "Some State"
- STATE_20163:0 "Some State"
- STATE_20164:0 "Some State"
- STATE_20165:0 "Some State"
- STATE_20166:0 "Some State"
- STATE_20167:0 "Some State"
- STATE_20168:0 "Some State"
- STATE_20169:0 "Some State"
- STATE_20170:0 "Some State"
- STATE_20171:0 "Some State"
- STATE_20172:0 "Some State"
- STATE_20173:0 "Some State"
- STATE_20174:0 "Some State"
- STATE_20175:0 "Some State"
- STATE_20176:0 "Some State"
- STATE_20177:0 "Some State"
- STATE_20178:0 "Some State"
- STATE_20179:0 "Some State"
- STATE_20180:0 "Some State"
- STATE_20181:0 "Some State"
- STATE_20182:0 "Some State"
- STATE_20183:0 "Some State"
- STATE_20184:0 "Some State"
- STATE_20185:0 "Some State"
- STATE_20186:0 "Some State"
- STATE_20187:0 "Some State"
- STATE_20188:0 "Some State"
- STATE_20189:0 "Some State"
- STATE_20190:0 "Some State"
- STATE_20191:0 "Some State"
- STATE_20192:0 "Some State"
- STATE_20193:0 "Some State"
- STATE_20194:0 "Some State"
- STATE_20195:0 "Some State"
- STATE_20196:0 "Some State"
- STATE_20197:0 "Some State"
- STATE_20198:0 "Some State"
- STATE_20199:0 "Some State"
- STATE_20200:0 "Some State"
- STATE_20201:0 "Some State"
- STATE_20202:0 "Some State"
- STATE_20203:0 "Some State"
- STATE_20204:0 "Some State"
- STATE_20205:0 "Some State"
- STATE_20206:0 "Some State"
- STATE_20207:0 "Some State"
- STATE_20208:0 "Some State"
- STATE_20209:0 "Some State"
- STATE_20210:0 "Some State"
- STATE_20211:0 "Some State"
- STATE_20212:0 "Some State"
- STATE_20213:0 "Some State"
- STATE_20214:0 "Some State"
- STATE_20215:0 "Some State"
- STATE_20216:0 "Some State"
- STATE_20217:0 "Some State"
- STATE_20218:0 "Some State"
- STATE_20219:0 "Some State"
- STATE_20220:0 "Some State"
- STATE_20221:0 "Some State"
- STATE_20222:0 "Some State"
- STATE_20223:0 "Some State"
- STATE_20224:0 "Some State"
- STATE_20225:0 "Some State"
- STATE_20226:0 "Some State"
- STATE_20227:0 "Some State"
- STATE_20228:0 "Some State"
- STATE_20229:0 "Some State"
- STATE_20230:0 "Some State"
- STATE_20231:0 "Some State"
- STATE_20232:0 "Some State"
- STATE_20233:0 "Some State"
- STATE_20234:0 "Some State"
- STATE_20235:0 "Some State"
- STATE_20236:0 "Some State"
- STATE_20237:0 "Some State"
- STATE_20238:0 "Some State"
- STATE_20239:0 "Some State"
- STATE_20240:0 "Some State"
- STATE_20241:0 "Some State"
- STATE_20242:0 "Some State"
- STATE_20243:0 "Some State"
- STATE_20244:0 "Some State"
- STATE_20245:0 "Some State"
- STATE_20246:0 "Some State"
- STATE_20247:0 "Some State"
- STATE_20248:0 "Some State"
- STATE_20249:0 "Some State"
- STATE_20250:0 "Some State"
- STATE_20251:0 "Some State"
- STATE_20252:0 "Some State"
- STATE_20253:0 "Some State"
- STATE_20254:0 "Some State"
- STATE_20255:0 "Some State"
- STATE_20256:0 "Some State"
- STATE_20257:0 "Some State"
- STATE_20258:0 "Some State"
- STATE_20259:0 "Some State"
- STATE_20260:0 "Some State"
- STATE_20261:0 "Some State"
- STATE_20262:0 "Some State"
- STATE_20263:0 "Some State"
- STATE_20264:0 "Some State"
- STATE_20265:0 "Some State"
- STATE_20266:0 "Some State"
- STATE_20267:0 "Some State"
- STATE_20268:0 "Some State"
- STATE_20269:0 "Some State"
- STATE_20270:0 "Some State"
- STATE_20271:0 "Some State"
- STATE_20272:0 "Some State"
- STATE_20273:0 "Some State"
- STATE_20274:0 "Some State"
- STATE_20275:0 "Some State"
- STATE_20276:0 "Some State"
- STATE_20277:0 "Some State"
- STATE_20278:0 "Some State"
- STATE_20279:0 "Some State"
- STATE_20280:0 "Some State"
- STATE_20281:0 "Some State"
- STATE_20282:0 "Some State"
- STATE_20283:0 "Some State"
- STATE_20284:0 "Some State"
- STATE_20285:0 "Some State"
- STATE_20286:0 "Some State"
- STATE_20287:0 "Some State"
- STATE_20288:0 "Some State"
- STATE_20289:0 "Some State"
- STATE_20290:0 "Some State"
- STATE_20291:0 "Some State"
- STATE_20292:0 "Some State"
- STATE_20293:0 "Some State"
- STATE_20294:0 "Some State"
- STATE_20295:0 "Some State"
- STATE_20296:0 "Some State"
- STATE_20297:0 "Some State"
- STATE_20298:0 "Some State"
- STATE_20299:0 "Some State"
- STATE_20300:0 "Some State"
- STATE_20301:0 "Some State"
- STATE_20302:0 "Some State"
- STATE_20303:0 "Some State"
- STATE_20304:0 "Some State"
- STATE_20305:0 "Some State"
- STATE_20306:0 "Some State"
- STATE_20307:0 "Some State"
- STATE_20308:0 "Some State"
- STATE_20309:0 "Some State"
- STATE_20310:0 "Some State"
- STATE_20311:0 "Some State"
- STATE_20312:0 "Some State"
- STATE_20313:0 "Some State"
- STATE_20314:0 "Some State"
- STATE_20315:0 "Some State"
- STATE_20316:0 "Some State"
- STATE_20317:0 "Some State"
- STATE_20318:0 "Some State"
- STATE_20319:0 "Some State"
- STATE_20320:0 "Some State"
- STATE_20321:0 "Some State"
- STATE_20322:0 "Some State"
- STATE_20323:0 "Some State"
- STATE_20324:0 "Some State"
- STATE_20325:0 "Some State"
- STATE_20326:0 "Some State"
- STATE_20327:0 "Some State"
- STATE_20328:0 "Some State"
- STATE_20329:0 "Some State"
- STATE_20330:0 "Some State"
- STATE_20331:0 "Some State"
- STATE_20332:0 "Some State"
- STATE_20333:0 "Some State"
- STATE_20334:0 "Some State"
- STATE_20335:0 "Some State"
- STATE_20336:0 "Some State"
- STATE_20337:0 "Some State"
- STATE_20338:0 "Some State"
- STATE_20339:0 "Some State"
- STATE_20340:0 "Some State"
- STATE_20341:0 "Some State"
- STATE_20342:0 "Some State"
- STATE_20343:0 "Some State"
- STATE_20344:0 "Some State"
- STATE_20345:0 "Some State"
- STATE_20346:0 "Some State"
- STATE_20347:0 "Some State"
- STATE_20348:0 "Some State"
- STATE_20349:0 "Some State"
- STATE_20350:0 "Some State"
- STATE_20351:0 "Some State"
- STATE_20352:0 "Some State"
- STATE_20353:0 "Some State"
- STATE_20354:0 "Some State"
- STATE_20355:0 "Some State"
- STATE_20356:0 "Some State"
- STATE_20357:0 "Some State"
- STATE_20358:0 "Some State"
- STATE_20359:0 "Some State"
- STATE_20360:0 "Some State"
- STATE_20361:0 "Some State"
- STATE_20362:0 "Some State"
- STATE_20363:0 "Some State"
- STATE_20364:0 "Some State"
- STATE_20365:0 "Some State"
- STATE_20366:0 "Some State"
- STATE_20367:0 "Some State"
- STATE_20368:0 "Some State"
- STATE_20369:0 "Some State"
- STATE_20370:0 "Some State"
- STATE_20371:0 "Some State"
- STATE_20372:0 "Some State"
- STATE_20373:0 "Some State"
- STATE_20374:0 "Some State"
- STATE_20375:0 "Some State"
- STATE_20376:0 "Some State"
- STATE_20377:0 "Some State"
- STATE_20378:0 "Some State"
- STATE_20379:0 "Some State"
- STATE_20380:0 "Some State"
- STATE_20381:0 "Some State"
- STATE_20382:0 "Some State"
- STATE_20383:0 "Some State"
- STATE_20384:0 "Some State"
- STATE_20385:0 "Some State"
- STATE_20386:0 "Some State"
- STATE_20387:0 "Some State"
- STATE_20388:0 "Some State"
- STATE_20389:0 "Some State"
- STATE_20390:0 "Some State"
- STATE_20391:0 "Some State"
- STATE_20392:0 "Some State"
- STATE_20393:0 "Some State"
- STATE_20394:0 "Some State"
- STATE_20395:0 "Some State"
- STATE_20396:0 "Some State"
- STATE_20397:0 "Some State"
- STATE_20398:0 "Some State"
- STATE_20399:0 "Some State"
- STATE_20400:0 "Some State"
- STATE_20401:0 "Some State"
- STATE_20402:0 "Some State"
- STATE_20403:0 "Some State"
- STATE_20404:0 "Some State"
- STATE_20405:0 "Some State"
- STATE_20406:0 "Some State"
- STATE_20407:0 "Some State"
- STATE_20408:0 "Some State"
- STATE_20409:0 "Some State"
- STATE_20410:0 "Some State"
- STATE_20411:0 "Some State"
- STATE_20412:0 "Some State"
- STATE_20413:0 "Some State"
- STATE_20414:0 "Some State"
- STATE_20415:0 "Some State"
- STATE_20416:0 "Some State"
- STATE_20417:0 "Some State"
- STATE_20418:0 "Some State"
- STATE_20419:0 "Some State"
- STATE_20420:0 "Some State"
- STATE_20421:0 "Some State"
- STATE_20422:0 "Some State"
- STATE_20423:0 "Some State"
- STATE_20424:0 "Some State"
- STATE_20425:0 "Some State"
- STATE_20426:0 "Some State"
- STATE_20427:0 "Some State"
- STATE_20428:0 "Some State"
- STATE_20429:0 "Some State"
- STATE_20430:0 "Some State"
- STATE_20431:0 "Some State"
- STATE_20432:0 "Some State"
- STATE_20433:0 "Some State"
- STATE_20434:0 "Some State"
- STATE_20435:0 "Some State"
- STATE_20436:0 "Some State"
- STATE_20437:0 "Some State"
- STATE_20438:0 "Some State"
- STATE_20439:0 "Some State"
- STATE_20440:0 "Some State"
- STATE_20441:0 "Some State"
- STATE_20442:0 "Some State"
- STATE_20443:0 "Some State"
- STATE_20444:0 "Some State"
- STATE_20445:0 "Some State"
- STATE_20446:0 "Some State"
- STATE_20447:0 "Some State"
- STATE_20448:0 "Some State"
- STATE_20449:0 "Some State"
- STATE_20450:0 "Some State"
- STATE_20451:0 "Some State"
- STATE_20452:0 "Some State"
- STATE_20453:0 "Some State"
- STATE_20454:0 "Some State"
- STATE_20455:0 "Some State"
- STATE_20456:0 "Some State"
- STATE_20457:0 "Some State"
- STATE_20458:0 "Some State"
- STATE_20459:0 "Some State"
- STATE_20460:0 "Some State"
- STATE_20461:0 "Some State"
- STATE_20462:0 "Some State"
- STATE_20463:0 "Some State"
- STATE_20464:0 "Some State"
- STATE_20465:0 "Some State"
- STATE_20466:0 "Some State"
- STATE_20467:0 "Some State"
- STATE_20468:0 "Some State"
- STATE_20469:0 "Some State"
- STATE_20470:0 "Some State"
- STATE_20471:0 "Some State"
- STATE_20472:0 "Some State"
- STATE_20473:0 "Some State"
- STATE_20474:0 "Some State"
- STATE_20475:0 "Some State"
- STATE_20476:0 "Some State"
- STATE_20477:0 "Some State"
- STATE_20478:0 "Some State"
- STATE_20479:0 "Some State"
- STATE_20480:0 "Some State"
- STATE_20481:0 "Some State"
- STATE_20482:0 "Some State"
- STATE_20483:0 "Some State"
- STATE_20484:0 "Some State"
- STATE_20485:0 "Some State"
- STATE_20486:0 "Some State"
- STATE_20487:0 "Some State"
- STATE_20488:0 "Some State"
- STATE_20489:0 "Some State"
- STATE_20490:0 "Some State"
- STATE_20491:0 "Some State"
- STATE_20492:0 "Some State"
- STATE_20493:0 "Some State"
- STATE_20494:0 "Some State"
- STATE_20495:0 "Some State"
- STATE_20496:0 "Some State"
- STATE_20497:0 "Some State"
- STATE_20498:0 "Some State"
- STATE_20499:0 "Some State"
- STATE_20500:0 "Some State"
- STATE_20501:0 "Some State"
- STATE_20502:0 "Some State"
- STATE_20503:0 "Some State"
- STATE_20504:0 "Some State"
- STATE_20505:0 "Some State"
- STATE_20506:0 "Some State"
- STATE_20507:0 "Some State"
- STATE_20508:0 "Some State"
- STATE_20509:0 "Some State"
- STATE_20510:0 "Some State"
- STATE_20511:0 "Some State"
- STATE_20512:0 "Some State"
- STATE_20513:0 "Some State"
- STATE_20514:0 "Some State"
- STATE_20515:0 "Some State"
- STATE_20516:0 "Some State"
- STATE_20517:0 "Some State"
- STATE_20518:0 "Some State"
- STATE_20519:0 "Some State"
- STATE_20520:0 "Some State"
- STATE_20521:0 "Some State"
- STATE_20522:0 "Some State"
- STATE_20523:0 "Some State"
- STATE_20524:0 "Some State"
- STATE_20525:0 "Some State"
- STATE_20526:0 "Some State"
- STATE_20527:0 "Some State"
- STATE_20528:0 "Some State"
- STATE_20529:0 "Some State"
- STATE_20530:0 "Some State"
- STATE_20531:0 "Some State"
- STATE_20532:0 "Some State"
- STATE_20533:0 "Some State"
- STATE_20534:0 "Some State"
- STATE_20535:0 "Some State"
- STATE_20536:0 "Some State"
- STATE_20537:0 "Some State"
- STATE_20538:0 "Some State"
- STATE_20539:0 "Some State"
- STATE_20540:0 "Some State"
- STATE_20541:0 "Some State"
- STATE_20542:0 "Some State"
- STATE_20543:0 "Some State"
- STATE_20544:0 "Some State"
- STATE_20545:0 "Some State"
- STATE_20546:0 "Some State"
- STATE_20547:0 "Some State"
- STATE_20548:0 "Some State"
- STATE_20549:0 "Some State"
- STATE_20550:0 "Some State"
- STATE_20551:0 "Some State"
- STATE_20552:0 "Some State"
- STATE_20553:0 "Some State"
- STATE_20554:0 "Some State"
- STATE_20555:0 "Some State"
- STATE_20556:0 "Some State"
- STATE_20557:0 "Some State"
- STATE_20558:0 "Some State"
- STATE_20559:0 "Some State"
- STATE_20560:0 "Some State"
- STATE_20561:0 "Some State"
- STATE_20562:0 "Some State"
- STATE_20563:0 "Some State"
- STATE_20564:0 "Some State"
- STATE_20565:0 "Some State"
- STATE_20566:0 "Some State"
- STATE_20567:0 "Some State"
- STATE_20568:0 "Some State"
- STATE_20569:0 "Some State"
- STATE_20570:0 "Some State"
- STATE_20571:0 "Some State"
- STATE_20572:0 "Some State"
- STATE_20573:0 "Tessalit"
- STATE_20574:0 "Some State"
- STATE_20575:0 "Some State"
- STATE_20576:0 "Some State"
- STATE_20577:0 "Some State"
- STATE_20578:0 "Some State"
- STATE_20579:0 "Some State"
- STATE_20580:0 "Some State"
- STATE_20581:0 "Some State"
- STATE_20582:0 "Some State"
- STATE_20583:0 "Some State"
- STATE_20584:0 "Some State"
- STATE_20585:0 "Some State"
- STATE_20586:0 "Some State"
- STATE_20587:0 "Some State"
- STATE_20588:0 "Some State"
- STATE_20589:0 "Some State"
- STATE_20590:0 "Some State"
- STATE_20591:0 "Some State"
- STATE_20592:0 "Some State"
- STATE_20593:0 "Some State"
- STATE_20594:0 "Some State"
- STATE_20595:0 "Some State"
- STATE_20596:0 "Some State"
- STATE_20597:0 "Some State"
- STATE_20598:0 "Some State"
- STATE_20599:0 "Some State"
- STATE_20600:0 "Some State"
- STATE_20601:0 "Some State"
- STATE_20602:0 "Some State"
- STATE_20603:0 "Some State"
- STATE_20604:0 "Some State"
- STATE_20605:0 "Some State"
- STATE_20606:0 "Some State"
- STATE_20607:0 "Some State"
- STATE_20608:0 "Some State"
- STATE_20609:0 "Some State"
- STATE_20610:0 "Some State"
- STATE_20611:0 "Some State"
- STATE_20612:0 "Some State"
- STATE_20613:0 "Some State"
- STATE_20614:0 "Some State"
- STATE_20615:0 "Some State"
- STATE_20616:0 "Some State"
- STATE_20617:0 "Some State"
- STATE_20618:0 "Some State"
- STATE_20619:0 "Some State"
- STATE_20620:0 "Some State"
- STATE_20621:0 "Some State"
- STATE_20622:0 "Some State"
- STATE_20623:0 "Some State"
- STATE_20624:0 "Some State"
- STATE_20625:0 "Some State"
- STATE_20626:0 "Some State"
- STATE_20627:0 "Some State"
- STATE_20628:0 "Some State"
- STATE_20629:0 "Some State"
- STATE_20630:0 "Some State"
- STATE_20631:0 "Some State"
- STATE_20632:0 "Some State"
- STATE_20633:0 "Some State"
- STATE_20634:0 "Some State"
- STATE_20635:0 "Some State"
- STATE_20636:0 "Some State"
- STATE_20637:0 "Some State"
- STATE_20638:0 "Some State"
- STATE_20639:0 "Some State"
- STATE_20640:0 "Some State"
- STATE_20641:0 "Some State"
- STATE_20642:0 "Some State"
- STATE_20643:0 "Some State"
- STATE_20644:0 "Some State"
- STATE_20645:0 "Some State"
- STATE_20646:0 "Some State"
- STATE_20647:0 "Some State"
- STATE_20648:0 "Some State"
- STATE_20649:0 "Some State"
- STATE_20650:0 "Some State"
- STATE_20651:0 "Some State"
- STATE_20652:0 "Some State"
- STATE_20653:0 "Some State"
- STATE_20654:0 "Some State"
- STATE_20655:0 "Some State"
- STATE_20656:0 "Shu'afat"
- STATE_20657:0 "Some State"
- STATE_20658:0 "Some State"
- STATE_20659:0 "Some State"
- STATE_20660:0 "Some State"
- STATE_20661:0 "Some State"
- STATE_20662:0 "Some State"
- STATE_20663:0 "Some State"
- STATE_20664:0 "Some State"
- STATE_20665:0 "Some State"
- STATE_20666:0 "Some State"
- STATE_20667:0 "Some State"
- STATE_20668:0 "Some State"
- STATE_20669:0 "Some State"
- STATE_20670:0 "Some State"
- STATE_20671:0 "Some State"
- STATE_20672:0 "Some State"
- STATE_20673:0 "Some State"
- STATE_20674:0 "Some State"
- STATE_20675:0 "Some State"
- STATE_20676:0 "Some State"
- STATE_20677:0 "Some State"
- STATE_20678:0 "Some State"
- STATE_20679:0 "Some State"
- STATE_20680:0 "Some State"
- STATE_20681:0 "Some State"
- STATE_20682:0 "Some State"
- STATE_20683:0 "Some State"
- STATE_20684:0 "Some State"
- STATE_20685:0 "Some State"
- STATE_20686:0 "Some State"
- STATE_20687:0 "Some State"
- STATE_20688:0 "Some State"
- STATE_20689:0 "Some State"
- STATE_20690:0 "Some State"
- STATE_20691:0 "Some State"
- STATE_20692:0 "Some State"
- STATE_20693:0 "Some State"
- STATE_20694:0 "Some State"
- STATE_20695:0 "Some State"
- STATE_20696:0 "Some State"
- STATE_20697:0 "Some State"
- STATE_20698:0 "Some State"
- STATE_20699:0 "Some State"
- STATE_20700:0 "Some State"
- STATE_20701:0 "Some State"
- STATE_20702:0 "Some State"
- STATE_20703:0 "Some State"
- STATE_20704:0 "Some State"
- STATE_20705:0 "Some State"
- STATE_20706:0 "Some State"
- STATE_20707:0 "Some State"
- STATE_20708:0 "Some State"
- STATE_20709:0 "Some State"
- STATE_20710:0 "Some State"
- STATE_20711:0 "Some State"
- STATE_20712:0 "Some State"
- STATE_20713:0 "Some State"
- STATE_20714:0 "Some State"
- STATE_20715:0 "Some State"
- STATE_20716:0 "Some State"
- STATE_20717:0 "Some State"
- STATE_20718:0 "Some State"
- STATE_20719:0 "Some State"
- STATE_20720:0 "Some State"
- STATE_20721:0 "Some State"
- STATE_20722:0 "Some State"
- STATE_20723:0 "Some State"
- STATE_20724:0 "Some State"
- STATE_20725:0 "Some State"
- STATE_20726:0 "Some State"
- STATE_20727:0 "Some State"
- STATE_20728:0 "Some State"
- STATE_20729:0 "Some State"
- STATE_20730:0 "Some State"
- STATE_20731:0 "Some State"
- STATE_20732:0 "Some State"
- STATE_20733:0 "Some State"
- STATE_20734:0 "Some State"
- STATE_20735:0 "Some State"
- STATE_20736:0 "Some State"
- STATE_20737:0 "Some State"
- STATE_20738:0 "Some State"
- STATE_20739:0 "Some State"
- STATE_20740:0 "Some State"
- STATE_20741:0 "Some State"
- STATE_20742:0 "Some State"
- STATE_20743:0 "Some State"
- STATE_20744:0 "Some State"
- STATE_20745:0 "Some State"
- STATE_20746:0 "Some State"
- STATE_20747:0 "Some State"
- STATE_20748:0 "Some State"
- STATE_20749:0 "Some State"
- STATE_20750:0 "Some State"
- STATE_20751:0 "Some State"
- STATE_20752:0 "Some State"
- STATE_20753:0 "Some State"
- STATE_20754:0 "Some State"
- STATE_20755:0 "Some State"
- STATE_20756:0 "Some State"
- STATE_20757:0 "Some State"
- STATE_20758:0 "Some State"
- STATE_20759:0 "Some State"
- STATE_20760:0 "Some State"
- STATE_20761:0 "Some State"
- STATE_20762:0 "Some State"
- STATE_20763:0 "Some State"
- STATE_20764:0 "Some State"
- STATE_20765:0 "Some State"
- STATE_20766:0 "Some State"
- STATE_20767:0 "Some State"
- STATE_20768:0 "Some State"
- STATE_20769:0 "Some State"
- STATE_20770:0 "Some State"
- STATE_20771:0 "Some State"
- STATE_20772:0 "Some State"
- STATE_20773:0 "Some State"
- STATE_20774:0 "Some State"
- STATE_20775:0 "Some State"
- STATE_20776:0 "Some State"
- STATE_20777:0 "Some State"
- STATE_20778:0 "Some State"
- STATE_20779:0 "Some State"
- STATE_20780:0 "Some State"
- STATE_20781:0 "Some State"
- STATE_20782:0 "Some State"
- STATE_20783:0 "Some State"
- STATE_20784:0 "Some State"
- STATE_20785:0 "Some State"
- STATE_20786:0 "Some State"
- STATE_20787:0 "Some State"
- STATE_20788:0 "Some State"
- STATE_20789:0 "Some State"
- STATE_20790:0 "Some State"
- STATE_20791:0 "Some State"
- STATE_20792:0 "Some State"
- STATE_20793:0 "Some State"
- STATE_20794:0 "Some State"
- STATE_20795:0 "Some State"
- STATE_20796:0 "Some State"
- STATE_20797:0 "Some State"
- STATE_20798:0 "Some State"
- STATE_20799:0 "Some State"
- STATE_20800:0 "Some State"
- STATE_20801:0 "Some State"
- STATE_20802:0 "Some State"
- STATE_20803:0 "Some State"
- STATE_20804:0 "Some State"
- STATE_20805:0 "Some State"
- STATE_20806:0 "Some State"
- STATE_20807:0 "Some State"
- STATE_20808:0 "Some State"
- STATE_20809:0 "Some State"
- STATE_20810:0 "Some State"
- STATE_20811:0 "Some State"
- STATE_20812:0 "Some State"
- STATE_20813:0 "Some State"
- STATE_20814:0 "Some State"
- STATE_20815:0 "Some State"
- STATE_20816:0 "Some State"
- STATE_20817:0 "Some State"
- STATE_20818:0 "Some State"
- STATE_20819:0 "Some State"
- STATE_20820:0 "Some State"
- STATE_20821:0 "Some State"
- STATE_20822:0 "Some State"
- STATE_20823:0 "Some State"
- STATE_20824:0 "Some State"
- STATE_20825:0 "Some State"
- STATE_20826:0 "Some State"
- STATE_20827:0 "Some State"
- STATE_20828:0 "Some State"
- STATE_20829:0 "Some State"
- STATE_20830:0 "Some State"
- STATE_20831:0 "Some State"
- STATE_20832:0 "Some State"
- STATE_20833:0 "Some State"
- STATE_20834:0 "Some State"
- STATE_20835:0 "Some State"
- STATE_20836:0 "Some State"
- STATE_20837:0 "Some State"
- STATE_20838:0 "Some State"
- STATE_20839:0 "Some State"
- STATE_20840:0 "Some State"
- STATE_20841:0 "Some State"
- STATE_20842:0 "Some State"
- STATE_20843:0 "Some State"
- STATE_20844:0 "Some State"
- STATE_20845:0 "Some State"
- STATE_20846:0 "Some State"
- STATE_20847:0 "Some State"
- STATE_20848:0 "Some State"
- STATE_20849:0 "Some State"
- STATE_20850:0 "Some State"
- STATE_20851:0 "Some State"
- STATE_20852:0 "Some State"
- STATE_20853:0 "Some State"
- STATE_20854:0 "Some State"
- STATE_20855:0 "Some State"
- STATE_20856:0 "Some State"
- STATE_20857:0 "Some State"
- STATE_20858:0 "Some State"
- STATE_20859:0 "Some State"
- STATE_20860:0 "Some State"
- STATE_20861:0 "Some State"
- STATE_20862:0 "Some State"
- STATE_20863:0 "Some State"
- STATE_20864:0 "Some State"
- STATE_20865:0 "Some State"
- STATE_20866:0 "Some State"
- STATE_20867:0 "Some State"
- STATE_20868:0 "Some State"
- STATE_20869:0 "Some State"
- STATE_20870:0 "Some State"
- STATE_20871:0 "Some State"
- STATE_20872:0 "Some State"
- STATE_20873:0 "Some State"
- STATE_20874:0 "Some State"
- STATE_20875:0 "Some State"
- STATE_20876:0 "Some State"
- STATE_20877:0 "Some State"
- STATE_20878:0 "Some State"
- STATE_20879:0 "Some State"
- STATE_20880:0 "Some State"
- STATE_20881:0 "Some State"
- STATE_20882:0 "Some State"
- STATE_20883:0 "Some State"
- STATE_20884:0 "Some State"
- STATE_20885:0 "Some State"
- STATE_20886:0 "Some State"
- STATE_20887:0 "Some State"
- STATE_20888:0 "Some State"
- STATE_20889:0 "Some State"
- STATE_20890:0 "Some State"
- STATE_20891:0 "Some State"
- STATE_20892:0 "Some State"
- STATE_20893:0 "Some State"
- STATE_20894:0 "Some State"
- STATE_20895:0 "Some State"
- STATE_20896:0 "Some State"
- STATE_20897:0 "Some State"
- STATE_20898:0 "Some State"
- STATE_20899:0 "Some State"
- STATE_20900:0 "Some State"
- STATE_20901:0 "Some State"
- STATE_20902:0 "Some State"
- STATE_20903:0 "Some State"
- STATE_20904:0 "Some State"
- STATE_20905:0 "Some State"
- STATE_20906:0 "Some State"
- STATE_20907:0 "Some State"
- STATE_20908:0 "Some State"
- STATE_20909:0 "Some State"
- STATE_20910:0 "Some State"
- STATE_20911:0 "Some State"
- STATE_20912:0 "Some State"
- STATE_20913:0 "Some State"
- STATE_20914:0 "Some State"
- STATE_20915:0 "Some State"
- STATE_20916:0 "Some State"
- STATE_20917:0 "Some State"
- STATE_20918:0 "Some State"
- STATE_20919:0 "Some State"
- STATE_20920:0 "Some State"
- STATE_20921:0 "Some State"
- STATE_20922:0 "Some State"
- STATE_20923:0 "Some State"
- STATE_20924:0 "Some State"
- STATE_20925:0 "Some State"
- STATE_20926:0 "Some State"
- STATE_20927:0 "Some State"
- STATE_20928:0 "Some State"
- STATE_20929:0 "Some State"
- STATE_20930:0 "Some State"
- STATE_20931:0 "Some State"
- STATE_20932:0 "Some State"
- STATE_20933:0 "Some State"
- STATE_20934:0 "Some State"
- STATE_20935:0 "Some State"
- STATE_20936:0 "Some State"
- STATE_20937:0 "Some State"
- STATE_20938:0 "Some State"
- STATE_20939:0 "Some State"
- STATE_20940:0 "Some State"
- STATE_20941:0 "Some State"
- STATE_20942:0 "Some State"
- STATE_20943:0 "Some State"
- STATE_20944:0 "Some State"
- STATE_20945:0 "Some State"
- STATE_20946:0 "Some State"
- STATE_20947:0 "Some State"
- STATE_20948:0 "Some State"
- STATE_20949:0 "Some State"
- STATE_20950:0 "Some State"
- STATE_20951:0 "Some State"
- STATE_20952:0 "Some State"
- STATE_20953:0 "Some State"
- STATE_20954:0 "Some State"
- STATE_20955:0 "Some State"
- STATE_20956:0 "Some State"
- STATE_20957:0 "Some State"
- STATE_20958:0 "Some State"
- STATE_20959:0 "Some State"
- STATE_20960:0 "Some State"
- STATE_20961:0 "Some State"
- STATE_20962:0 "Some State"
- STATE_20963:0 "Some State"
- STATE_20964:0 "Some State"
- STATE_20965:0 "Some State"
- STATE_20966:0 "Some State"
- STATE_20967:0 "Some State"
- STATE_20968:0 "Some State"
- STATE_20969:0 "Some State"
- STATE_20970:0 "Some State"
- STATE_20971:0 "Some State"
- STATE_20972:0 "Some State"
- STATE_20973:0 "Some State"
- STATE_20974:0 "Some State"
- STATE_20975:0 "Some State"
- STATE_20976:0 "Some State"
- STATE_20977:0 "Some State"
- STATE_20978:0 "Some State"
- STATE_20979:0 "Some State"
- STATE_20980:0 "Some State"
- STATE_20981:0 "Some State"
- STATE_20982:0 "Some State"
- STATE_20983:0 "Some State"
- STATE_20984:0 "Some State"
- STATE_20985:0 "Some State"
- STATE_20986:0 "Some State"
- STATE_20987:0 "Some State"
- STATE_20988:0 "Some State"
- STATE_20989:0 "Some State"
- STATE_20990:0 "Some State"
- STATE_20991:0 "Some State"
- STATE_20992:0 "Some State"
- STATE_20993:0 "Some State"
- STATE_20994:0 "Some State"
- STATE_20995:0 "Some State"
- STATE_20996:0 "Some State"
- STATE_20997:0 "Some State"
- STATE_20998:0 "Some State"
- STATE_20999:0 "Some State"
- STATE_21000:0 "Some State"
+ STATE_19883:0 "Nant Kot"
+ STATE_19884:0 "Mong Yaw"
+ STATE_19885:0 "Manpang"
+ STATE_19886:0 "Hilvan"
+ STATE_19887:0 "Htuchaung"
+ STATE_19888:0 "Nanmekhon"
+ STATE_19889:0 "Mawdaung"
+ STATE_19890:0 "Kyauk Gyi"
+ STATE_19891:0 "Thandwe"
+ STATE_19892:0 "Leksand"
+ STATE_19893:0 "En Nahud"
+ STATE_19894:0 "Sudanese Desert"
+ STATE_19895:0 "Aravete"
+ STATE_19896:0 "NOT USED"
+ STATE_19897:0 "NOT USED"
+ STATE_19898:0 "Soomaa"
+ STATE_19899:0 "Val"
+ STATE_19900:0 "Tannourine"
+ STATE_19901:0 "NOT USED"
+ STATE_19902:0 "Abu Seid"
+ STATE_19903:0 "NOT USED"
+ STATE_19904:0 "NOT USED"
+ STATE_19905:0 "Abu Daql"
+ STATE_19906:0 "Faiqat"
+ STATE_19907:0 "NOT USED"
+ STATE_19908:0 "NOT USED"
+ STATE_19909:0 "Valmiera"
+ STATE_19910:0 "Odziena"
+ STATE_19911:0 "Aizkraukle"
+ STATE_19912:0 "Adelaye"
+ STATE_19913:0 "Nysh"
+ STATE_19914:0 "NOT USED"
+ STATE_19915:0 "Burmese Blade of Grass"
+ STATE_19916:0 "Burmese Blade of Grass"
+ STATE_19917:0 "NOT USED"
+ STATE_19918:0 "Staryi Ostropil"
+ STATE_19919:0 "Ar Ramtha"
+ STATE_19920:0 "Ghawr Al-Mazra'a"
+ STATE_19921:0 "Shatawi"
+ STATE_19922:0 "Er Rahad"
+ STATE_19923:0 "Boungou"
+ STATE_19924:0 "Tapa"
+ STATE_19925:0 "Djibouti"
+ STATE_19926:0 "Muroran"
+ STATE_19927:0 "Kihelkonna"
+ STATE_19928:0 "NOT USED"
+ STATE_19929:0 "As Sarab"
+ STATE_19930:0 "Ozerskoe"
+ STATE_19931:0 "Nahariyya"
+ STATE_19932:0 "Mas'ada"
+ STATE_19933:0 "Chekhov"
+ STATE_19934:0 "Kiryat Gat"
+ STATE_19935:0 "Gornji Vakuf-Uskoplje"
+ STATE_19936:0 "Faqqu"
+ STATE_19937:0 "Ropaži"
+ STATE_19938:0 "Visoko"
+ STATE_19939:0 "Ma'in"
+ STATE_19940:0 "Muhu"
+ STATE_19941:0 "As Sunaytah"
+ STATE_19942:0 "Burmese Blade of Grass"
+ STATE_19943:0 "Burmese Blade of Grass"
+ STATE_19944:0 "Burmese Blade of Grass"
+ STATE_19945:0 "Sinyavskoe"
+ STATE_19946:0 "Amran"
+ STATE_19947:0 "Yemeni Desert"
+ STATE_19948:0 "Paide"
+ STATE_19949:0 "Fata Burnu"
+ STATE_19950:0 "Gaujiena"
+ STATE_19951:0 "NOT USED"
+ STATE_19952:0 "NOT USED"
+ STATE_19953:0 "NOT USED"
+ STATE_19954:0 "NOT USED"
+ STATE_19955:0 "NOT USED"
+ STATE_19956:0 "NOT USED"
+ STATE_19957:0 "NOT USED"
+ STATE_19958:0 "NOT USED"
+ STATE_19959:0 "Alam-Pedja"
+ STATE_19960:0 "NOT USED"
+ STATE_19961:0 "NOT USED"
+ STATE_19962:0 "NOT USED"
+ STATE_19963:0 "NOT USED"
+ STATE_19964:0 "NOT USED"
+ STATE_19965:0 "NOT USED"
+ STATE_19966:0 "NOT USED"
+ STATE_19967:0 "NOT USED"
+ STATE_19968:0 "NOT USED"
+ STATE_19969:0 "NOT USED"
+ STATE_19970:0 "NOT USED"
+ STATE_19971:0 "NOT USED"
+ STATE_19972:0 "Meihob"
+ STATE_19973:0 "NOT USED"
+ STATE_19974:0 "NOT USED"
+ STATE_19975:0 "Kamsura"
+ STATE_19976:0 "Sudanese Desert"
+ STATE_19977:0 "NOT USED"
+ STATE_19978:0 "Nayoro"
+ STATE_19979:0 "Esso"
+ STATE_19980:0 "Kardia"
+ STATE_19981:0 "Anzawija"
+ STATE_19982:0 "Nurdagi"
+ STATE_19983:0 "Al Qadr"
+ STATE_19984:0 "Vlasivka"
+ STATE_19985:0 "NOT USED"
+ STATE_19986:0 "Nyangoma"
+ STATE_19987:0 "Sudanese Wilderness"
+ STATE_19988:0 "Tori"
+ STATE_19989:0 "Gotska Sandön"
+ STATE_19990:0 "Balbi"
+ STATE_19991:0 "Kasim al Raqqas"
+ STATE_19992:0 "Sudanese Wilderness"
+ STATE_19993:0 "Kobani"
+ STATE_19994:0 "Bismil"
+ STATE_19995:0 "Umm el Jimal"
+ STATE_19996:0 "NOT USED"
+ STATE_19997:0 "NOT USED"
+ STATE_19998:0 "Apuka"
+ STATE_19999:0 "Gornozavodsk-Korsakov"
+ STATE_20000:0 "Kadikoy"
+ STATE_20001:0 "NOT USED"
+ STATE_20002:0 "Ivashka"
+ STATE_20003:0 "Tomakomai"
+ STATE_20004:0 "Koyuluk"
+ STATE_20005:0 "NOT USED"
+ STATE_20006:0 "Bukhta Dezhnova"
+ STATE_20007:0 "Shimamaki"
+ STATE_20008:0 "Horokanai"
+ STATE_20009:0 "Bandar Imam Khomeini"
+ STATE_20010:0 "NOT USED"
+ STATE_20011:0 "NOT USED"
+ STATE_20012:0 "NOT USED"
+ STATE_20013:0 "Beringovskii"
+ STATE_20014:0 "Gora Khuvkoitun"
+ STATE_20015:0 "Somali State"
+ STATE_20016:0 "Shinhidaka"
+ STATE_20017:0 "Ozernovskii"
+ STATE_20018:0 "Neot Samadar"
+ STATE_20019:0 "NOT USED"
+ STATE_20020:0 "NOT USED"
+ STATE_20021:0 "NOT USED"
+ STATE_20022:0 "NOT USED"
+ STATE_20023:0 "NOT USED"
+ STATE_20024:0 "NOT USED"
+ STATE_20025:0 "NOT USED"
+ STATE_20026:0 "NOT USED"
+ STATE_20027:0 "NOT USED"
+ STATE_20028:0 "NOT USED"
+ STATE_20029:0 "NOT USED"
+ STATE_20030:0 "NOT USED"
+ STATE_20031:0 "NOT USED"
+ STATE_20032:0 "NOT USED"
+ STATE_20033:0 "NOT USED"
+ STATE_20034:0 "NOT USED"
+ STATE_20035:0 "NOT USED"
+ STATE_20036:0 "NOT USED"
+ STATE_20037:0 "NOT USED"
+ STATE_20038:0 "NOT USED"
+ STATE_20039:0 "NOT USED"
+ STATE_20040:0 "NOT USED"
+ STATE_20041:0 "NOT USED"
+ STATE_20042:0 "NOT USED"
+ STATE_20043:0 "NOT USED"
+ STATE_20044:0 "NOT USED"
+ STATE_20045:0 "NOT USED"
+ STATE_20046:0 "NOT USED"
+ STATE_20047:0 "Gunde Weyn"
+ STATE_20048:0 "NOT USED"
+ STATE_20049:0 "Spogi"
+ STATE_20050:0 "Preili"
+ STATE_20051:0 "NOT USED"
+ STATE_20052:0 "Gora Lopatina"
+ STATE_20053:0 "NOT USED"
+ STATE_20054:0 "Badhaadhe"
+ STATE_20055:0 "Kaxas"
+ STATE_20056:0 "NOT USED"
+ STATE_20057:0 "Janaaniqa"
+ STATE_20058:0 "Riga"
+ STATE_20059:0 "Maghar"
+ STATE_20060:0 "Ammarnas"
+ STATE_20061:0 "Nogliki"
+ STATE_20062:0 "Miyano"
+ STATE_20063:0 "Sudanese Desert"
+ STATE_20064:0 "NOT USED"
+ STATE_20065:0 "Salha"
+ STATE_20066:0 "NOT USED"
+ STATE_20067:0 "NOT USED"
+ STATE_20068:0 "NOT USED"
+ STATE_20069:0 "NOT USED"
+ STATE_20070:0 "NOT USED"
+ STATE_20071:0 "NOT USED"
+ STATE_20072:0 "NOT USED"
+ STATE_20073:0 "NOT USED"
+ STATE_20074:0 "Rama Setu"
+ STATE_20075:0 "NOT USED"
+ STATE_20076:0 "NOT USED"
+ STATE_20077:0 "Usvyaty"
+ STATE_20078:0 "Sudanese Desert"
+ STATE_20079:0 "NOT USED"
+ STATE_20080:0 "Usoditse"
+ STATE_20081:0 "NOT USED"
+ STATE_20082:0 "Burtrask"
+ STATE_20083:0 "NOT USED"
+ STATE_20084:0 "Svenstavik"
+ STATE_20085:0 "NOT USED"
+ STATE_20086:0 "NOT USED"
+ STATE_20087:0 "NOT USED"
+ STATE_20088:0 "NOT USED"
+ STATE_20089:0 "Rajaei"
+ STATE_20090:0 "Al-Faw"
+ STATE_20091:0 "Aynskoye"
+ STATE_20092:0 "Sudanese Desert"
+ STATE_20093:0 "NOT USED"
+ STATE_20094:0 "Eufaula
+ STATE_20095:0 "Raqi"
+ STATE_20096:0 "Kosti"
+ STATE_20097:0 "NOT USED"
+ STATE_20098:0 "Gallivare"
+ STATE_20099:0 "Bani Yusuf"
+ STATE_20100:0 "Algabin"
+ STATE_20101:0 "Mukaradeeb"
+ STATE_20102:0 "Razwicz"
+ STATE_20103:0 "Majiang"
+ STATE_20104:0 "Xaafuun"
+ STATE_20105:0 "Yilanguluke"
+ STATE_20106:0 "Abdali"
+ STATE_20107:0 "Ergani"
+ STATE_20108:0 "Dhlail"
+ STATE_20109:0 "Tel Khanzir"
+ STATE_20110:0 "Ostrów Wielkopolski"
+ STATE_20111:0 "Frydek-Mistek"
+ STATE_20112:0 "Saylac"
+ STATE_20113:0 "Stara Lubovna"
+ STATE_20114:0 "Prudnik"
+ STATE_20115:0 "Sudanese Desert"
+ STATE_20116:0 "Milicz"
+ STATE_20117:0 "Kepno-Wieruszow"
+ STATE_20118:0 "Krotoszyn"
+ STATE_20119:0 "Mokre"
+ STATE_20120:0 "Zákamenné"
+ STATE_20121:0 "Tabivere"
+ STATE_20122:0 "Lohusuu"
+ STATE_20123:0 "Sudanese Desert"
+ STATE_20124:0 "Nekrasovka"
+ STATE_20125:0 "Sudanese Desert"
+ STATE_20126:0 "Skujene"
+ STATE_20127:0 "Abu Humayrah"
+ STATE_20128:0 "Ape"
+ STATE_20129:0 "Pereiaslav"
+ STATE_20130:0 "Erimo"
+ STATE_20131:0 "Haboro"
+ STATE_20132:0 "Liepna"
+ STATE_20133:0 "Abu Zeeriga"
+ STATE_20134:0 "Cape Crillon"
+ STATE_20135:0 "Qarayah Qata"
+ STATE_20136:0 "NOT USED"
+ STATE_20137:0 "Charlottenberg"
+ STATE_20138:0 "Khartoum North"
+ STATE_20139:0 "Skeltova"
+ STATE_20140:0 "Nizhnee Pronge"
+ STATE_20141:0 "Rozeni"
+ STATE_20142:0 "Ein al-Basha"
+ STATE_20143:0 "Kuzmin"
+ STATE_20144:0 "Yakumo"
+ STATE_20145:0 "Sudanese Desert"
+ STATE_20146:0 "Plavinas"
+ STATE_20147:0 "NOT USED"
+ STATE_20148:0 "NOT USED"
+ STATE_20149:0 "NOT USED"
+ STATE_20150:0 "NOT USED"
+ STATE_20151:0 "NOT USED"
+ STATE_20152:0 "NOT USED"
+ STATE_20153:0 "NOT USED"
+ STATE_20154:0 "NOT USED"
+ STATE_20155:0 "NOT USED"
+ STATE_20156:0 "NOT USED"
+ STATE_20157:0 "NOT USED"
+ STATE_20158:0 "NOT USED"
+ STATE_20159:0 "NOT USED"
+ STATE_20160:0 "NOT USED"
+ STATE_20161:0 "NOT USED"
+ STATE_20162:0 "NOT USED"
+ STATE_20163:0 "Lihula"
+ STATE_20164:0 "Lumbala"
+ STATE_20165:0 "NOT USED"
+ STATE_20166:0 "NOT USED"
+ STATE_20167:0 "NOT USED"
+ STATE_20168:0 "NOT USED"
+ STATE_20169:0 "NOT USED"
+ STATE_20170:0 "NOT USED"
+ STATE_20171:0 "NOT USED"
+ STATE_20172:0 "NOT USED"
+ STATE_20173:0 "NOT USED"
+ STATE_20174:0 "NOT USED"
+ STATE_20175:0 "NOT USED"
+ STATE_20176:0 "NOT USED"
+ STATE_20177:0 "Dagda"
+ STATE_20178:0 "Swedish Lakes"
+ STATE_20179:0 "Obal"
+ STATE_20180:0 "NOT USED"
+ STATE_20181:0 "NOT USED"
+ STATE_20182:0 "NOT USED"
+ STATE_20183:0 "NOT USED"
+ STATE_20184:0 "NOT USED"
+ STATE_20185:0 "Bar Elias"
+ STATE_20186:0 "Tebnine"
+ STATE_20187:0 "Falun"
+ STATE_20188:0 "Zasitino"
+ STATE_20189:0 "Lebanese Blade of Grass"
+ STATE_20190:0 "Velikye Luki"
+ STATE_20191:0 "East Karlstad"
+ STATE_20192:0 "Naqoura"
+ STATE_20193:0 "Aglona"
+ STATE_20194:0 "Vansbro"
+ STATE_20195:0 "Vārkava"
+ STATE_20196:0 "Fulufjället"
+ STATE_20197:0 "El Mkhalles Monastery"
+ STATE_20198:0 "Elektrenai"
+ STATE_20199:0 "NOT USED"
+ STATE_20200:0 "Vallvik"
+ STATE_20201:0 "NOT USED"
+ STATE_20202:0 "Angolan State"
+ STATE_20203:0 "NOT USED"
+ STATE_20204:0 "NOT USED"
+ STATE_20205:0 "Qardho"
+ STATE_20206:0 "NOT USED"
+ STATE_20207:0 "Mir Ali"
+ STATE_20208:0 "NOT USED"
+ STATE_20209:0 "Siga"
+ STATE_20210:0 "World Headquarters of the Bektashi"
+ STATE_20211:0 "Obukhiv"
+ STATE_20212:0 "Teman"
+ STATE_20213:0 "Celic"
+ STATE_20214:0 "Andrupene"
+ STATE_20215:0 "Karbole"
+ STATE_20216:0 "NOT USED"
+ STATE_20217:0 "NOT USED"
+ STATE_20218:0 "NOT USED"
+ STATE_20219:0 "Belarus State"
+ STATE_20220:0 "Svietlahorsk"
+ STATE_20221:0 "Zalingei"
+ STATE_20222:0 "Zaiceva"
+ STATE_20223:0 "Sudanese Desert"
+ STATE_20224:0 "Snijeznica"
+ STATE_20225:0 "Shuna"
+ STATE_20226:0 "Al Mirewa"
+ STATE_20227:0 "NOT USED"
+ STATE_20228:0 "NOT USED"
+ STATE_20229:0 "NOT USED"
+ STATE_20230:0 "NOT USED"
+ STATE_20231:0 "Stary Hrozenkov"
+ STATE_20232:0 "NOT USED"
+ STATE_20233:0 "Naqadeh"
+ STATE_20234:0 "NOT USED"
+ STATE_20235:0 "Ugale"
+ STATE_20236:0 "Lapmežciems"
+ STATE_20237:0 "Saqadi"
+ STATE_20238:0 "Feifa"
+ STATE_20239:0 "Uglegorsk"
+ STATE_20240:0 "NOT USED"
+ STATE_20241:0 "Laholm"
+ STATE_20242:0 "Ed"
+ STATE_20243:0 "NOT USED"
+ STATE_20244:0 "Sudanese Desert"
+ STATE_20245:0 "Umm Hashab"
+ STATE_20246:0 "Mash'abei Sadeh"
+ STATE_20247:0 "Masada"
+ STATE_20248:0 "Sindhupalchowk"
+ STATE_20249:0 "Tall Rifat"
+ STATE_20250:0 "Lod"
+ STATE_20251:0 "Velizh"
+ STATE_20252:0 "NOT USED"
+ STATE_20253:0 "NOT USED"
+ STATE_20254:0 "NOT USED"
+ STATE_20255:0 "Ponizov'ye"
+ STATE_20256:0 "Fors"
+ STATE_20257:0 "NOT USED"
+ STATE_20258:0 "Khartoum North"
+ STATE_20259:0 "Basna"
+ STATE_20260:0 "Sarajevo"
+ STATE_20261:0 "Sudanese Desert"
+ STATE_20262:0 "Sudanese Desert"
+ STATE_20263:0 "Afikim"
+ STATE_20264:0 "Yemil'chyne"
+ STATE_20265:0 "Shumyachi"
+ STATE_20266:0 "Molossia"
+ STATE_20267:0 "Kahramanmaras"
+ STATE_20268:0 "Uberlingen"
+ STATE_20269:0 "Prijedor"
+ STATE_20270:0 "Sanica"
+ STATE_20271:0 "Glavaticevo"
+ STATE_20272:0 "Sudanese Desert"
+ STATE_20273:0 "Avezzano"
+ STATE_20274:0 "Glamoc"
+ STATE_20275:0 "Karakax"
+ STATE_20276:0 "Diyarbakir"
+ STATE_20277:0 "An Namateh"
+ STATE_20278:0 "Nubl-Zahraa"
+ STATE_20279:0 "Sudanese Desert"
+ STATE_20280:0 "Bluffton"
+ STATE_20281:0 "Al Zorq"
+ STATE_20282:0 "Wureahu"
+ STATE_20283:0 "NOT USED"
+ STATE_20284:0 "Chojno"
+ STATE_20285:0 "Batroun"
+ STATE_20286:0 "NOT USED"
+ STATE_20287:0 "Nitaure"
+ STATE_20288:0 "Gaidas"
+ STATE_20289:0 "Sudanese Desert"
+ STATE_20290:0 "Sudanese Desert"
+ STATE_20291:0 "Akcakale"
+ STATE_20292:0 "Kale"
+ STATE_20293:0 "Nesterov"
+ STATE_20294:0 "Zarbah"
+ STATE_20295:0 "Malbork
+ STATE_20296:0 "Qazr Al-Jillat"
+ STATE_20297:0 "Cakirkaya"
+ STATE_20298:0 "Ubrique"
+ STATE_20299:0 "Caluula"
+ STATE_20300:0
+ STATE_20301:0
+ STATE_20302:0
+ STATE_20303:0
+ STATE_20304:0
+ STATE_20305:0
+ STATE_20306:0
+ STATE_20307:0
+ STATE_20308:0
+ STATE_20309:0
+ STATE_20310:0
+ STATE_20311:0
+ STATE_20312:0
+ STATE_20313:0
+ STATE_20314:0
+ STATE_20315:0
+ STATE_20316:0
+ STATE_20317:0
+ STATE_20318:0
+ STATE_20319:0
+ STATE_20320:0
+ STATE_20321:0
+ STATE_20322:0
+ STATE_20323:0
+ STATE_20324:0
+ STATE_20325:0
+ STATE_20326:0
+ STATE_20327:0
+ STATE_20328:0 "Tarnaby"
+ STATE_20329:0
+ STATE_20330:0
+ STATE_20331:0
+ STATE_20332:0
+ STATE_20333:0
+ STATE_20334:0
+ STATE_20335:0
+ STATE_20336:0 "Valdemarpils"
+ STATE_20337:0 "Kupres"
+ STATE_20338:0
+ STATE_20339:0
+ STATE_20340:0
+ STATE_20341:0
+ STATE_20342:0
+ STATE_20343:0
+ STATE_20344:0
+ STATE_20345:0 "Sigulda"
+ STATE_20346:0
+ STATE_20347:0
+ STATE_20348:0
+ STATE_20349:0
+ STATE_20350:0
+ STATE_20351:0
+ STATE_20352:0
+ STATE_20353:0
+ STATE_20354:0
+ STATE_20355:0
+ STATE_20356:0
+ STATE_20357:0
+ STATE_20358:0
+ STATE_20359:0
+ STATE_20360:0
+ STATE_20361:0
+ STATE_20362:0
+ STATE_20363:0
+ STATE_20364:0
+ STATE_20365:0
+ STATE_20366:0
+ STATE_20367:0
+ STATE_20368:0
+ STATE_20369:0
+ STATE_20370:0
+ STATE_20371:0
+ STATE_20372:0
+ STATE_20373:0
+ STATE_20374:0
+ STATE_20375:0
+ STATE_20376:0 "Subate"
+ STATE_20377:0 "Karsava"
+ STATE_20378:0 "Peleci"
+ STATE_20379:0
+ STATE_20380:0 "Robeznieki"
+ STATE_20381:0
+ STATE_20382:0 "Teslic"
+ STATE_20383:0
+ STATE_20384:0
+ STATE_20385:0
+ STATE_20386:0 "Foca"
+ STATE_20387:0
+ STATE_20388:0
+ STATE_20389:0
+ STATE_20390:0
+ STATE_20391:0
+ STATE_20392:0
+ STATE_20393:0
+ STATE_20394:0
+ STATE_20395:0
+ STATE_20396:0
+ STATE_20397:0
+ STATE_20398:0
+ STATE_20399:0
+ STATE_20400:0 "Lubinje
+ STATE_20401:0 "Prnjavor"
+ STATE_20402:0
+ STATE_20403:0 "Scenica"
+ STATE_20404:0
+ STATE_20405:0
+ STATE_20406:0 "Ravno"
+ STATE_20407:0
+ STATE_20408:0 "Lukavica"
+ STATE_20409:0
+ STATE_20410:0
+ STATE_20411:0
+ STATE_20412:0
+ STATE_20413:0
+ STATE_20414:0
+ STATE_20415:0 "Berzkrogs"
+ STATE_20416:0
+ STATE_20417:0
+ STATE_20418:0
+ STATE_20419:0
+ STATE_20420:0 "Olaine"
+ STATE_20421:0
+ STATE_20422:0
+ STATE_20423:0
+ STATE_20424:0
+ STATE_20425:0
+ STATE_20426:0
+ STATE_20427:0 "Vlasenica"
+ STATE_20428:0
+ STATE_20429:0
+ STATE_20430:0
+ STATE_20431:0
+ STATE_20432:0
+ STATE_20433:0
+ STATE_20434:0
+ STATE_20435:0
+ STATE_20436:0
+ STATE_20437:0
+ STATE_20438:0
+ STATE_20439:0
+ STATE_20440:0
+ STATE_20441:0
+ STATE_20442:0 "Lasikuizhen"
+ STATE_20443:0
+ STATE_20444:0
+ STATE_20445:0
+ STATE_20446:0
+ STATE_20447:0
+ STATE_20448:0
+ STATE_20449:0
+ STATE_20450:0
+ STATE_20451:0
+ STATE_20452:0
+ STATE_20453:0
+ STATE_20454:0
+ STATE_20455:0
+ STATE_20456:0
+ STATE_20457:0
+ STATE_20458:0
+ STATE_20459:0
+ STATE_20460:0
+ STATE_20461:0
+ STATE_20462:0 "Rozupe"
+ STATE_20463:0
+ STATE_20464:0
+ STATE_20465:0
+ STATE_20466:0 "Kljuc"
+ STATE_20467:0
+ STATE_20468:0
+ STATE_20469:0 "Targale"
+ STATE_20470:0
+ STATE_20471:0
+ STATE_20472:0
+ STATE_20473:0
+ STATE_20474:0
+ STATE_20475:0
+ STATE_20476:0
+ STATE_20477:0
+ STATE_20478:0
+ STATE_20479:0
+ STATE_20480:0 "Pavilosta"
+ STATE_20481:0
+ STATE_20482:0
+ STATE_20483:0
+ STATE_20484:0
+ STATE_20485:0
+ STATE_20486:0
+ STATE_20487:0
+ STATE_20488:0
+ STATE_20489:0
+ STATE_20490:0
+ STATE_20491:0
+ STATE_20492:0
+ STATE_20493:0
+ STATE_20494:0
+ STATE_20495:0
+ STATE_20496:0 "Rumboci"
+ STATE_20497:0
+ STATE_20498:0 "Parsabad"
+ STATE_20499:0
+ STATE_20500:0
+ STATE_20501:0
+ STATE_20502:0
+ STATE_20503:0
+ STATE_20504:0
+ STATE_20505:0
+ STATE_20506:0
+ STATE_20507:0
+ STATE_20508:0
+ STATE_20509:0
+ STATE_20510:0 "Ogre"
+ STATE_20511:0
+ STATE_20512:0
+ STATE_20513:0
+ STATE_20514:0
+ STATE_20515:0
+ STATE_20516:0
+ STATE_20517:0
+ STATE_20518:0
+ STATE_20519:0
+ STATE_20520:0
+ STATE_20521:0
+ STATE_20522:0
+ STATE_20523:0
+ STATE_20524:0
+ STATE_20525:0
+ STATE_20526:0
+ STATE_20527:0
+ STATE_20528:0
+ STATE_20529:0
+ STATE_20530:0
+ STATE_20531:0
+ STATE_20532:0
+ STATE_20533:0
+ STATE_20534:0 "Dhunche"
+ STATE_20535:0
+ STATE_20536:0 "Cadavac"
+ STATE_20537:0 "Tarcin"
+ STATE_20538:0
+ STATE_20539:0 "Karakaj
+ STATE_20540:0
+ STATE_20541:0
+ STATE_20542:0
+ STATE_20543:0
+ STATE_20544:0 "Kagera"
+ STATE_20545:0
+ STATE_20546:0
+ STATE_20547:0
+ STATE_20548:0
+ STATE_20549:0
+ STATE_20550:0
+ STATE_20551:0
+ STATE_20552:0
+ STATE_20553:0
+ STATE_20554:0
+ STATE_20555:0
+ STATE_20556:0
+ STATE_20557:0
+ STATE_20558:0
+ STATE_20559:0
+ STATE_20560:0
+ STATE_20561:0
+ STATE_20562:0 "Tomislavgrad"
+ STATE_20563:0
+ STATE_20564:0
+ STATE_20565:0
+ STATE_20566:0
+ STATE_20567:0
+ STATE_20568:0
+ STATE_20569:0
+ STATE_20570:0
+ STATE_20571:0 "Nevesinje"
+ STATE_20572:0 "Ivanica"
+ STATE_20573:0
+ STATE_20574:0
+ STATE_20575:0
+ STATE_20576:0
+ STATE_20577:0 "Krnjeusa"
+ STATE_20578:0
+ STATE_20579:0
+ STATE_20580:0
+ STATE_20581:0
+ STATE_20582:0
+ STATE_20583:0
+ STATE_20584:0
+ STATE_20585:0
+ STATE_20586:0
+ STATE_20587:0
+ STATE_20588:0
+ STATE_20589:0
+ STATE_20590:0
+ STATE_20591:0
+ STATE_20592:0
+ STATE_20593:0
+ STATE_20594:0
+ STATE_20595:0
+ STATE_20596:0
+ STATE_20597:0
+ STATE_20598:0 "Suica"
+ STATE_20599:0
+ STATE_20600:0
+ STATE_20601:0 "Cesis"
+ STATE_20602:0
+ STATE_20603:0
+ STATE_20604:0 "Olovo"
+ STATE_20605:0
+ STATE_20606:0
+ STATE_20607:0
+ STATE_20608:0
+ STATE_20609:0
+ STATE_20610:0
+ STATE_20611:0
+ STATE_20612:0
+ STATE_20613:0
+ STATE_20614:0
+ STATE_20615:0
+ STATE_20616:0
+ STATE_20617:0
+ STATE_20618:0 "Bosanski Petrovac"
+ STATE_20619:0
+ STATE_20620:0
+ STATE_20621:0
+ STATE_20622:0
+ STATE_20623:0 "Vergale"
+ STATE_20624:0
+ STATE_20625:0
+ STATE_20626:0
+ STATE_20627:0
+ STATE_20628:0
+ STATE_20629:0
+ STATE_20630:0
+ STATE_20631:0
+ STATE_20632:0
+ STATE_20633:0
+ STATE_20634:0
+ STATE_20635:0
+ STATE_20636:0
+ STATE_20637:0
+ STATE_20638:0
+ STATE_20639:0
+ STATE_20640:0
+ STATE_20641:0
+ STATE_20642:0
+ STATE_20643:0
+ STATE_20644:0
+ STATE_20645:0
+ STATE_20646:0
+ STATE_20647:0
+ STATE_20648:0
+ STATE_20649:0
+ STATE_20650:0
+ STATE_20651:0
+ STATE_20652:0
+ STATE_20653:0
+ STATE_20654:0 "Petrovo"
+ STATE_20655:0 "Berkovici"
+ STATE_20656:0
+ STATE_20657:0
+ STATE_20658:0
+ STATE_20659:0
+ STATE_20660:0
+ STATE_20661:0
+ STATE_20662:0
+ STATE_20663:0
+ STATE_20664:0
+ STATE_20665:0
+ STATE_20666:0
+ STATE_20667:0
+ STATE_20668:0
+ STATE_20669:0
+ STATE_20670:0
+ STATE_20671:0
+ STATE_20672:0
+ STATE_20673:0
+ STATE_20674:0
+ STATE_20675:0
+ STATE_20676:0 "Takelamaganshamo"
+ STATE_20677:0
+ STATE_20678:0
+ STATE_20679:0
+ STATE_20680:0
+ STATE_20681:0
+ STATE_20682:0
+ STATE_20683:0
+ STATE_20684:0
+ STATE_20685:0
+ STATE_20686:0 "Jumprava"
+ STATE_20687:0
+ STATE_20688:0
+ STATE_20689:0 "Ayamajiang"
+ STATE_20690:0
+ STATE_20691:0
+ STATE_20692:0
+ STATE_20693:0
+ STATE_20694:0
+ STATE_20695:0 "Bunazi"
+ STATE_20696:0
+ STATE_20697:0
+ STATE_20698:0
+ STATE_20699:0
+ STATE_20700:0
+ STATE_20701:0
+ STATE_20702:0
+ STATE_20703:0
+ STATE_20704:0
+ STATE_20705:0
+ STATE_20706:0
+ STATE_20707:0
+ STATE_20708:0
+ STATE_20709:0
+ STATE_20710:0
+ STATE_20711:0
+ STATE_20712:0
+ STATE_20713:0
+ STATE_20714:0
+ STATE_20715:0
+ STATE_20716:0
+ STATE_20717:0
+ STATE_20718:0
+ STATE_20719:0
+ STATE_20720:0
+ STATE_20721:0
+ STATE_20722:0
+ STATE_20723:0
+ STATE_20724:0
+ STATE_20725:0
+ STATE_20726:0
+ STATE_20727:0
+ STATE_20728:0
+ STATE_20729:0
+ STATE_20730:0
+ STATE_20731:0
+ STATE_20732:0
+ STATE_20733:0
+ STATE_20734:0
+ STATE_20735:0
+ STATE_20736:0
+ STATE_20737:0
+ STATE_20738:0
+ STATE_20739:0
+ STATE_20740:0
+ STATE_20741:0
+ STATE_20742:0
+ STATE_20743:0
+ STATE_20744:0
+ STATE_20745:0
+ STATE_20746:0
+ STATE_20747:0
+ STATE_20748:0
+ STATE_20749:0
+ STATE_20750:0
+ STATE_20751:0
+ STATE_20752:0
+ STATE_20753:0
+ STATE_20754:0
+ STATE_20755:0
+ STATE_20756:0
+ STATE_20757:0
+ STATE_20758:0
+ STATE_20759:0
+ STATE_20760:0
+ STATE_20761:0
+ STATE_20762:0
+ STATE_20763:0
+ STATE_20764:0
+ STATE_20765:0
+ STATE_20766:0
+ STATE_20767:0
+ STATE_20768:0
+ STATE_20769:0
+ STATE_20770:0
+ STATE_20771:0
+ STATE_20772:0
+ STATE_20773:0
+ STATE_20774:0
+ STATE_20775:0
+ STATE_20776:0
+ STATE_20777:0
+ STATE_20778:0
+ STATE_20779:0
+ STATE_20780:0
+ STATE_20781:0
+ STATE_20782:0
+ STATE_20783:0
+ STATE_20784:0
+ STATE_20785:0
+ STATE_20786:0
+ STATE_20787:0
+ STATE_20788:0
+ STATE_20789:0
+ STATE_20790:0
+ STATE_20791:0
+ STATE_20792:0
+ STATE_20793:0
+ STATE_20794:0
+ STATE_20795:0
+ STATE_20796:0
+ STATE_20797:0
+ STATE_20798:0
+ STATE_20799:0
+ STATE_20800:0
+ STATE_20801:0
+ STATE_20802:0
+ STATE_20803:0
+ STATE_20804:0
+ STATE_20805:0
+ STATE_20806:0
+ STATE_20807:0
+ STATE_20808:0
+ STATE_20809:0
+ STATE_20810:0
+ STATE_20811:0
+ STATE_20812:0
+ STATE_20813:0
+ STATE_20814:0
+ STATE_20815:0
+ STATE_20816:0
+ STATE_20817:0
+ STATE_20818:0
+ STATE_20819:0
+ STATE_20820:0
+ STATE_20821:0
+ STATE_20822:0
+ STATE_20823:0
+ STATE_20824:0
+ STATE_20825:0
+ STATE_20826:0
+ STATE_20827:0
+ STATE_20828:0
+ STATE_20829:0
+ STATE_20830:0
+ STATE_20831:0
+ STATE_20832:0
+ STATE_20833:0
+ STATE_20834:0
+ STATE_20835:0
+ STATE_20836:0
+ STATE_20837:0
+ STATE_20838:0
+ STATE_20839:0
+ STATE_20840:0
+ STATE_20841:0
+ STATE_20842:0
+ STATE_20843:0
+ STATE_20844:0
+ STATE_20845:0
+ STATE_20846:0
+ STATE_20847:0
+ STATE_20848:0
+ STATE_20849:0
+ STATE_20850:0
+ STATE_20851:0
+ STATE_20852:0
+ STATE_20853:0
+ STATE_20854:0
+ STATE_20855:0
+ STATE_20856:0
+ STATE_20857:0
+ STATE_20858:0
+ STATE_20859:0
+ STATE_20860:0
+ STATE_20861:0
+ STATE_20862:0
+ STATE_20863:0
+ STATE_20864:0
+ STATE_20865:0
+ STATE_20866:0
+ STATE_20867:0
+ STATE_20868:0
+ STATE_20869:0
+ STATE_20870:0
+ STATE_20871:0
+ STATE_20872:0
+ STATE_20873:0
+ STATE_20874:0
+ STATE_20875:0
+ STATE_20876:0
+ STATE_20877:0
+ STATE_20878:0
+ STATE_20879:0
+ STATE_20880:0
+ STATE_20881:0
+ STATE_20882:0
+ STATE_20883:0
+ STATE_20884:0
+ STATE_20885:0
+ STATE_20886:0
+ STATE_20887:0
+ STATE_20888:0
+ STATE_20889:0
+ STATE_20890:0
+ STATE_20891:0
+ STATE_20892:0
+ STATE_20893:0
+ STATE_20894:0
+ STATE_20895:0
+ STATE_20896:0
+ STATE_20897:0
+ STATE_20898:0
+ STATE_20899:0
+ STATE_20900:0
+ STATE_20901:0
+ STATE_20902:0
+ STATE_20903:0
+ STATE_20904:0
+ STATE_20905:0
+ STATE_20906:0
+ STATE_20907:0
+ STATE_20908:0
+ STATE_20909:0
+ STATE_20910:0
+ STATE_20911:0
+ STATE_20912:0
+ STATE_20913:0
+ STATE_20914:0
+ STATE_20915:0
+ STATE_20916:0
+ STATE_20917:0
+ STATE_20918:0
+ STATE_20919:0
+ STATE_20920:0
+ STATE_20921:0
+ STATE_20922:0
+ STATE_20923:0
+ STATE_20924:0
+ STATE_20925:0
+ STATE_20926:0
+ STATE_20927:0
+ STATE_20928:0
+ STATE_20929:0
+ STATE_20930:0
+ STATE_20931:0
+ STATE_20932:0
+ STATE_20933:0
+ STATE_20934:0
+ STATE_20935:0
+ STATE_20936:0
+ STATE_20937:0
+ STATE_20938:0
+ STATE_20939:0
+ STATE_20940:0
+ STATE_20941:0
+ STATE_20942:0
+ STATE_20943:0
+ STATE_20944:0
+ STATE_20945:0
+ STATE_20946:0
+ STATE_20947:0
+ STATE_20948:0
+ STATE_20949:0
+ STATE_20950:0
+ STATE_20951:0
+ STATE_20952:0
+ STATE_20953:0
+ STATE_20954:0
+ STATE_20955:0
+ STATE_20956:0
+ STATE_20957:0
+ STATE_20958:0
+ STATE_20959:0
+ STATE_20960:0
+ STATE_20961:0
+ STATE_20962:0
+ STATE_20963:0
+ STATE_20964:0
+ STATE_20965:0
+ STATE_20966:0
+ STATE_20967:0
+ STATE_20968:0
+ STATE_20969:0
+ STATE_20970:0
+ STATE_20971:0
+ STATE_20972:0
+ STATE_20973:0
+ STATE_20974:0
+ STATE_20975:0
+ STATE_20976:0
+ STATE_20977:0
+ STATE_20978:0
+ STATE_20979:0
+ STATE_20980:0
+ STATE_20981:0
+ STATE_20982:0
+ STATE_20983:0
+ STATE_20984:0
+ STATE_20985:0 "Kiyasar"
+ STATE_20986:0
+ STATE_20987:0
+ STATE_20988:0
+ STATE_20989:0
+ STATE_20990:0
+ STATE_20991:0
+ STATE_20992:0
+ STATE_20993:0
+ STATE_20994:0
+ STATE_20995:0
+ STATE_20996:0
+ STATE_20997:0
+ STATE_20998:0
+ STATE_20999:0
+ STATE_21000:0
+ STATE_21001:0 "Birgunj"
+ STATE_21002:0 "Dharan"
+ STATE_21003:0 "Phungling"
+ STATE_21004:0
+ STATE_21005:0
+ STATE_21006:0
+ STATE_21007:0
+ STATE_21008:0
+ STATE_21009:0 "Kalateh-ye"
+ STATE_21010:0
+ STATE_21011:0
+ STATE_21012:0
+ STATE_21013:0
+ STATE_21014:0
+ STATE_21015:0
+ STATE_21016:0
+ STATE_21017:0
+ STATE_21018:0
+ STATE_21019:0
+ STATE_21020:0
+ STATE_21021:0
+ STATE_21022:0
+ STATE_21023:0
+ STATE_21024:0
+ STATE_21025:0
+ STATE_21026:0
+ STATE_21027:0
+ STATE_21028:0
+ STATE_21029:0
+ STATE_21030:0
+ STATE_21031:0
+ STATE_21032:0
+ STATE_21033:0
+ STATE_21034:0
+ STATE_21035:0
+ STATE_21036:0
+ STATE_21037:0
+ STATE_21038:0
+ STATE_21039:0
+ STATE_21040:0
+ STATE_21041:0
+ STATE_21042:0
+ STATE_21043:0
+ STATE_21044:0
+ STATE_21045:0
+ STATE_21046:0
+ STATE_21047:0
+ STATE_21048:0
+ STATE_21049:0
+ STATE_21050:0
+ STATE_21051:0
+ STATE_21052:0
+ STATE_21053:0
+ STATE_21054:0
+ STATE_21055:0
+ STATE_21056:0
+ STATE_21057:0
+ STATE_21058:0
+ STATE_21059:0
+ STATE_21060:0
+ STATE_21061:0

@@ -1,19 +1,16 @@
 
 state={
 	id=20516
-	name="MEMES_STATE_20516"
+	name="STATE_20516"
 	
 	provinces={
 		11111
 	}
 	
 	history={
-		owner = WTR
-		add_core_of = WTR
-		
-		
-        
-        
+		owner = AFG
+		add_core_of = AFG
+		add_core_of = KBU
 	}
 	
 	manpower=1

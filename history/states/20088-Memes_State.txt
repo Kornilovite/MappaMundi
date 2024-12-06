@@ -1,10 +1,12 @@
 state={
 	id=20088
-	name="MEMES_STATE_20088"
+	name="STATE_20088"
 	history={
-		owner = WTR
-		add_core_of = WTR  
-		
+		owner = WAA
+		add_core_of = WAA
+		add_core_of = PAK
+		add_core_of = RAJ
+		add_core_of = PSH
 	}
 	provinces={
        	397

@@ -1,15 +1,15 @@
 state={
 	id=20479
-	name="MEMES_STATE_20479"
+	name="STATE_20479"
 	provinces={
 		19884
 	}
 	history={
-		owner = WTR
-		add_core_of = WTR
-		
-		
-		
+		owner = WAA
+		add_core_of = WAA
+		add_core_of = PAK
+		add_core_of = RAJ
+		add_core_of = PSH
 	}
 	manpower = 1000
 	state_category = pastoral
